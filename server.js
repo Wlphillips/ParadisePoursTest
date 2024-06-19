@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-//CORS Middleware
+// CORS Middleware
 app.use((req, res, next) => 
 {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -22,11 +22,11 @@ app.use((req, res, next) =>
   next();
 });
 
-//Wrapper that connects to MongDB using connectDatabase() import
+// Wrapper that connects to MongoDB using connectDatabase() import
 connectDatabase().then(() => {
-  //API Section
+  // API Section
   const userAPI = require('./API/user');
-  app.use('/api', userAPI); //To access user APIs, you would need to add '/api' before any route (i.e. /api/login)
+  app.use('/api', userAPI); // To access user APIs, you would need to add '/api' before any route (i.e. /api/login)
 
-  app.listen(5000); //Starts server on port 5000
+  app.listen(5000); // Starts server on port 5000
 })
