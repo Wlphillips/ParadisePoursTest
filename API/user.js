@@ -2,8 +2,7 @@ const express = require('express');
 const {getClient} = require('../database');
 const router = express.Router();
 
-
-//User Registration
+// User Registration
 router.post('/register', async (req, res, next) => {
     const db = getClient().db('AlcoholDatabase');
     const {UserId, FirstName, LastName, Username, Password, Email, Phone} = req.body
@@ -11,7 +10,7 @@ router.post('/register', async (req, res, next) => {
     await db.collection('Users').insertOne(user);
 });
 
-//User Login
+// User Login
 router.post('/login', async (req, res, next) => {
     const db = getClient().db('AlcoholDatabase');
     var error = ''
