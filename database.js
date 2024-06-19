@@ -18,7 +18,7 @@ function getClient() {
   return client;
 }
 
-//Closes connection to database
+// Closes connection to database
 async function closeDatabase() {
   try {
     await client.close();
