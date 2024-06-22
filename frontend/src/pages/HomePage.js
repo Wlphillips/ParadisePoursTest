@@ -1,10 +1,10 @@
 import React from 'react';
-import '.css/BeerPage.css';
+import './components/HomePage.css';
 import beerImage from './images/Home_pouring_beer.jpg';
 
 const BeerPage = () => {
   return (
-    <div className="beer-page">
+    <div className="home-page">
       <div className="header">
         <div className="menu">Menu</div>
         <div className="beer">Beer</div>
@@ -22,4 +22,4 @@ const BeerPage = () => {
   );
 };
 
-export default BeerPage;
+export default HomePage;
