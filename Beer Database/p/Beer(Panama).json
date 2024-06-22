@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "Panama Lager",
+        "Company": "Cervecería Barú-Panama",
+        "Style": "Pale Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Panama",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Balboa",
+        "Company": "Cervecería Barú-Panama",
+        "Style": "Pale Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Panama",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Soberana",
+        "Company": "Cervecería Barú-Panama",
+        "Style": "Pale Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Panama",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Balboa Ice",
+        "Company": "Cervecería Barú-Panama",
+        "Style": "Pale Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Panama",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Atlas Golden Light",
+        "Company": "Cervecería Nacional",
+        "Style": "Pale Lager",
+        "ABV": 4.5,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Panama",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Atlas Lager",
+        "Company": "Cervecería Nacional",
+        "Style": "Pale Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Panama",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Soberana Light",
+        "Company": "Cervecería Barú-Panama",
+        "Style": "Light Lager",
+        "ABV": 3.8,
+        "Calories": 110,
+        "oz": 12,
+        "Origin": "Panama",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Soberana Ice",
+        "Company": "Cervecería Barú-Panama",
+        "Style": "Pale Lager",
+        "ABV": 5.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Panama",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

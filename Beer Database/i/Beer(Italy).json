@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "Baladin Isaac",
+        "Company": "Baladin Brewery",
+        "Style": "Witbier",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Italy",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Birra del Borgo ReAle",
+        "Company": "Birra del Borgo Brewery",
+        "Style": "American Pale Ale",
+        "ABV": 6.4,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Italy",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Birrificio Italiano Tipopils",
+        "Company": "Birrificio Italiano",
+        "Style": "Pilsner",
+        "ABV": 5.2,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Italy",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Menabrea Ambrata",
+        "Company": "Menabrea Brewery",
+        "Style": "Amber Lager",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Italy",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Baladin Nora",
+        "Company": "Baladin Brewery",
+        "Style": "Herbed / Spiced Beer",
+        "ABV": 6.8,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Italy",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Birra del Borgo Duchessa",
+        "Company": "Birra del Borgo Brewery",
+        "Style": "Grisette",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Italy",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Birrificio Italiano Scires",
+        "Company": "Birrificio Italiano",
+        "Style": "Sour Ale",
+        "ABV": 6.5,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Italy",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Birra del Borgo Cortigiana",
+        "Company": "Birra del Borgo Brewery",
+        "Style": "Belgian Pale Ale",
+        "ABV": 5.2,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Italy",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

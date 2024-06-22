@@ -1,0 +1,223 @@
+[
+    {
+        "Name": "Victoria Bitter (VB)",
+        "Company": "Carlton & United Breweries (CUB)",
+        "Style": "Pale Lager",
+        "ABV": 4.9,
+        "Calories": 158,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Carlton Draught",
+        "Company": "Carlton & United Breweries (CUB)",
+        "Style": "Pale Lager",
+        "ABV": 4.6,
+        "Calories": 149,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Great Northern Original",
+        "Company": "Great Northern Brewing Co.",
+        "Style": "Lager",
+        "ABV": 4.2,
+        "Calories": 123,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Great Northern Super Crisp Lager",
+        "Company": "Great Northern Brewing Co.",
+        "Style": "Lager",
+        "ABV": 3.5,
+        "Calories": 107,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Great Northern Brewing Co. Original 3.5",
+        "Company": "Great Northern Brewing Co.",
+        "Style": "Lager",
+        "ABV": 3.5,
+        "Calories": 105,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Coopers Pale Ale",
+        "Company": "Coopers Brewery",
+        "Style": "Pale Ale",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Coopers Sparkling Ale",
+        "Company": "Coopers Brewery",
+        "Style": "Sparkling Ale",
+        "ABV": 5.8,
+        "Calories": 186,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Coopers Stout",
+        "Company": "Coopers Brewery",
+        "Style": "Stout",
+        "ABV": 6.3,
+        "Calories": 218,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Little Creatures Pale Ale",
+        "Company": "Little Creatures Brewery",
+        "Style": "Pale Ale",
+        "ABV": 5.2,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Little Creatures Bright Ale",
+        "Company": "Little Creatures Brewery",
+        "Style": "Golden Ale",
+        "ABV": 4.5,
+        "Calories": 148,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Little Creatures Rogers' Beer",
+        "Company": "Little Creatures Brewery",
+        "Style": "Amber Ale",
+        "ABV": 3.8,
+        "Calories": 130,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "James Squire 150 Lashes Pale Ale",
+        "Company": "James Squire Brewery",
+        "Style": "Pale Ale",
+        "ABV": 4.2,
+        "Calories": 151,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "James Squire The Chancer Golden Ale",
+        "Company": "James Squire Brewery",
+        "Style": "Golden Ale",
+        "ABV": 4.5,
+        "Calories": 162,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "James Squire One Fifty Lashes Cloudy Apple Cider",
+        "Company": "James Squire Brewery",
+        "Style": "Apple Cider",
+        "ABV": 4.2,
+        "Calories": 159,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stone & Wood Pacific Ale",
+        "Company": "Stone & Wood Brewing Co.",
+        "Style": "Australian Pale Ale",
+        "ABV": 4.4,
+        "Calories": 159,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stone & Wood Green Coast Lager",
+        "Company": "Stone & Wood Brewing Co.",
+        "Style": "Lager",
+        "ABV": 4.7,
+        "Calories": 151,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stone & Wood Cloud Catcher Pale Ale",
+        "Company": "Stone & Wood Brewing Co.",
+        "Style": "Pale Ale",
+        "ABV": 5.0,
+        "Calories": 162,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "4 Pines Pale Ale",
+        "Company": "4 Pines Brewing Company",
+        "Style": "Pale Ale",
+        "ABV": 5.1,
+        "Calories": 167,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "4 Pines Kolsch",
+        "Company": "4 Pines Brewing Company",
+        "Style": "Kolsch",
+        "ABV": 4.6,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "4 Pines American Amber Ale",
+        "Company": "4 Pines Brewing Company",
+        "Style": "Amber Ale",
+        "ABV": 5.1,
+        "Calories": 187,
+        "oz": 12,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
+

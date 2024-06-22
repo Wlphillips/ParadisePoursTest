@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Taiwan Beer",
+    "Company": "Taiwan Tobacco and Liquor Corporation",
+    "Style": "Lager",
+    "ABV": 4.5,
+    "Calories": 140,
+    "oz": 12,
+    "Origin": "Taiwan",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Taiwan Gold Medal Lager",
+    "Company": "Taiwan Tobacco and Liquor Corporation",
+    "Style": "Lager",
+    "ABV": 5.0,
+    "Calories": 150,
+    "oz": 12,
+    "Origin": "Taiwan",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "886 Brewing Company IPA",
+    "Company": "886 Brewing Company",
+    "Style": "IPA",
+    "ABV": 6.2,
+    "Calories": 200,
+    "oz": 12,
+    "Origin": "Taiwan",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Taihu Brewing Sunmai Wheat Ale",
+    "Company": "Taihu Brewing",
+    "Style": "Wheat Ale",
+    "ABV": 5.0,
+    "Calories": 180,
+    "oz": 12,
+    "Origin": "Taiwan",
+    "Rating": 0,
+    "Favorites": false
+  }
+]

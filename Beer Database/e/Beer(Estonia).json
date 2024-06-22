@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Saku Originaal",
+        "Company": "Saku Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Põhjala Öö",
+        "Company": "Põhjala Brewery",
+        "Style": "Imperial Stout",
+        "ABV": 10,
+        "Calories": 300,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Põhjala Öö Imperial Baltic Porter",
+        "Company": "Põhjala Brewery",
+        "Style": "Baltic Porter",
+        "ABV": 9,
+        "Calories": 280,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Põhjala Must Kuld",
+        "Company": "Põhjala Brewery",
+        "Style": "Porter",
+        "ABV": 7,
+        "Calories": 240,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lehe Õllenaut Oatmeal Stout",
+        "Company": "Lehe Brewery",
+        "Style": "Oatmeal Stout",
+        "ABV": 6,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lehe Limpa",
+        "Company": "Lehe Brewery",
+        "Style": "Rye Beer",
+        "ABV": 5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pihtla Õlu",
+        "Company": "Pihtla Brewery",
+        "Style": "Farmhouse Ale",
+        "ABV": 4,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tanker Maketen",
+        "Company": "Tanker Brewery",
+        "Style": "American IPA",
+        "ABV": 6,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tanker Rye Ale",
+        "Company": "Tanker Brewery",
+        "Style": "Rye Beer",
+        "ABV": 5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pühaste Sajand",
+        "Company": "Pühaste Brewery",
+        "Style": "Barleywine",
+        "ABV": 10,
+        "Calories": 300,
+        "oz": 12,
+        "Origin": "Estonia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

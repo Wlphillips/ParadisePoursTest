@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Aguila",
+        "Company": "Bavaria S.A.",
+        "Style": "Pale Lager",
+        "ABV": 4,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Poker",
+        "Company": "Bavaria S.A.",
+        "Style": "Pale Lager",
+        "ABV": 4,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Club Colombia Dorada",
+        "Company": "Bavaria S.A.",
+        "Style": "Pale Lager",
+        "ABV": 4.2,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Club Colombia Roja",
+        "Company": "Bavaria S.A.",
+        "Style": "Amber Lager",
+        "ABV": 4.7,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Club Colombia Negra",
+        "Company": "Bavaria S.A.",
+        "Style": "Dark Lager",
+        "ABV": 5,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "BBC Chapinero Porter",
+        "Company": "Bogotá Beer Company",
+        "Style": "Porter",
+        "ABV": 5.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "BBC Cajica Blonde Ale",
+        "Company": "Bogotá Beer Company",
+        "Style": "Blonde Ale",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "3 Cordilleras Mestiza",
+        "Company": "Cervecería 3 Cordilleras",
+        "Style": "American Pale Ale",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "3 Cordilleras Mulata",
+        "Company": "Cervecería 3 Cordilleras",
+        "Style": "Stout",
+        "ABV": 6.3,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tres Leones Pale Ale",
+        "Company": "Cervecería del Centro",
+        "Style": "Pale Ale",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Colombia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

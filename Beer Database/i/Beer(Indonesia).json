@@ -1,0 +1,79 @@
+[
+    {
+        "Name": "Bintang Pilsener",
+        "Company": "PT Multi Bintang Indonesia Tbk",
+        "Style": "Pilsner",
+        "ABV": 4.7,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Indonesia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Anker Beer",
+        "Company": "Delta Djakarta",
+        "Style": "Lager",
+        "ABV": 4.7,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Indonesia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Prost Beer",
+        "Company": "Prost Brewing Indonesia",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Indonesia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stark Beer",
+        "Company": "Stark Craft Beer",
+        "Style": "Wheat Beer",
+        "ABV": 4.9,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Indonesia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bali Hai Premium Lager",
+        "Company": "Bali Hai Brewery Indonesia",
+        "Style": "Lager",
+        "ABV": 4.7,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Indonesia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stark Wheat",
+        "Company": "Stark Craft Beer",
+        "Style": "Wheat Beer",
+        "ABV": 4.9,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Indonesia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bali Hai Premium",
+        "Company": "Bali Hai Brewery Indonesia",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Indonesia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

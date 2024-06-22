@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Hitachino Nest White Ale",
+        "Company": "Kiuchi Brewery",
+        "Style": "Witbier",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Sapporo Premium Beer",
+        "Company": "Sapporo Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Asahi Super Dry",
+        "Company": "Asahi Breweries",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Echigo Koshihikari",
+        "Company": "Echigo Beer Co.",
+        "Style": "Rice Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Yoho Brewing Yona Yona Ale",
+        "Company": "Yoho Brewing Company",
+        "Style": "American Pale Ale",
+        "ABV": 5.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hitachino Nest Espresso Stout",
+        "Company": "Kiuchi Brewery",
+        "Style": "Stout",
+        "ABV": 7.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Baird Beer Rising Sun Pale Ale",
+        "Company": "Baird Brewing Company",
+        "Style": "Pale Ale",
+        "ABV": 5.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kiuchi Hitachino Nest Red Rice Ale",
+        "Company": "Kiuchi Brewery",
+        "Style": "Specialty Grain",
+        "ABV": 7.0,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kirin Ichiban",
+        "Company": "Kirin Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kirin Light",
+        "Company": "Kirin Brewery",
+        "Style": "Light Lager",
+        "ABV": 3.3,
+        "Calories": 95,
+        "oz": 12,
+        "Origin": "Japan",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

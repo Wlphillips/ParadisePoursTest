@@ -1,0 +1,168 @@
+[
+    {
+        "Name": "Westvleteren 12 (XII)",
+        "Company": "Westvleteren Brewery",
+        "Style": "Quadrupel",
+        "ABV": 10,
+        "Calories": 320,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Westvleteren 8 (VIII)",
+        "Company": "Westvleteren Brewery",
+        "Style": "Dubbel",
+        "ABV": 8,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Westvleteren Blonde (6)",
+        "Company": "Westvleteren Brewery",
+        "Style": "Blonde Ale",
+        "ABV": 5.8,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cantillon Gueuze",
+        "Company": "Brasserie Cantillon",
+        "Style": "Gueuze",
+        "ABV": 5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cantillon Kriek",
+        "Company": "Brasserie Cantillon",
+        "Style": "Kriek",
+        "ABV": 5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cantillon Fou' Foune",
+        "Company": "Brasserie Cantillon",
+        "Style": "Fruit Lambic",
+        "ABV": 6,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Saison Dupont",
+        "Company": "Brasserie Dupont",
+        "Style": "Saison / Farmhouse Ale",
+        "ABV": 6.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Moinette Blonde",
+        "Company": "Brasserie Dupont",
+        "Style": "Belgian Pale Ale",
+        "ABV": 8.5,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Avec les Bons Voeux",
+        "Company": "Brasserie Dupont",
+        "Style": "Belgian Strong Pale Ale",
+        "ABV": 9.5,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Rodenbach Grand Cru",
+        "Company": "Brouwerij Rodenbach",
+        "Style": "Flanders Red Ale",
+        "ABV": 6,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Rodenbach Classic",
+        "Company": "Brouwerij Rodenbach",
+        "Style": "Flanders Red Ale",
+        "ABV": 5.2,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Rodenbach Caractère Rouge",
+        "Company": "Brouwerij Rodenbach",
+        "Style": "Fruit Beer",
+        "ABV": 7,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kwak",
+        "Company": "Brouwerij Bosteels",
+        "Style": "Belgian Strong Ale",
+        "ABV": 8.4,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tripel Karmeliet",
+        "Company": "Brouwerij Bosteels",
+        "Style": "Tripel",
+        "ABV": 8.4,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Deus Brut des Flandres",
+        "Company": "Brouwerij Bosteels",
+        "Style": "Bière de Champagne / Belgian Strong Ale",
+        "ABV": 11.5,
+        "Calories": 300,
+        "oz": 12,
+        "Origin": "Belgium",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
+

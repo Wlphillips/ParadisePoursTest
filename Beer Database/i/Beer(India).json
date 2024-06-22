@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "Kingfisher Premium Lager Beer",
+        "Company": "United Breweries Group",
+        "Style": "Lager",
+        "ABV": 4.8,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bira 91 Blonde Lager",
+        "Company": "Bira 91",
+        "Style": "Blonde Lager",
+        "ABV": 4.9,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bira 91 White",
+        "Company": "Bira 91",
+        "Style": "Witbier",
+        "ABV": 4.9,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bira 91 Strong",
+        "Company": "Bira 91",
+        "Style": "Strong Lager",
+        "ABV": 7.0,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "White Owl Spark",
+        "Company": "White Owl Brewery",
+        "Style": "IPA",
+        "ABV": 7.0,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "White Owl Ace",
+        "Company": "White Owl Brewery",
+        "Style": "Apple Cider",
+        "ABV": 4.5,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Simba Stout",
+        "Company": "Simba Beer",
+        "Style": "Stout",
+        "ABV": 4.8,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Simba Strong",
+        "Company": "Simba Beer",
+        "Style": "Strong Lager",
+        "ABV": 7.0,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

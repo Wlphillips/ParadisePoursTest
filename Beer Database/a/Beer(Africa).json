@@ -1,0 +1,167 @@
+[
+    {
+        "Name": "Castle Lager",
+        "Company": "SABMiller (South African Breweries)",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "South Africa",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Carling Black Label",
+        "Company": "SABMiller (South African Breweries)",
+        "Style": "Lager",
+        "ABV": 5.5,
+        "Calories": 155,
+        "oz": 12,
+        "Origin": "South Africa",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Castle Milk Stout",
+        "Company": "SABMiller (South African Breweries)",
+        "Style": "Stout",
+        "ABV": 6.0,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "South Africa",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Star Lager",
+        "Company": "Nigerian Breweries",
+        "Style": "Lager",
+        "ABV": 5.1,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Nigeria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gulder",
+        "Company": "Nigerian Breweries",
+        "Style": "Lager",
+        "ABV": 5.2,
+        "Calories": 148,
+        "oz": 12,
+        "Origin": "Nigeria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Heineken",
+        "Company": "Nigerian Breweries",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Nigeria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tusker Lager",
+        "Company": "East African Breweries",
+        "Style": "Lager",
+        "ABV": 4.2,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Kenya",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tusker Malt Lager",
+        "Company": "East African Breweries",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Kenya",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tusker Lite",
+        "Company": "East African Breweries",
+        "Style": "Light Lager",
+        "ABV": 4.0,
+        "Calories": 110,
+        "oz": 12,
+        "Origin": "Kenya",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Primus",
+        "Company": "Bralirwa",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Rwanda",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Mützig",
+        "Company": "Bralirwa",
+        "Style": "Lager",
+        "ABV": 5.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Rwanda",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Amstel",
+        "Company": "Bralirwa",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 148,
+        "oz": 12,
+        "Origin": "Rwanda",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Windhoek Lager",
+        "Company": "Namibia Breweries Limited",
+        "Style": "Lager",
+        "ABV": 4.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Namibia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Windhoek Draught",
+        "Company": "Namibia Breweries Limited",
+        "Style": "Lager",
+        "ABV": 4.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Namibia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tafel Lager",
+        "Company": "Namibia Breweries Limited",
+        "Style": "Lager",
+        "ABV": 4.0,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Namibia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

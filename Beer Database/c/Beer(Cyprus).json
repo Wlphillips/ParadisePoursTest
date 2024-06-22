@@ -1,0 +1,101 @@
+[
+    {
+        "Name": "KEO",
+        "Company": "KEO Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.5,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Cyprus",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "KEO St. Mena",
+        "Company": "Kanika Group",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Cyprus",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Carlsberg Cyprus",
+        "Company": "Carlsberg Group",
+        "Style": "Pale Lager",
+        "ABV": 4.8,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Cyprus",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Leon Premium Lager",
+        "Company": "Leon Beer",
+        "Style": "Pale Lager",
+        "ABV": 4.5,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Cyprus",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Keo Special",
+        "Company": "Kanika Group",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Cyprus",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "LEO",
+        "Company": "Kanika Group",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Cyprus",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cyprus Wheat Beer",
+        "Company": "Minerva Brewery",
+        "Style": "Wheat Beer",
+        "ABV": 4.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Cyprus",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Vasilikon Microbrewery Blonde Ale",
+        "Company": "Vasilikon Microbrewery",
+        "Style": "Blonde Ale",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Cyprus",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Sirius Pilsner",
+        "Company": "Sirius Brewery",
+        "Style": "Pilsner",
+        "ABV": 4.8,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Cyprus",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

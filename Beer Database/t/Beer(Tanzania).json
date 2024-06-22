@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Safari Lager",
+    "Company": "Tanzania Breweries Limited",
+    "Style": "Lager",
+    "ABV": 5.0,
+    "Calories": 150,
+    "oz": 12,
+    "Origin": "Tanzania",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Kilimanjaro Premium Lager",
+    "Company": "Tanzania Breweries Limited",
+    "Style": "Lager",
+    "ABV": 5.5,
+    "Calories": 160,
+    "oz": 12,
+    "Origin": "Tanzania",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Serengti Lager",
+    "Company": "Serengti Breweries Limited",
+    "Style": "Lager",
+    "ABV": 4.5,
+    "Calories": 140,
+    "oz": 12,
+    "Origin": "Tanzania",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Mbezi Honey Brown",
+    "Company": "Mbezi Brewing Company",
+    "Style": "Brown Ale",
+    "ABV": 6.0,
+    "Calories": 180,
+    "oz": 12,
+    "Origin": "Tanzania",
+    "Rating": 0,
+    "Favorites": false
+  }
+]

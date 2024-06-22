@@ -1,0 +1,101 @@
+[
+    {
+        "Name": "Tiger Beer",
+        "Company": "Asia Pacific Breweries",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Malaysia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Anchor Smooth Draught",
+        "Company": "Anchor Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Malaysia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Guinness Foreign Extra Stout",
+        "Company": "Guinness Anchor Berhad",
+        "Style": "Foreign / Export Stout",
+        "ABV": 6.8,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Malaysia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Carlsberg Smooth Draught",
+        "Company": "Carlsberg Malaysia",
+        "Style": "Pale Lager",
+        "ABV": 4.5,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Malaysia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Paulaner Hefe-Weißbier",
+        "Company": "Paulaner Brauhaus",
+        "Style": "Hefeweizen",
+        "ABV": 5.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Malaysia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stout",
+        "Company": "Asia Pacific Breweries",
+        "Style": "Stout",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Malaysia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kilkenny Irish Cream Ale",
+        "Company": "Guinness Anchor Berhad",
+        "Style": "Irish Red Ale",
+        "ABV": 4.3,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Malaysia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Connors Stout Porter",
+        "Company": "Guinness Anchor Berhad",
+        "Style": "Stout",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Malaysia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Asahi Super Dry",
+        "Company": "Asahi Breweries",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Malaysia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

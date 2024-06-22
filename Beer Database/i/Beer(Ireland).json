@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "Guinness Draught",
+        "Company": "Guinness",
+        "Style": "Irish Dry Stout",
+        "ABV": 4.2,
+        "Calories": 125,
+        "oz": 12,
+        "Origin": "Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Smithwick's Irish Ale",
+        "Company": "Smithwick's Brewery",
+        "Style": "Irish Red Ale",
+        "ABV": 4.5,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kilkenny Irish Cream Ale",
+        "Company": "Kilkenny Brewery",
+        "Style": "Irish Red Ale",
+        "ABV": 4.3,
+        "Calories": 162,
+        "oz": 12,
+        "Origin": "Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Murphy's Irish Stout",
+        "Company": "Murphy's Brewery",
+        "Style": "Irish Dry Stout",
+        "ABV": 4.0,
+        "Calories": 124,
+        "oz": 12,
+        "Origin": "Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Galway Bay Full Sail",
+        "Company": "Galway Bay Brewery",
+        "Style": "Irish Pale Ale",
+        "ABV": 4.3,
+        "Calories": 130,
+        "oz": 12,
+        "Origin": "Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "O'Hara's Irish Stout",
+        "Company": "Carlow Brewing Company",
+        "Style": "Irish Dry Stout",
+        "ABV": 4.3,
+        "Calories": 125,
+        "oz": 12,
+        "Origin": "Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "White Hag The Puca",
+        "Company": "White Hag Brewery",
+        "Style": "Irish Dry Stout",
+        "ABV": 4.2,
+        "Calories": 120,
+        "oz": 12,
+        "Origin": "Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Eight Degrees Sunburnt Irish Red Ale",
+        "Company": "Eight Degrees Brewing",
+        "Style": "Irish Red Ale",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Ireland",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

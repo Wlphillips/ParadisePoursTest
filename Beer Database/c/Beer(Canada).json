@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "La Fin du Monde",
+        "Company": "Unibroue",
+        "Style": "Tripel",
+        "ABV": 9,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Canada",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Blanche de Chambly",
+        "Company": "Unibroue",
+        "Style": "Witbier",
+        "ABV": 5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Canada",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Mad Tom IPA",
+        "Company": "Muskoka Brewery",
+        "Style": "IPA",
+        "ABV": 6,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Canada",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "St-Ambroise Oatmeal Stout",
+        "Company": "McAuslan Brewing",
+        "Style": "Oatmeal Stout",
+        "ABV": 5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Canada",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Péché Mortel",
+        "Company": "Brasserie Dieu du Ciel",
+        "Style": "Imperial Stout",
+        "ABV": 9,
+        "Calories": 300,
+        "oz": 12,
+        "Origin": "Canada",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

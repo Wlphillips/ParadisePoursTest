@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Żywiec Porter",
+        "Company": "Grupa Żywiec",
+        "Style": "Baltic Porter",
+        "ABV": 9.5,
+        "Calories": 280,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tyskie Gronie",
+        "Company": "Kompania Piwowarska (Asahi Breweries)",
+        "Style": "Euro Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lech Premium",
+        "Company": "Kompania Piwowarska (Asahi Breweries)",
+        "Style": "Euro Pale Lager",
+        "ABV": 5.2,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Warka",
+        "Company": "Browary Warka",
+        "Style": "Euro Pale Lager",
+        "ABV": 5.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Okocim",
+        "Company": "Carlsberg Group",
+        "Style": "Euro Pale Lager",
+        "ABV": 5.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Żywiec Bock",
+        "Company": "Grupa Żywiec",
+        "Style": "Bock",
+        "ABV": 6.5,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Perła Chmielowa",
+        "Company": "Browary Lubelskie",
+        "Style": "German Pilsner",
+        "ABV": 6.0,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Deer Bear Pale Ale",
+        "Company": "Browar Deer Bear",
+        "Style": "American Pale Ale",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pinta Atak Chmielu",
+        "Company": "Browar Pinta",
+        "Style": "Double IPA",
+        "ABV": 8.5,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Browar Artezan Amber Ale",
+        "Company": "Browar Artezan",
+        "Style": "Amber Ale",
+        "ABV": 5.5,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Poland",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

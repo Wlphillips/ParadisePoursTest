@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Heineken",
+        "Company": "Heineken International",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 142,
+        "oz": 12,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Amstel Lager",
+        "Company": "Amstel Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Grolsch Premium Lager",
+        "Company": "Grolsch Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 147,
+        "oz": 12,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Amstel Light",
+        "Company": "Amstel Brewery",
+        "Style": "Light Lager",
+        "ABV": 3.5,
+        "Calories": 95,
+        "oz": 12,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "La Trappe Quadrupel",
+        "Company": "Brouwerij de Koningshoeven",
+        "Style": "Quadrupel",
+        "ABV": 10.0,
+        "Calories": 320,
+        "oz": 12,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

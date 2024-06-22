@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Cusqueña",
+        "Company": "Backus y Johnston",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cristal",
+        "Company": "Backus y Johnston",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pilsen Callao",
+        "Company": "Backus y Johnston",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Arequipeña",
+        "Company": "Backus y Johnston",
+        "Style": "Pale Lager",
+        "ABV": 5.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cristal Trigo",
+        "Company": "Backus y Johnston",
+        "Style": "Wheat Beer",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cristal Malta",
+        "Company": "Backus y Johnston",
+        "Style": "Malt Liquor",
+        "ABV": 6.0,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cusqueña Quinua",
+        "Company": "Backus y Johnston",
+        "Style": "Quinoa Beer",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "San Juan",
+        "Company": "San Juan Brewery",
+        "Style": "Pale Ale",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cumbres",
+        "Company": "Cervecería del Valle Sagrado",
+        "Style": "IPA",
+        "ABV": 6.0,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Melkim",
+        "Company": "Melkim Brewery",
+        "Style": "Stout",
+        "ABV": 5.0,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Peru",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

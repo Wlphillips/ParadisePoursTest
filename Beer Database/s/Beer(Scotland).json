@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "BrewDog Punk IPA",
+        "Company": "BrewDog Brewery",
+        "Style": "IPA",
+        "ABV": 5.6,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Innis & Gunn Original",
+        "Company": "Innis & Gunn Brewery",
+        "Style": "Oak Aged Beer",
+        "ABV": 6.6,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Belhaven Scottish Ale",
+        "Company": "Belhaven Brewery",
+        "Style": "Scottish Ale",
+        "ABV": 5.2,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Harviestoun Ola Dubh",
+        "Company": "Harviestoun Brewery",
+        "Style": "Old Ale",
+        "ABV": 8.0,
+        "Calories": 240,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Williams Bros. Joker IPA",
+        "Company": "Williams Bros. Brewing Co.",
+        "Style": "IPA",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Orkney Dark Island",
+        "Company": "Orkney Brewery",
+        "Style": "Scotch Ale",
+        "ABV": 4.6,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Fyne Ales Jarl",
+        "Company": "Fyne Ales Brewery",
+        "Style": "Golden Ale",
+        "ABV": 3.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Black Isle Yellowhammer",
+        "Company": "Black Isle Brewery",
+        "Style": "Golden Ale",
+        "ABV": 4.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tempest Brave New World",
+        "Company": "Tempest Brewing Co.",
+        "Style": "IPA",
+        "ABV": 7.0,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cromarty Brewing Co. Happy Chappy",
+        "Company": "Cromarty Brewing Co.",
+        "Style": "Blonde Ale",
+        "ABV": 4.1,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

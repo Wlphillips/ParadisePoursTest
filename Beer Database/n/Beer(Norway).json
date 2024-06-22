@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Nøgne Ø Imperial Stout",
+        "Company": "Nøgne Ø",
+        "Style": "Imperial Stout",
+        "ABV": 9.0,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Norway",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Nøgne Ø IPA",
+        "Company": "Nøgne Ø",
+        "Style": "IPA",
+        "ABV": 7.5,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Norway",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lervig Aktiebryggeri Lucky Jack",
+        "Company": "Lervig Aktiebryggeri",
+        "Style": "American Pale Ale",
+        "ABV": 4.7,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Norway",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lervig Aktiebryggeri Hop Drop Sour",
+        "Company": "Lervig Aktiebryggeri",
+        "Style": "Sour Ale",
+        "ABV": 6.0,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Norway",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Aegir Bryggeri India Pale Ale",
+        "Company": "Aegir Bryggeri",
+        "Style": "IPA",
+        "ABV": 6.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Norway",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Ursus Premium",
+        "Company": "Ursus Breweries",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Ciuc Premium",
+        "Company": "Heineken Romania",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Silva Dark",
+        "Company": "Heineken Romania",
+        "Style": "Dark Lager",
+        "ABV": 5.2,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Timisoreana",
+        "Company": "United Romanian Breweries Bereprod",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Golden Brau",
+        "Company": "United Romanian Breweries Bereprod",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Peroni Nastro Azzurro",
+        "Company": "Heineken Romania",
+        "Style": "Euro Pale Lager",
+        "ABV": 5.1,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Zaganu Pale Ale",
+        "Company": "Zaganu Brewery",
+        "Style": "American Pale Ale",
+        "ABV": 5.2,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Zaganu Amber",
+        "Company": "Zaganu Brewery",
+        "Style": "Vienna Lager",
+        "ABV": 5.3,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Ground Zero",
+        "Company": "Ground Zero Brewery",
+        "Style": "Imperial IPA",
+        "ABV": 8.0,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Wicked Barrel Black Rye IPA",
+        "Company": "Wicked Barrel",
+        "Style": "Black Rye IPA",
+        "ABV": 7.0,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Romania",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

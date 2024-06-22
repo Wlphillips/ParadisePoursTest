@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Boddingtons Pub Ale",
+        "Company": "Boddingtons Brewery",
+        "Style": "English Pale Ale",
+        "ABV": 4.6,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Fuller's London Pride",
+        "Company": "Fuller's Brewery",
+        "Style": "Premium Bitter",
+        "ABV": 4.7,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Guinness Draught",
+        "Company": "Guinness Brewery",
+        "Style": "Irish Dry Stout",
+        "ABV": 4.2,
+        "Calories": 125,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Old Speckled Hen",
+        "Company": "Greene King Brewery",
+        "Style": "English Pale Ale",
+        "ABV": 5.0,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Samuel Smith's Oatmeal Stout",
+        "Company": "Samuel Smith Brewery",
+        "Style": "Oatmeal Stout",
+        "ABV": 5.0,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Newcastle Brown Ale",
+        "Company": "Heineken UK",
+        "Style": "Brown Ale",
+        "ABV": 4.7,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "London Porter",
+        "Company": "Fuller's Brewery",
+        "Style": "English Porter",
+        "ABV": 5.4,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Theakston Old Peculier",
+        "Company": "Theakston Brewery",
+        "Style": "Old Ale",
+        "ABV": 5.6,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Punk IPA",
+        "Company": "BrewDog Brewery",
+        "Style": "IPA",
+        "ABV": 5.6,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Golden Pride",
+        "Company": "Fuller's Brewery",
+        "Style": "Barleywine",
+        "ABV": 8.5,
+        "Calories": 300,
+        "oz": 12,
+        "Origin": "England",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

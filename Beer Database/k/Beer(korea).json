@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "Cass Fresh",
+        "Company": "Oriental Brewery (AB InBev)",
+        "Style": "Pale Lager",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "South Korea",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hite",
+        "Company": "Hite Brewery Company Ltd.",
+        "Style": "Pale Lager",
+        "ABV": 4.3,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "South Korea",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "OB Blue",
+        "Company": "Oriental Brewery (AB InBev)",
+        "Style": "Pale Lager",
+        "ABV": 4.9,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "South Korea",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cass Red",
+        "Company": "Oriental Brewery (AB InBev)",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 165,
+        "oz": 12,
+        "Origin": "South Korea",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hite Stout",
+        "Company": "Hite Brewery Company Ltd.",
+        "Style": "Stout",
+        "ABV": 4.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "South Korea",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cass Lemon",
+        "Company": "Oriental Brewery (AB InBev)",
+        "Style": "Fruit Beer",
+        "ABV": 4.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "South Korea",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

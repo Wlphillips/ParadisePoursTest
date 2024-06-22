@@ -1,0 +1,134 @@
+[
+    {
+        "Name": "Stiegl Goldbräu",
+        "Company": "Stiegl Brewery",
+        "Style": "Märzen",
+        "ABV": 4,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stiegl Paracelsus Zwickl",
+        "Company": "Stiegl Brewery",
+        "Style": "Zwickl",
+        "ABV": 5,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stiegl Columbus 1492",
+        "Company": "Stiegl Brewery",
+        "Style": "Pale Ale",
+        "ABV": 5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gösser Märzen",
+        "Company": "Gösser Brewery",
+        "Style": "Märzen",
+        "ABV": 5,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gösser Naturgold",
+        "Company": "Gösser Brewery",
+        "Style": "Zwickl",
+        "ABV": 5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gösser Radler",
+        "Company": "Gösser Brewery",
+        "Style": "Radler",
+        "ABV": 2,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hofbräu Kaltenhausen Edelweiss Weissbier",
+        "Company": "Hofbräu Kaltenhausen",
+        "Style": "Hefeweizen",
+        "ABV": 5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hofbräu Kaltenhausen Gamsbock",
+        "Company": "Hofbräu Kaltenhausen",
+        "Style": "Doppelbock",
+        "ABV": 7,
+        "Calories": 270,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Egger Märzen",
+        "Company": "Egger Brewery",
+        "Style": "Märzen",
+        "ABV": 5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Egger Zwickl",
+        "Company": "Egger Brewery",
+        "Style": "Zwickl",
+        "ABV": 5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Samichlaus Classic",
+        "Company": "Brauerei Schloss Eggenberg",
+        "Style": "Doppelbock",
+        "ABV": 14,
+        "Calories": 340,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Urbock 23°",
+        "Company": "Brauerei Schloss Eggenberg",
+        "Style": "Bock",
+        "ABV": 10,
+        "Calories": 320,
+        "oz": 12,
+        "Origin": "Austria",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

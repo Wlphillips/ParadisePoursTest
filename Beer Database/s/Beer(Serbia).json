@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Jelen Pivo",
+        "Company": "Apatinska pivara (Molson Coors)",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lav Pivo",
+        "Company": "Carlsberg Srbija",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Niksicko Pivo",
+        "Company": "Pivara Trebjesa (Molson Coors)",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kabinet Pale Ale",
+        "Company": "Kabinet Brewery",
+        "Style": "Pale Ale",
+        "ABV": 5.2,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Salto Smoked IPA",
+        "Company": "Salto Brewery",
+        "Style": "Smoked IPA",
+        "ABV": 6.5,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Dogma Brewery - Origin Ale",
+        "Company": "Dogma Brewery",
+        "Style": "Amber Ale",
+        "ABV": 5.2,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Crow Brewery - Cascade IPA",
+        "Company": "Crow Brewery",
+        "Style": "IPA",
+        "ABV": 6.2,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kors Lager",
+        "Company": "Kors Brewery",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tron Brewery - Valhalla",
+        "Company": "Tron Brewery",
+        "Style": "Belgian Tripel",
+        "ABV": 9.5,
+        "Calories": 280,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Old Brewery - Dark Side Stout",
+        "Company": "Old Brewery",
+        "Style": "Stout",
+        "ABV": 6.0,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Serbia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

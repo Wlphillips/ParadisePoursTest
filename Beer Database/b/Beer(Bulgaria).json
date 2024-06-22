@@ -1,0 +1,135 @@
+[
+    {
+        "Name": "White Stork IPA",
+        "Company": "White Stork Brewery",
+        "Style": "IPA",
+        "ABV": 6,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "White Stork Pale Ale",
+        "Company": "White Stork Brewery",
+        "Style": "Pale Ale",
+        "ABV": 5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "White Stork Porter",
+        "Company": "White Stork Brewery",
+        "Style": "Porter",
+        "ABV": 5.8,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Blek Pine Hop Fiction",
+        "Company": "Blek Pine Brewery",
+        "Style": "IPA",
+        "ABV": 6.8,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Blek Pine Lucky Charms",
+        "Company": "Blek Pine Brewery",
+        "Style": "Stout",
+        "ABV": 7,
+        "Calories": 240,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Blek Pine Pale Ale",
+        "Company": "Blek Pine Brewery",
+        "Style": "Pale Ale",
+        "ABV": 5.2,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Beer Bastards Black Sheep",
+        "Company": "Beer Bastards Brewery",
+        "Style": "Black IPA",
+        "ABV": 7.5,
+        "Calories": 240,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Beer Bastards White Wolf",
+        "Company": "Beer Bastards Brewery",
+        "Style": "Belgian Witbier",
+        "ABV": 5.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Beer Bastards Red Devil",
+        "Company": "Beer Bastards Brewery",
+        "Style": "Red Ale",
+        "ABV": 6,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lucky Bansko IPA",
+        "Company": "Lucky Bansko Brewery",
+        "Style": "IPA",
+        "ABV": 6.2,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lucky Bansko Weizen",
+        "Company": "Lucky Bansko Brewery",
+        "Style": "Hefeweizen",
+        "ABV": 5.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lucky Bansko Stout",
+        "Company": "Lucky Bansko Brewery",
+        "Style": "Stout",
+        "ABV": 6.8,
+        "Calories": 240,
+        "oz": 12,
+        "Origin": "Bulgaria",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
+

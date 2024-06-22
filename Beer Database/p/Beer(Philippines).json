@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "San Miguel Pale Pilsen",
+        "Company": "San Miguel Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Red Horse Extra Strong",
+        "Company": "San Miguel Brewery",
+        "Style": "Strong Lager",
+        "ABV": 6.9,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "San Miguel Light",
+        "Company": "San Miguel Brewery",
+        "Style": "Light Lager",
+        "ABV": 5.0,
+        "Calories": 100,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "San Miguel Super Dry",
+        "Company": "San Miguel Brewery",
+        "Style": "Dry Lager",
+        "ABV": 5.9,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "San Miguel Premium All-Malt",
+        "Company": "San Miguel Brewery",
+        "Style": "All-Malt Lager",
+        "ABV": 5.0,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "San Miguel Cerveza Negra",
+        "Company": "San Miguel Brewery",
+        "Style": "Dark Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pale Pilsen",
+        "Company": "Asia Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Red Horse Beer",
+        "Company": "Asia Brewery",
+        "Style": "Strong Lager",
+        "ABV": 6.9,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gold Eagle Beer",
+        "Company": "Asia Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Colt 45",
+        "Company": "Asia Brewery",
+        "Style": "Malt Liquor",
+        "ABV": 7.2,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Stella Lager",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Pale Lager",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Sakara Gold",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Pale Lager",
+        "ABV": 4.0,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Luxor Weizen",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Hefeweizen",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Meister Lager",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Pale Lager",
+        "ABV": 4.0,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Fayrouz Malt",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Non-Alcoholic Malt Beverage",
+        "ABV": 0.0,
+        "Calories": 70,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Al Ahram Pilsner",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Pilsner",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Birell Lemon",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Non-Alcoholic Fruit Beer",
+        "ABV": 0.0,
+        "Calories": 60,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Birell Green Apple",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Non-Alcoholic Fruit Beer",
+        "ABV": 0.0,
+        "Calories": 60,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Obelisk Red",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Red Ale",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Sakara King",
+        "Company": "Al Ahram Beverages Company",
+        "Style": "Pale Lager",
+        "ABV": 4.0,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Egypt",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

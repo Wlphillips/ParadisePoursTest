@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "Kronenbourg 1664",
+        "Company": "Brasseries Kronenbourg",
+        "Style": "Pale Lager",
+        "ABV": 5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pelforth Blonde",
+        "Company": "Brasserie Pelforth",
+        "Style": "Blonde Ale",
+        "ABV": 5.8,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bière de Garde 3 Monts",
+        "Company": "Brasserie de Saint Sylvestre",
+        "Style": "Bière de Garde",
+        "ABV": 8.5,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Chimay Blue",
+        "Company": "Abbaye Notre-Dame de Scourmont",
+        "Style": "Belgian Strong Dark Ale",
+        "ABV": 9,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Brasserie Dupont Saison Dupont",
+        "Company": "Brasserie Dupont",
+        "Style": "Saison / Farmhouse Ale",
+        "ABV": 6.5,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Rochefort 10",
+        "Company": "Brasserie de Rochefort",
+        "Style": "Quadrupel",
+        "ABV": 11.3,
+        "Calories": 280,
+        "oz": 12,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

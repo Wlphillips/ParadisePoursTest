@@ -1,0 +1,135 @@
+[
+    {
+        "Name": "Kilikia Lager",
+        "Company": "Kilikia Brewery (Yerevan Beer Factory)",
+        "Style": "Lager",
+        "ABV": 4.7,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kilikia Dark",
+        "Company": "Kilikia Brewery (Yerevan Beer Factory)",
+        "Style": "Dark Lager",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kilikia Wheat Beer",
+        "Company": "Kilikia Brewery (Yerevan Beer Factory)",
+        "Style": "Wheat Beer",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gyumri Lager",
+        "Company": "Gyumri Beer",
+        "Style": "Lager",
+        "ABV": 4.8,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Aleksandrapol",
+        "Company": "Gyumri Beer",
+        "Style": "Lager",
+        "ABV": 4.6,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gyumri Dark",
+        "Company": "Gyumri Beer",
+        "Style": "Dark Lager",
+        "ABV": 5.2,
+        "Calories": 155,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kotayk Lager",
+        "Company": "Kotayk Brewery",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kotayk Gold",
+        "Company": "Kotayk Brewery",
+        "Style": "Lager",
+        "ABV": 4.6,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kotayk Dark",
+        "Company": "Kotayk Brewery",
+        "Style": "Dark Lager",
+        "ABV": 5.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Dargett Pale Ale",
+        "Company": "Dargett Craft Brewery",
+        "Style": "Pale Ale",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Dargett IPA",
+        "Company": "Dargett Craft Brewery",
+        "Style": "IPA",
+        "ABV": 6.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Dargett Belgian Blonde",
+        "Company": "Dargett Craft Brewery",
+        "Style": "Blonde Ale",
+        "ABV": 6.0,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Armenia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
+

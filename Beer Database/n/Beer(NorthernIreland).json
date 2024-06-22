@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Guinness Nitro IPA",
+        "Company": "Guinness Open Gate Brewery",
+        "Style": "IPA",
+        "ABV": 4.8,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Northern Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Whitewater Brewery Belfast Ale",
+        "Company": "Whitewater Brewery",
+        "Style": "Red Ale",
+        "ABV": 4.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Northern Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hilden Brewery Twisted Hop",
+        "Company": "Hilden Brewery",
+        "Style": "IPA",
+        "ABV": 4.7,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Northern Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Farmageddon Brewing Co-op India Pale Ale",
+        "Company": "Farmageddon Brewing Co-op",
+        "Style": "IPA",
+        "ABV": 5.6,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Northern Ireland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pokertree Brewery Dark Nirvana",
+        "Company": "Pokertree Brewery",
+        "Style": "Stout",
+        "ABV": 4.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Northern Ireland",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

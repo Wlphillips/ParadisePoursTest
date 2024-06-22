@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Zlatý Bažant",
+        "Company": "Heineken Slovensko",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Steiger",
+        "Company": "Heineken Slovensko",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Šariš",
+        "Company": "Heineken Slovensko",
+        "Style": "Pale Lager",
+        "ABV": 4.1,
+        "Calories": 120,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Topvar",
+        "Company": "SABMiller",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Martiner",
+        "Company": "Martiner Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.5,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bratislavský ležiak",
+        "Company": "Stein Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.3,
+        "Calories": 130,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Sessler 13°",
+        "Company": "Sessler Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kaltenecker",
+        "Company": "Kaltenecker Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tatran",
+        "Company": "Tatran Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.3,
+        "Calories": 130,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Zlatý Bažant Radler",
+        "Company": "Heineken Slovensko",
+        "Style": "Radler",
+        "ABV": 2.0,
+        "Calories": 90,
+        "oz": 12,
+        "Origin": "Slovakia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "Name": "Bofferding Lager",
+        "Company": "Brasserie Nationale",
+        "Style": "Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Luxembourg",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bofferding Pils",
+        "Company": "Brasserie Nationale",
+        "Style": "Pilsner",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Luxembourg",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bofferding Amber",
+        "Company": "Brasserie Nationale",
+        "Style": "Amber Lager",
+        "ABV": 5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Luxembourg",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Diekirch Premium",
+        "Company": "Brasserie de Luxembourg Mousel-Diekirch SA",
+        "Style": "Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Luxembourg",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Diekirch Grand Cru",
+        "Company": "Brasserie de Luxembourg Mousel-Diekirch SA",
+        "Style": "Strong Lager",
+        "ABV": 5.2,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Luxembourg",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Simon Pils",
+        "Company": "Brasserie Simon",
+        "Style": "Pilsner",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Luxembourg",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Simon Amber",
+        "Company": "Brasserie Simon",
+        "Style": "Amber Ale",
+        "ABV": 5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Luxembourg",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "Malka IPA",
+        "Company": "Malka Brewery",
+        "Style": "IPA",
+        "ABV": 6.0,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Israel",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Shapiro Pale Ale",
+        "Company": "Shapiro Brewery",
+        "Style": "Pale Ale",
+        "ABV": 5.2,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Israel",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Alexander Blonde",
+        "Company": "Alexander Brewery",
+        "Style": "Blonde Ale",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Israel",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Jem's Stout",
+        "Company": "Jem's Beer Factory",
+        "Style": "Stout",
+        "ABV": 6.0,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Israel",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Herzl Belgian Pale Ale",
+        "Company": "Herzl Brewery",
+        "Style": "Belgian Pale Ale",
+        "ABV": 5.6,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Israel",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bazelet IPA",
+        "Company": "Bazelet Brewery",
+        "Style": "IPA",
+        "ABV": 6.2,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Israel",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Shapiro Porter",
+        "Company": "Shapiro Brewery",
+        "Style": "Porter",
+        "ABV": 5.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Israel",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Alexander Amber Ale",
+        "Company": "Alexander Brewery",
+        "Style": "Amber Ale",
+        "ABV": 4.8,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Israel",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

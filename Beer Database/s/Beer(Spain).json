@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Estrella Damm",
+        "Company": "S.A. Damm",
+        "Style": "Pale Lager",
+        "ABV": 5.4,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Mahou Cinco Estrellas",
+        "Company": "Mahou San Miguel",
+        "Style": "Pale Lager",
+        "ABV": 5.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "San Miguel Especial",
+        "Company": "Mahou San Miguel",
+        "Style": "Pale Lager",
+        "ABV": 5.4,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Ambar Export",
+        "Company": "Cervezas Ambar",
+        "Style": "Vienna Lager",
+        "ABV": 5.2,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "La Virgen 360",
+        "Company": "Cervezas La Virgen",
+        "Style": "American Pale Ale",
+        "ABV": 5.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Naparbier Aker India Pale Ale",
+        "Company": "Naparbier Sdad. Coop.",
+        "Style": "IPA",
+        "ABV": 6.9,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Laugar Aupa Tovarisch!",
+        "Company": "Cervezas Laugar",
+        "Style": "Imperial Stout",
+        "ABV": 10.0,
+        "Calories": 300,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Edge Brewing Padrino Porter",
+        "Company": "Edge Brewing",
+        "Style": "Porter",
+        "ABV": 6.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Sagra Bohío",
+        "Company": "Cervezas Sagra",
+        "Style": "Hefeweizen",
+        "ABV": 5.0,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "La Quince DDH IPA",
+        "Company": "La Quince Brewery",
+        "Style": "Double IPA",
+        "ABV": 8.0,
+        "Calories": 240,
+        "oz": 12,
+        "Origin": "Spain",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

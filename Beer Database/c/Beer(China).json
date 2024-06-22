@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Tsingtao",
+        "Company": "Tsingtao Brewery Co., Ltd.",
+        "Style": "Pale Lager",
+        "ABV": 4,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Snow Beer",
+        "Company": "China Resources Snow Breweries Ltd.",
+        "Style": "Pale Lager",
+        "ABV": 4,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Harbin Beer",
+        "Company": "Harbin Brewery Group",
+        "Style": "Pale Lager",
+        "ABV": 4,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Yanjing Beer",
+        "Company": "Beijing Yanjing Brewery Co., Ltd.",
+        "Style": "Pale Lager",
+        "ABV": 4,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tsingtao Stout",
+        "Company": "Tsingtao Brewery Co., Ltd.",
+        "Style": "Stout",
+        "ABV": 5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Blue Island",
+        "Company": "Blue Island Beer Co., Ltd.",
+        "Style": "Wheat Beer",
+        "ABV": 4.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Boxing Cat Contender IPA",
+        "Company": "Boxing Cat Brewery",
+        "Style": "IPA",
+        "ABV": 6.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Great Leap Brewing Honey Ma Gold",
+        "Company": "Great Leap Brewing",
+        "Style": "Honey Ale",
+        "ABV": 5.5,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Jing-A Brewing Co. Mandarin Wheat",
+        "Company": "Jing-A Brewing Co.",
+        "Style": "Wheat Beer",
+        "ABV": 5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Slow Boat Brewery Monkey's Fist IPA",
+        "Company": "Slow Boat Brewery",
+        "Style": "IPA",
+        "ABV": 6.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "China",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

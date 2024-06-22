@@ -1,0 +1,46 @@
+[
+    {
+        "Name": "Star Lager Beer",
+        "Company": "Nigerian Breweries Plc",
+        "Style": "Lager",
+        "ABV": 4.9,
+        "Calories": 155,
+        "oz": 12,
+        "Origin": "Nigeria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gulder",
+        "Company": "Nigerian Breweries Plc",
+        "Style": "Strong Lager",
+        "ABV": 5.2,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Nigeria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Guinness Foreign Extra Stout",
+        "Company": "Guinness Nigeria Plc",
+        "Style": "Foreign / Export Stout",
+        "ABV": 7.5,
+        "Calories": 176,
+        "oz": 12,
+        "Origin": "Nigeria",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Trophy Lager",
+        "Company": "International Breweries Plc",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Nigeria",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

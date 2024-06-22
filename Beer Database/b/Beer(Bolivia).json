@@ -1,0 +1,92 @@
+[
+    {
+        "Name": "Bolivian Pilsener",
+        "Company": "Bolivian Brew Pub",
+        "Style": "Pilsner",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Bolivia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bolivian Red Ale",
+        "Company": "Bolivian Brew Pub",
+        "Style": "Red Ale",
+        "ABV": 5.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Bolivia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Huari",
+        "Company": "Huari Cervecería",
+        "Style": "Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Bolivia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Huari Strong",
+        "Company": "Huari Cervecería",
+        "Style": "Strong Lager",
+        "ABV": 7.0,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Bolivia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stier Blonde Ale",
+        "Company": "Stier Cervecería",
+        "Style": "Blonde Ale",
+        "ABV": 5.0,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Bolivia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stier Brown Ale",
+        "Company": "Stier Cervecería",
+        "Style": "Brown Ale",
+        "ABV": 5.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Bolivia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Franziskaner Weissbier",
+        "Company": "Franziskaner Cervecería",
+        "Style": "Hefeweizen",
+        "ABV": 5.0,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Bolivia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Franziskaner Dunkel",
+        "Company": "Franziskaner Cervecería",
+        "Style": "Dunkelweizen",
+        "ABV": 5.2,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Bolivia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
+
+

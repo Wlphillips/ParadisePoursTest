@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Speight's Gold Medal Ale",
+        "Company": "Lion Brewery",
+        "Style": "Pale Ale",
+        "ABV": 4.0,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "New Zealand",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "DB Export Gold",
+        "Company": "DB Breweries",
+        "Style": "Pale Lager",
+        "ABV": 4.0,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "New Zealand",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Monteith's Original Ale",
+        "Company": "DB Breweries",
+        "Style": "Amber Ale",
+        "ABV": 4.0,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "New Zealand",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tuatara APA",
+        "Company": "Tuatara Brewing",
+        "Style": "American Pale Ale",
+        "ABV": 5.8,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "New Zealand",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Epic Pale Ale",
+        "Company": "Epic Brewing Company",
+        "Style": "American Pale Ale",
+        "ABV": 5.4,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "New Zealand",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

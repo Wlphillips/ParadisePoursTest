@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "Dreher Classic",
+        "Company": "Dreher Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.9,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Hungary",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Borsodi Sör",
+        "Company": "Borsodi Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.6,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Hungary",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Soproni Ászok",
+        "Company": "Soproni Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.5,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Hungary",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Arany Ászok",
+        "Company": "Dreher Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.2,
+        "Calories": 130,
+        "oz": 12,
+        "Origin": "Hungary",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kőbányai Világos",
+        "Company": "Borsodi Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.1,
+        "Calories": 130,
+        "oz": 12,
+        "Origin": "Hungary",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Békésszentandrási Sörfőzde IPA",
+        "Company": "Békésszentandrási Sörfőzde",
+        "Style": "IPA",
+        "ABV": 5.8,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Hungary",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Mad Scientist Altbier",
+        "Company": "Mad Scientist Brewery",
+        "Style": "Altbier",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Hungary",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Horizont Columbus 1492",
+        "Company": "Horizont Brewery",
+        "Style": "Imperial IPA",
+        "ABV": 9.0,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Hungary",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

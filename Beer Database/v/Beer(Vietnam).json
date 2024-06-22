@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Bia Hà Nội",
+    "Company": "Habeco (Hanoi Beer Alcohol and Beverage Corporation)",
+    "Style": "Lager",
+    "ABV": 4.3,
+    "Calories": 140,
+    "oz": 12,
+    "Origin": "Vietnam",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Bia Saigon Special",
+    "Company": "Sabeco (Saigon Beer Alcohol Beverage Corporation)",
+    "Style": "Lager",
+    "ABV": 4.9,
+    "Calories": 150,
+    "oz": 12,
+    "Origin": "Vietnam",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "333 Beer",
+    "Company": "Vietnam Brewery Limited",
+    "Style": "Lager",
+    "ABV": 4.3,
+    "Calories": 140,
+    "oz": 12,
+    "Origin": "Vietnam",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Huda Beer",
+    "Company": "Thừa Thiên-Huế Brewery",
+    "Style": "Lager",
+    "ABV": 4.7,
+    "Calories": 145,
+    "oz": 12,
+    "Origin": "Vietnam",
+    "Rating": 0,
+    "Favorites": false
+  }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Name": "Kingdom Pilsener",
+        "Company": "Kingdom Breweries",
+        "Style": "Pilsner",
+        "ABV": 5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Cambodia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kingdom Dark Lager",
+        "Company": "Kingdom Breweries",
+        "Style": "Dark Lager",
+        "ABV": 5.5,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Cambodia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kingdom IPA",
+        "Company": "Kingdom Breweries",
+        "Style": "IPA",
+        "ABV": 6,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Cambodia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Riel Pale Ale",
+        "Company": "Riel Brewing & Distilling",
+        "Style": "Pale Ale",
+        "ABV": 5.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Cambodia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Riel Amber Ale",
+        "Company": "Riel Brewing & Distilling",
+        "Style": "Amber Ale",
+        "ABV": 5.2,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Cambodia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Riel Stout",
+        "Company": "Riel Brewing & Distilling",
+        "Style": "Stout",
+        "ABV": 6,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Cambodia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Samai Blonde Ale",
+        "Company": "Samai Distillery & Craft Brewery",
+        "Style": "Blonde Ale",
+        "ABV": 5,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Cambodia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Samai Session IPA",
+        "Company": "Samai Distillery & Craft Brewery",
+        "Style": "Session IPA",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Cambodia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Samai Coffee Stout",
+        "Company": "Samai Distillery & Craft Brewery",
+        "Style": "Coffee Stout",
+        "ABV": 6.5,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Cambodia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
+

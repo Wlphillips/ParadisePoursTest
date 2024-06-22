@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Union Lager",
+        "Company": "Pivovarna Union",
+        "Style": "Pale Lager",
+        "ABV": 4.9,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Laško Zlatorog",
+        "Company": "Pivovarna Laško Union",
+        "Style": "Pale Lager",
+        "ABV": 4.9,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Human Fish IPA",
+        "Company": "Pivovarna Human Fish",
+        "Style": "IPA",
+        "ABV": 6.0,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pelicon The Boss",
+        "Company": "Pivovarna Pelicon",
+        "Style": "Imperial IPA",
+        "ABV": 8.2,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Reservoir Dogs Hoptopod",
+        "Company": "Pivovarna Reservoir Dogs",
+        "Style": "Double IPA",
+        "ABV": 8.5,
+        "Calories": 260,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bevog Tak Pale Ale",
+        "Company": "Bevog Brewery",
+        "Style": "Pale Ale",
+        "ABV": 5.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bevog Who Cares Edition 3",
+        "Company": "Bevog Brewery",
+        "Style": "IPA",
+        "ABV": 7.0,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bevog Deetz",
+        "Company": "Bevog Brewery",
+        "Style": "Pilsner",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Vizir Svetlo Pivo",
+        "Company": "Pivovarna Vizir",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lobik Antipodal",
+        "Company": "Pivovarna Lobik",
+        "Style": "Sour Ale",
+        "ABV": 6.0,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Slovenia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

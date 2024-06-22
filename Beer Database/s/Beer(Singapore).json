@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Tiger Beer",
+        "Company": "Asia Pacific Breweries",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Anchor Beer",
+        "Company": "Archipelago Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.5,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Singapore Sling",
+        "Company": "Asia Pacific Breweries",
+        "Style": "Cocktail",
+        "ABV": 12.0,
+        "Calories": 300,
+        "oz": 8,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Red Dot Brewery - Monster Green Lager",
+        "Company": "Red Dot Brewery",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Brewerkz - Golden Ale",
+        "Company": "Brewerkz Brewery",
+        "Style": "Golden Ale",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Jungle Beer - Singapore IPA",
+        "Company": "Jungle Beer",
+        "Style": "IPA",
+        "ABV": 6.0,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Smith Street Taps - Taihu Lager",
+        "Company": "Smith Street Taps",
+        "Style": "Pale Lager",
+        "ABV": 4.8,
+        "Calories": 145,
+        "oz": 12,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Paulaner Bräuhaus Singapore - Hefe-Weißbier",
+        "Company": "Paulaner Bräuhaus Singapore",
+        "Style": "Hefeweizen",
+        "ABV": 5.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Trouble Brewing - White Magic Witbier",
+        "Company": "Trouble Brewing",
+        "Style": "Witbier",
+        "ABV": 4.8,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Little Island Brewing Co. - Blondie",
+        "Company": "Little Island Brewing Co.",
+        "Style": "Blonde Ale",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Singapore",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

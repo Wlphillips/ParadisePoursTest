@@ -1,0 +1,168 @@
+[
+    {
+        "Name": "Quilmes Cristal",
+        "Company": "Cervecería y Maltería Quilmes",
+        "Style": "Lager",
+        "ABV": 4.9,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Quilmes Bock",
+        "Company": "Cervecería y Maltería Quilmes",
+        "Style": "Bock",
+        "ABV": 6.3,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Quilmes Stout",
+        "Company": "Cervecería y Maltería Quilmes",
+        "Style": "Stout",
+        "ABV": 5.0,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Patagonia Amber Lager",
+        "Company": "Cervecería Patagonia",
+        "Style": "Amber Lager",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Patagonia Bohemian Pilsener",
+        "Company": "Cervecería Patagonia",
+        "Style": "Pilsner",
+        "ABV": 5.1,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Patagonia Weisse",
+        "Company": "Cervecería Patagonia",
+        "Style": "Wheat Beer",
+        "ABV": 4.7,
+        "Calories": 165,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Antares Scotch Ale",
+        "Company": "Antares",
+        "Style": "Scotch Ale",
+        "ABV": 6.0,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Antares Porter",
+        "Company": "Antares",
+        "Style": "Porter",
+        "ABV": 6.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Antares Kölsch",
+        "Company": "Antares",
+        "Style": "Kölsch",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Berlina IPA",
+        "Company": "Cervecería Berlina",
+        "Style": "IPA",
+        "ABV": 6.5,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Berlina Golden Ale",
+        "Company": "Cervecería Berlina",
+        "Style": "Golden Ale",
+        "ABV": 4.5,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Berlina Foreign Stout",
+        "Company": "Cervecería Berlina",
+        "Style": "Stout",
+        "ABV": 7.0,
+        "Calories": 210,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Otro Mundo Strong Red Ale",
+        "Company": "Otro Mundo",
+        "Style": "Red Ale",
+        "ABV": 7.0,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Otro Mundo Golden Ale",
+        "Company": "Otro Mundo",
+        "Style": "Golden Ale",
+        "ABV": 5.5,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Otro Mundo Nut Brown Ale",
+        "Company": "Otro Mundo",
+        "Style": "Brown Ale",
+        "ABV": 5.3,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Argentina",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
+

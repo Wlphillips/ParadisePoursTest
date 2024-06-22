@@ -1,0 +1,168 @@
+[
+    {
+        "Name": "Skol",
+        "Company": "Cervejaria Ambev",
+        "Style": "Pale Lager",
+        "ABV": 4.7,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Brahma",
+        "Company": "Cervejaria Ambev",
+        "Style": "Pale Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Antarctica",
+        "Company": "Cervejaria Ambev",
+        "Style": "Pale Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Colorado Indica",
+        "Company": "Cervejaria Colorado",
+        "Style": "IPA",
+        "ABV": 7.0,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Colorado Appia",
+        "Company": "Cervejaria Colorado",
+        "Style": "Wheat Beer (Witbier)",
+        "ABV": 5.5,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Colorado Demoiselle",
+        "Company": "Cervejaria Colorado",
+        "Style": "Porter",
+        "ABV": 6.0,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bohemia Pilsen",
+        "Company": "Cervejaria Bohemia",
+        "Style": "Pilsner",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bohemia Weiss",
+        "Company": "Cervejaria Bohemia",
+        "Style": "Hefeweizen",
+        "ABV": 5.0,
+        "Calories": 200,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bohemia 14-Weiss",
+        "Company": "Cervejaria Bohemia",
+        "Style": "Witbier",
+        "ABV": 4.9,
+        "Calories": 190,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Wäls Brut",
+        "Company": "Cervejaria Wäls",
+        "Style": "Belgian Strong Golden Ale",
+        "ABV": 10.0,
+        "Calories": 300,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Wäls Niobium",
+        "Company": "Cervejaria Wäls",
+        "Style": "Imperial Stout",
+        "ABV": 11.0,
+        "Calories": 330,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Wäls Dubbel",
+        "Company": "Cervejaria Wäls",
+        "Style": "Belgian Dubbel",
+        "ABV": 7.5,
+        "Calories": 240,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bodebrown Wee Heavy",
+        "Company": "Cervejaria Bodebrown",
+        "Style": "Scotch Ale",
+        "ABV": 8.5,
+        "Calories": 280,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bodebrown Perigosa",
+        "Company": "Cervejaria Bodebrown",
+        "Style": "Imperial IPA",
+        "ABV": 9.0,
+        "Calories": 270,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bodebrown Cacau IPA",
+        "Company": "Cervejaria Bodebrown",
+        "Style": "Chocolate IPA",
+        "ABV": 6.1,
+        "Calories": 220,
+        "oz": 12,
+        "Origin": "Brazil",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
+

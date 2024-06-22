@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "Augustiner Bräu München Edelstoff",
+        "Company": "Augustiner-Bräu Wagner KG",
+        "Style": "Helles Lager",
+        "ABV": 5.6,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Germany",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Weihenstephaner Hefeweissbier",
+        "Company": "Bayerische Staatsbrauerei Weihenstephan",
+        "Style": "Hefeweizen",
+        "ABV": 5.4,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Germany",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Paulaner Salvator Doppelbock",
+        "Company": "Paulaner Brauerei GmbH & Co. KG",
+        "Style": "Doppelbock",
+        "ABV": 7.9,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Germany",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Köstritzer Schwarzbier",
+        "Company": "Köstritzer Schwarzbierbrauerei",
+        "Style": "Schwarzbier",
+        "ABV": 4.8,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Germany",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Ayinger Celebrator Doppelbock",
+        "Company": "Ayinger Privatbrauerei Franz Inselkammer KG",
+        "Style": "Doppelbock",
+        "ABV": 6.7,
+        "Calories": 250,
+        "oz": 12,
+        "Origin": "Germany",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Erdinger Weissbier",
+        "Company": "Erdinger Weissbräu",
+        "Style": "Hefeweizen",
+        "ABV": 5.3,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Germany",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
