@@ -45,9 +45,9 @@
 
 .beer-image {
   position: absolute;
-  top: -50px; /* Adjust the position of the image as needed */
+  top: -50px; 
   left: 10%;
-  width: 100px; /* Adjust the size of the image as needed */
+  width: 100px; 
 }
 
 .footer {
