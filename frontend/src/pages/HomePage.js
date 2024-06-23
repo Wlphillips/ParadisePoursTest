@@ -1,8 +1,8 @@
 import React from 'react';
-import './components/HomePage.css';
-import beerImage from './images/Home_pouring_beer.jpg';
+import '../components/HomePage.css';
+import beerImage from '../images/Home_pouring_beer.jpg';
 
-const BeerPage = () => {
+const HomePage = () => {
   return (
     <div className="home-page">
       <div className="header">
@@ -13,7 +13,7 @@ const BeerPage = () => {
       </div>
       <div className="content">
         <div className="about-us">ABOUT US</div>
-        <div className="beer-of-the-day">Beer OF The day</div>
+        <div className="beer-of-the-day">Beer Of The day</div>
       </div>
       <div className="image-container">
         <img src={beerImage} alt="Beer" className="beer-image" />
