@@ -168,3 +168,18 @@
 .login-button:hover, .register-button:hover {
     background-color: #8b4513;
 }
+
+.welcome-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 32px;
+  margin: 150px 400px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 10px 0px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;  
+}
