@@ -7,6 +7,9 @@ function LoginPage() {
         <div className="login-page">
             <div className="loginContent"> 
                 <LoginHeader />
+                <div className="welcome-message">
+                    Welcome to Paradise Pours - Your Ultimate Alcohol Database!
+                </div>
                 <div className="login-box">
                     <h2>Login / Register</h2>
                     <form>
