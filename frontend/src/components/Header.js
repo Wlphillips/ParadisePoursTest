@@ -1,9 +1,6 @@
 import React from 'react';
 import logoImage from "../images/Paradise_Pours_Logo_Circle.png";
 import '../main.css';
-import BeerPage from '../pages/BeerPage.js';
-import LiquorPage from '../pages/LiquorPage.js';
-import WinePage from '../pages/WinePage.js';
 import { Link } from 'react-router-dom';
 
 

@@ -2,7 +2,6 @@ import React from 'react';
 import HomePage from './pages/HomePage';
 import LoginPage from './pages/LoginPage';
 import { BrowserRouter, Router, Routes, Route, Link} from "react-router-dom";
-import Header from './components/Header';
 import BeerPage from './pages/BeerPage.js';
 import LiquorPage from './pages/LiquorPage.js';
 import WinePage from './pages/WinePage.js';
