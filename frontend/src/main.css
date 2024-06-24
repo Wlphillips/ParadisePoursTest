@@ -1,0 +1,105 @@
+.home-page {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 5px 0;
+  padding-right: 25px;
+  align-items: center;
+}
+
+.header > div {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  justify-content: inherit;
+}
+
+.logo-img {
+  justify-content: left;
+  padding-left: 0px;
+  height: 150px;
+}
+
+.menu{
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.content {
+  position: relative;
+  background-color: #a0522d;
+  height: 1075px;
+  /* background-image: url(../images/); */
+}
+
+.content > div{
+  justify-content: right;
+}
+
+.about-us {
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  color: white;
+  font-size: 24px;
+}
+
+.beer-of-the-day {
+  position: absolute;
+  right: 10%;
+  top: 20%;
+  color: white;
+  font-size: 24px;
+}
+
+.image-container {
+  position: relative;
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+}
+
+.beer-image {
+  position: absolute;
+  top: -50px; 
+  left: 10%;
+  width: 100px; 
+}
+
+.footer {
+  background-color: #d3a625;
+  height: 100px;
+}
+
+.menu-button{
+  background: none;
+  cursor: pointer;
+  padding-right: 75px;
+}
+
+.menu-button:hover{
+  text-decoration: underline;
+  color: #a0522d;
+}
+
+.beerTap {
+  display: flex;
+  justify-content: left;
+  padding-right: 100px;
+  height: 650px;
+  width: auto;
+}
+
+.beerFooter{
+  position: absolute;
+  width: 100%;
+  z-index: 1000;
+  opacity: 0.93;
+  top: 45%;
+  right: 0%;
+}
