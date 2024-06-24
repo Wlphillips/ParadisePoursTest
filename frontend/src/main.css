@@ -108,3 +108,63 @@
     top: 45%;
     right: 0%;
   }
+
+.login-page {
+  text-align: center;
+}
+
+.loginContent {
+  position: relative;
+  height: 1075px;
+  background-image: url('./images/Bar_pic.jpeg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.login-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.login-button, .register-button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #a0522d;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.login-button:hover, .register-button:hover {
+    background-color: #8b4513;
+}
