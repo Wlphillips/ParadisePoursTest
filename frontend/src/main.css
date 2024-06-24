@@ -83,6 +83,7 @@
   
   .menu-button{
     background: none;
+    color: white;
     cursor: pointer;
     padding-right: 75px;
   }
@@ -107,6 +108,10 @@
     opacity: 0.93;
     top: 45%;
     right: 0%;
+  }
+
+  .log{
+    
   }
 
 .login-page {

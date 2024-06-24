@@ -1,9 +1,6 @@
 import React from 'react';
 import '../main.css';
-import beerImage from '../images/Home_pouring_beer.jpg';
 import Header from '../components/Header.js';
-import beerTap from '../images/Beer_Tap.png'
-import beerHead from '../images/Beer_Head.jpg';
 
 const HomePage = () => {
   return (
