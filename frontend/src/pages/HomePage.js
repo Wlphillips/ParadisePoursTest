@@ -8,23 +8,13 @@ import beerHead from '../images/Beer_Head.jpg';
 const HomePage = () => {
   return (
     <div className="home-page">
-      <Header />
       <div className="content" >
-        
-        <img src = {beerTap} alt = "Beer Tap" class = "beerTap"></img>
+        <Header />
 
         <div className="about-us">ABOUT US</div>
         <div className="beer-of-the-day">Beer Of The day</div>
 
-        <div>
-          <img class ="beerFooter" src = {beerHead} alt = "Beer Head"></img>
-        </div>
-
       </div>
-      
-      {/* <div className="image-container">
-        <img src={beerImage} alt="Beer" className="beer-image" />
-      </div> */}
     </div>
   );
 };
