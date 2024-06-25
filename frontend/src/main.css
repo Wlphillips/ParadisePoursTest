@@ -10,12 +10,41 @@
     align-items: center;
     position: relative;
   }
-  
+
   .header > div {
     color: white;
     font-size: 22px;
     font-weight: bold;
     justify-content: inherit;
+  }
+
+  .wine-header{
+    display: flex;
+    height: 56px;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    background-color: rgba(102, 11, 31, 0.31);
+  }
+
+  .wine-header > div {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    justify-content: inherit;
+  }
+
+  .wine-menu-button{
+    background: none;
+    color: white;
+    cursor: pointer;
+    padding-right: 75px;
+  }
+  
+  .wine-menu-button:hover{
+    text-decoration: underline;
+    /* color: #a0522d; */
+    color: #b01e4c;
   }
   
   .logo-img {
@@ -90,7 +119,8 @@
   
   .menu-button:hover{
     text-decoration: underline;
-    color: #a0522d;
+    /* color: #a0522d; */
+    color: #e3d61e;
   }
   
   .beerTap {
@@ -108,10 +138,6 @@
     opacity: 0.93;
     top: 45%;
     right: 0%;
-  }
-
-  .log{
-    
   }
 
 .login-page {
@@ -188,4 +214,30 @@
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   box-sizing: border-box;  
+}
+
+.wine-page{
+  background-image: url('./images/wine2.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.wine-box{
+  position: absolute;
+  padding-left: 50px;
+  padding-right: 50px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 10px solid #660b1f;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+}
+
+.wine-box > h1{
+  font-weight: bold;
 }
