@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Jordan Alexander Valley Cabernet Sauvignon",
+    "Company": "Jordan Winery",
+    "Style": "Red",
+    "ABV": 13.8,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "Alexander Valley, Sonoma County, USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Jordan Russian River Valley Chardonnay",
+    "Company": "Jordan Winery",
+    "Style": "White",
+    "ABV": 13.8,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "Russian River Valley, Sonoma County, USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Ridge Geyserville Zinfandel",
+    "Company": "Ridge Vineyards",
+    "Style": "Red",
+    "ABV": 14.5,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "Sonoma County, USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Ridge Lytton Springs Zinfandel",
+    "Company": "Ridge Vineyards",
+    "Style": "Red",
+    "ABV": 14.3,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "Sonoma County, USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Chateau St. Jean Sonoma County Chardonnay",
+    "Company": "Chateau St. Jean",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "Sonoma County, USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Chateau St. Jean Sonoma Coast Pinot Noir",
+    "Company": "Chateau St. Jean",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 128,
+    "oz": 5,
+    "Origin": "Sonoma Coast, Sonoma County, USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Kistler Sonoma Coast Pinot Noir",
+    "Company": "Kistler Vineyards",
+    "Style": "Red",
+    "ABV": 14.2,
+    "Calories": 129,
+    "oz": 5,
+    "Origin": "Sonoma Coast, Sonoma County, USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Kistler Sonoma Mountain Chardonnay",
+    "Company": "Kistler Vineyards",
+    "Style": "White",
+    "ABV": 13.8,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "Sonoma Mountain, Sonoma County, USA",
+    "Rating": 0,
+    "Favorites": false
+  }
+]
+
+

@@ -1,0 +1,113 @@
+[
+  {
+    "Name": "BookCliff Vineyards Ensemble",
+    "Company": "BookCliff Vineyards",
+    "Style": "Red Blend",
+    "ABV": 14.5,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "BookCliff Vineyards Riesling",
+    "Company": "BookCliff Vineyards",
+    "Style": "White",
+    "ABV": 13.0,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Infinite Monkey Theorem Cabernet Franc",
+    "Company": "Infinite Monkey Theorem",
+    "Style": "Red",
+    "ABV": 14.2,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "Infinite Monkey Theorem Albariño",
+    "Company": "Infinite Monkey Theorem",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "The Winery at Holy Cross Abbey Revelation",
+    "Company": "The Winery at Holy Cross Abbey",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "The Winery at Holy Cross Abbey Sauvignon Blanc",
+    "Company": "The Winery at Holy Cross Abbey",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Colterris Winery Cabernet Sauvignon",
+    "Company": "Colterris Winery",
+    "Style": "Red",
+    "ABV": 14.5,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "Colterris Winery Viognier",
+    "Company": "Colterris Winery",
+    "Style": "White",
+    "ABV": 13.0,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Creekside Cellars Syrah",
+    "Company": "Creekside Cellars",
+    "Style": "Red",
+    "ABV": 14.2,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "Creekside Cellars Chardonnay",
+    "Company": "Creekside Cellars",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  }
+]
+

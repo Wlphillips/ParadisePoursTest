@@ -1,0 +1,113 @@
+[
+  {
+    "Name": "Penns Woods Winery Cabernet Sauvignon Reserve",
+    "Company": "Penns Woods Winery",
+    "Style": "Red",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "Penns Woods Winery Chardonnay Reserve",
+    "Company": "Penns Woods Winery",
+    "Style": "White",
+    "ABV": 12.8,
+    "Calories": 120,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Karamoor Estate Vineyard & Winery Meritage",
+    "Company": "Karamoor Estate Vineyard & Winery",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "Karamoor Estate Vineyard & Winery Sauvignon Blanc",
+    "Company": "Karamoor Estate Vineyard & Winery",
+    "Style": "White",
+    "ABV": 13.2,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Grace Winery Pinot Noir",
+    "Company": "Grace Winery",
+    "Style": "Red",
+    "ABV": 13.8,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "Grace Winery Chardonnay",
+    "Company": "Grace Winery",
+    "Style": "White",
+    "ABV": 12.5,
+    "Calories": 120,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Va La Vineyards Barbera",
+    "Company": "Va La Vineyards",
+    "Style": "Red",
+    "ABV": 14.2,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "Va La Vineyards La Prima Donna",
+    "Company": "Va La Vineyards",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Galen Glen Winery Gruner Veltliner",
+    "Company": "Galen Glen Winery",
+    "Style": "White",
+    "ABV": 12.5,
+    "Calories": 120,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": true
+  },
+  {
+    "Name": "Galena Winery Riesling",
+    "Company": "Galena Winery",
+    "Style": "White",
+    "ABV": 12.8,
+    "Calories": 122,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  }
+]
+

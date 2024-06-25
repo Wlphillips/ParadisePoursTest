@@ -1,0 +1,222 @@
+[
+  {
+    "Name": "Messina Hof Private Reserve Cabernet Sauvignon",
+    "Company": "Messina Hof Winery",
+    "Style": "Red",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Messina Hof Private Reserve Chardonnay",
+    "Company": "Messina Hof Winery",
+    "Style": "White",
+    "ABV": 12.5,
+    "Calories": 120,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Becker Vineyards Prairie Rotie",
+    "Company": "Becker Vineyards",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Becker Vineyards Viognier",
+    "Company": "Becker Vineyards",
+    "Style": "White",
+    "ABV": 13.0,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Pedernales Cellars Texas Tempranillo",
+    "Company": "Pedernales Cellars",
+    "Style": "Red",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Pedernales Cellars Viognier Reserve",
+    "Company": "Pedernales Cellars",
+    "Style": "White",
+    "ABV": 12.5,
+    "Calories": 120,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "William Chris Vineyards Enchante",
+    "Company": "William Chris Vineyards",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "William Chris Vineyards Mary Ruth",
+    "Company": "William Chris Vineyards",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Duchman Family Winery Aglianico",
+    "Company": "Duchman Family Winery",
+    "Style": "Red",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Duchman Family Winery Vermentino",
+    "Company": "Duchman Family Winery",
+    "Style": "White",
+    "ABV": 12.5,
+    "Calories": 120,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Llano Estacado 1836",
+    "Company": "Llano Estacado Winery",
+    "Style": "Red",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Llano Estacado Signature White",
+    "Company": "Llano Estacado Winery",
+    "Style": "White",
+    "ABV": 12.5,
+    "Calories": 120,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Fall Creek Vineyards GSM",
+    "Company": "Fall Creek Vineyards",
+    "Style": "Red",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Fall Creek Vineyards Sauvignon Blanc",
+    "Company": "Fall Creek Vineyards",
+    "Style": "White",
+    "ABV": 12.5,
+    "Calories": 120,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Lost Draw Cellars Sangiovese",
+    "Company": "Lost Draw Cellars",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Lost Draw Cellars Viognier",
+    "Company": "Lost Draw Cellars",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Bending Branch Winery Texas Tannat",
+    "Company": "Bending Branch Winery",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Bending Branch Winery Comfortage",
+    "Company": "Bending Branch Winery",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Flat Creek Estate Super Texan",
+    "Company": "Flat Creek Estate",
+    "Style": "Red",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Flat Creek Estate Pinot Grigio",
+    "Company": "Flat Creek Estate",
+    "Style": "White",
+    "ABV": 12.5,
+    "Calories": 120,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  }
+]
