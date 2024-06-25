@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Tito's Handmade Vodka",
+        "Company": "Tito's Handmade Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Ketel One Vodka",
+        "Company": "Ketel One",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Grey Goose Vodka",
+        "Company": "Grey Goose",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Absolut Vodka",
+        "Company": "The Absolut Company",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Belvedere Vodka",
+        "Company": "Belvedere Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Deep Eddy Vodka",
+        "Company": "Deep Eddy Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stolichnaya (Stoli) Vodka",
+        "Company": "Stoli Group",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Skyy Vodka",
+        "Company": "Skyy Spirits",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Smirnoff Vodka",
+        "Company": "Diageo",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Absolut Elyx Vodka",
+        "Company": "The Absolut Company",
+        "Style": "Vodka",
+        "ABV": 42.3,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "United States",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

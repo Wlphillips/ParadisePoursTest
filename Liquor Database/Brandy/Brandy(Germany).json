@@ -1,0 +1,57 @@
+[
+    {
+      "Name": "Asbach Uralt Brandy",
+      "Company": "Asbach GmbH",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Germany",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Mackie Bavarian Brandy",
+      "Company": "Mackie Bavarian Beverage GmbH",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Germany",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Penninger Blutwurz Brandy",
+      "Company": "Penninger Blutwurz",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Germany",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Lantenhammer Williams Christ Brandy",
+      "Company": "Lantenhammer Destillerie GmbH",
+      "Style": "Brandy",
+      "ABV": 40,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Germany",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Emil Scheibel Schwarzwald Brandy",
+      "Company": "Emil Scheibel Schwarzwald-Brennerei GmbH",
+      "Style": "Brandy",
+      "ABV": 40,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Germany",
+      "Rating": 0,
+      "Favorites": false
+    }
+]

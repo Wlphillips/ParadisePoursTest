@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Cîroc Vodka",
+        "Company": "Diageo",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Grey Goose Vodka",
+        "Company": "Grey Goose",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Belvedere Vodka",
+        "Company": "Belvedere Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Chopin Vodka",
+        "Company": "Chopin Imports Ltd.",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Poliakov Vodka",
+        "Company": "Poliakov Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stolichnaya (Stoli) Elit Vodka",
+        "Company": "Stoli Group",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bison Grass Vodka",
+        "Company": "Bison Grass Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pinnacle Vodka",
+        "Company": "Beam Suntory",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Crystal Head Vodka",
+        "Company": "Crystal Head Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Absolut Elyx Vodka",
+        "Company": "The Absolut Company",
+        "Style": "Vodka",
+        "ABV": 42.3,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

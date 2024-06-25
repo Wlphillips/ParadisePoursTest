@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "Bacardi Superior White Rum",
+        "Company": "Bacardi Limited",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Captain Morgan Original Spiced Rum",
+        "Company": "Diageo",
+        "Style": "Rum",
+        "ABV": 35,
+        "Calories": 86,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Malibu Coconut Rum",
+        "Company": "Pernod Ricard",
+        "Style": "Rum",
+        "ABV": 21,
+        "Calories": 51,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kraken Black Spiced Rum",
+        "Company": "Proximo Spirits",
+        "Style": "Rum",
+        "ABV": 47,
+        "Calories": 130,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cruzan Single Barrel Rum",
+        "Company": "Beam Suntory",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Appleton Estate Rare Blend 12 Year Old Rum",
+        "Company": "Appleton Estate",
+        "Style": "Rum",
+        "ABV": 43,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Jamaica",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

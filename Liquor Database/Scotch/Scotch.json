@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Glenfiddich 12 Year Old Single Malt Scotch Whisky",
+        "Company": "William Grant & Sons",
+        "Style": "Scotch",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Macallan 18 Year Old Sherry Oak Single Malt Scotch Whisky",
+        "Company": "The Macallan Distillers Ltd",
+        "Style": "Scotch",
+        "ABV": 43,
+        "Calories": 73,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Laphroaig 10 Year Old Single Malt Scotch Whisky",
+        "Company": "Laphroaig Distillery",
+        "Style": "Scotch",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Highland Park 18 Year Old Viking Pride Single Malt Scotch Whisky",
+        "Company": "Highland Park Distillery",
+        "Style": "Scotch",
+        "ABV": 43,
+        "Calories": 73,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Ardbeg 10 Year Old Islay Single Malt Scotch Whisky",
+        "Company": "Ardbeg Distillery",
+        "Style": "Scotch",
+        "ABV": 46,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Balvenie DoubleWood 12 Year Old Single Malt Scotch Whisky",
+        "Company": "The Balvenie Distillery",
+        "Style": "Scotch",
+        "ABV": 43,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Glenlivet 18 Year Old Single Malt Scotch Whisky",
+        "Company": "The Glenlivet Distillery",
+        "Style": "Scotch",
+        "ABV": 43,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Dalmore 18 Year Old Single Malt Scotch Whisky",
+        "Company": "The Dalmore Distillery",
+        "Style": "Scotch",
+        "ABV": 43,
+        "Calories": 73,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Springbank 15 Year Old Single Malt Scotch Whisky",
+        "Company": "Springbank Distillery",
+        "Style": "Scotch",
+        "ABV": 46,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Aberlour A'Bunadh Batch #70 Single Malt Scotch Whisky",
+        "Company": "Aberlour Distillery",
+        "Style": "Scotch",
+        "ABV": 59.8,
+        "Calories": 73,
+        "oz": 1.5,
+        "Origin": "Scotland",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

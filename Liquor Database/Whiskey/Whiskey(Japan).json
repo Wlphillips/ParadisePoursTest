@@ -1,0 +1,68 @@
+[
+    {
+      "Name": "Yamazaki 12 Year Old Single Malt Japanese Whisky",
+      "Company": "Yamazaki Distillery",
+      "Style": "Whiskey",
+      "ABV": 43,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Japan",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Hibiki Japanese Harmony Whisky",
+      "Company": "Suntory Whisky",
+      "Style": "Whiskey",
+      "ABV": 43,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Japan",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Nikka Coffey Malt Japanese Whisky",
+      "Company": "Nikka Whisky Distilling Co.",
+      "Style": "Whiskey",
+      "ABV": 45,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Japan",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Hakushu 12 Year Old Single Malt Japanese Whisky",
+      "Company": "Hakushu Distillery",
+      "Style": "Whiskey",
+      "ABV": 43,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Japan",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Yoichi Single Malt Japanese Whisky",
+      "Company": "Yoichi Distillery",
+      "Style": "Whiskey",
+      "ABV": 45,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Japan",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Chichibu The First Japanese Whisky",
+      "Company": "Chichibu Distillery",
+      "Style": "Whiskey",
+      "ABV": 61.8,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "Japan",
+      "Rating": 0,
+      "Favorites": false
+    }
+]

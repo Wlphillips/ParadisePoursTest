@@ -1,0 +1,101 @@
+[
+    {
+      "Name": "Xifengjiu Chinese Brandy",
+      "Company": "Xifeng Liquor Co., Ltd.",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "China",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Yimuquan Chinese Brandy",
+      "Company": "Yimuquan Wine Co., Ltd.",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "China",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Great Wall Brandy",
+      "Company": "China Great Wall Wine Co., Ltd.",
+      "Style": "Brandy",
+      "ABV": 42,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "China",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Shui Jing Fang Brandy",
+      "Company": "Sichuan Swellfun Co., Ltd.",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "China",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Luzhou Laojiao Brandy",
+      "Company": "Luzhou Laojiao Co., Ltd.",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "China",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Wuliangye Brandy",
+      "Company": "Wuliangye Yibin Co., Ltd.",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "China",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Jinro Brandy",
+      "Company": "Jinro Group Co., Ltd.",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "China",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Shengquan Brandy",
+      "Company": "Shengquan Group Co., Ltd.",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "China",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Yanghe Brandy",
+      "Company": "Yanghe Brewery Co., Ltd.",
+      "Style": "Brandy",
+      "ABV": 38,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "China",
+      "Rating": 0,
+      "Favorites": false
+    }
+]

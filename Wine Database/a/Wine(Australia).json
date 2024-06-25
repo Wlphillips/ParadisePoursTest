@@ -1,0 +1,156 @@
+[
+  {
+    "Name": "Penfolds Grange",
+    "Company": "Penfolds",
+    "Style": "Red",
+    "ABV": 14.5,
+    "Calories": 150,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Jacob's Creek Shiraz",
+    "Company": "Jacob's Creek",
+    "Style": "Red",
+    "ABV": 13.8,
+    "Calories": 140,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Hardys Eileen Hardy Chardonnay",
+    "Company": "Hardys",
+    "Style": "White",
+    "ABV": 13.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Yalumba The Signature Cabernet Sauvignon & Shiraz",
+    "Company": "Yalumba",
+    "Style": "Red",
+    "ABV": 14.2,
+    "Calories": 145,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Leeuwin Estate Art Series Chardonnay",
+    "Company": "Leeuwin Estate",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Brokenwood Graveyard Vineyard Shiraz",
+    "Company": "Brokenwood Wines",
+    "Style": "Red",
+    "ABV": 14.5,
+    "Calories": 150,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Chateau Tanunda Grand Barossa Shiraz",
+    "Company": "Chateau Tanunda",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 140,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Audrey Wilkinson Chardonnay",
+    "Company": "Audrey Wilkinson",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Seppeltsfield Shiraz",
+    "Company": "Seppeltsfield",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 140,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Harkham Aziza's Shiraz",
+    "Company": "Harkham Wine",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 140,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Ivanhoe Wines Cellar Door Hunter Valley Chardonnay",
+    "Company": "Ivanhoe Wines Cellar Door Hunter Valley",
+    "Style": "White",
+    "ABV": 13.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Rockford Winery Basket Press Shiraz",
+    "Company": "Rockford Winery",
+    "Style": "Red",
+    "ABV": 14.5,
+    "Calories": 150,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Yeringberg Chardonnay",
+    "Company": "Yeringberg",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Deep Woods Estate Chardonnay",
+    "Company": "Deep Woods Estate",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "Australia",
+    "Rating": 0,
+    "Favorites": false
+  }
+]

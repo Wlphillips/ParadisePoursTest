@@ -1,0 +1,156 @@
+[
+  {
+    "Name": "Chateau Ste. Michelle Cabernet Sauvignon",
+    "Company": "Chateau Ste. Michelle",
+    "Style": "Red",
+    "ABV": 13.8,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Chateau Ste. Michelle Chardonnay",
+    "Company": "Chateau Ste. Michelle",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Columbia Crest H3 Cabernet Sauvignon",
+    "Company": "Columbia Crest",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Columbia Crest Grand Estates Chardonnay",
+    "Company": "Columbia Crest",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Hedges Family Estate Red Mountain Blend",
+    "Company": "Hedges Family Estate",
+    "Style": "Red Blend",
+    "ABV": 14.2,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Hedges Family Estate CMS Sauvignon Blanc",
+    "Company": "Hedges Family Estate",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Leonetti Cellar Cabernet Sauvignon",
+    "Company": "Leonetti Cellar",
+    "Style": "Red",
+    "ABV": 14.5,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Leonetti Cellar Merlot",
+    "Company": "Leonetti Cellar",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Woodward Canyon Artist Series Cabernet Sauvignon",
+    "Company": "Woodward Canyon",
+    "Style": "Red",
+    "ABV": 14.5,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "Woodward Canyon Chardonnay",
+    "Company": "Woodward Canyon",
+    "Style": "White",
+    "ABV": 13.8,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "L'Ecole No. 41 Columbia Valley Cabernet Sauvignon",
+    "Company": "L'Ecole No. 41",
+    "Style": "Red",
+    "ABV": 14.0,
+    "Calories": 130,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "L'Ecole No. 41 Chenin Blanc",
+    "Company": "L'Ecole No. 41",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "K Vintners Syrah",
+    "Company": "K Vintners",
+    "Style": "Red",
+    "ABV": 14.5,
+    "Calories": 135,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  },
+  {
+    "Name": "K Vintners Viognier",
+    "Company": "K Vintners",
+    "Style": "White",
+    "ABV": 13.5,
+    "Calories": 125,
+    "oz": 5,
+    "Origin": "USA",
+    "Rating": 0,
+    "Favorites": false
+  }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Russian Standard Vodka",
+        "Company": "Russian Standard Corporation",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Stolichnaya (Stoli) Vodka",
+        "Company": "Stoli Group",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Beluga Noble Russian Vodka",
+        "Company": "JSC Synergy",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Smirnoff No. 21 Vodka",
+        "Company": "Diageo",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Moskovskaya Vodka",
+        "Company": "Soyuzplodoimport",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Belvedere Unfiltered Vodka",
+        "Company": "Belvedere Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Imperia Vodka",
+        "Company": "Russian Standard Corporation",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Zyr Vodka",
+        "Company": "Zyr Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Russian Standard Platinum Vodka",
+        "Company": "Russian Standard Corporation",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Kauffman Soft Private Collection Vodka",
+        "Company": "Kauffman Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Russia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

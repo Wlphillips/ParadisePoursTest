@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "Havana Club Añejo Blanco",
+        "Company": "Havana Club International S.A.",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Cuba",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Havana Club Añejo 3 Años",
+        "Company": "Havana Club International S.A.",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Cuba",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Havana Club Añejo 7 Años",
+        "Company": "Havana Club International S.A.",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Cuba",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Santiago de Cuba Añejo Rum",
+        "Company": "Santiago de Cuba Rum",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Cuba",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Ron Cubay Añejo Rum",
+        "Company": "Ron Cubay",
+        "Style": "Rum",
+        "ABV": 38,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Cuba",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Varadero Añejo Reserva Rum",
+        "Company": "Varadero",
+        "Style": "Rum",
+        "ABV": 38,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Cuba",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

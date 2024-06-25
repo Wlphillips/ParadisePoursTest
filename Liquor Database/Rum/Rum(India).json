@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Old Monk Gold Reserve Rum",
+        "Company": "Old Monk",
+        "Style": "Rum",
+        "ABV": 42.8,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Old Port Deluxe Matured Rum",
+        "Company": "Amrut Distilleries",
+        "Style": "Rum",
+        "ABV": 42.8,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hercules Rum",
+        "Company": "Khoday India Limited",
+        "Style": "Rum",
+        "ABV": 42.8,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "McDowell's No. 1 Celebration Matured XXX Rum",
+        "Company": "United Spirits Ltd",
+        "Style": "Rum",
+        "ABV": 42.8,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Contessa Premium XXX Rum",
+        "Company": "Radico Khaitan",
+        "Style": "Rum",
+        "ABV": 42.8,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "India",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "Name": "Hennessy Cognac",
+        "Company": "LVMH Moët Hennessy Louis Vuitton SE",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Rémy Martin Cognac",
+        "Company": "Rémy Cointreau",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Courvoisier Cognac",
+        "Company": "Courvoisier S.A.S.",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Martell Cognac",
+        "Company": "Pernod Ricard",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hine Cognac",
+        "Company": "EDV SAS HINE",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Camus Cognac",
+        "Company": "Camus La Grande Marque",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Frapin Cognac",
+        "Company": "Cognac Frapin",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Delamain Cognac",
+        "Company": "Delamain Cognac",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hardy Cognac",
+        "Company": "Maison Hardy",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gautier Cognac",
+        "Company": "Gautier Cognac",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pierre Ferrand Cognac",
+        "Company": "Cognac Pierre Ferrand",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Prince Hubert de Polignac Cognac",
+        "Company": "Prince Hubert de Polignac",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Pierre de Segonzac Cognac",
+        "Company": "Pierre de Segonzac",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Jean Fillioux Cognac",
+        "Company": "Jean Fillioux",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Daniel Bouju Cognac",
+        "Company": "Daniel Bouju",
+        "Style": "Cognac",
+        "ABV": 40,
+        "Calories": 69,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
