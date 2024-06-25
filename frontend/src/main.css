@@ -18,6 +18,25 @@
     justify-content: inherit;
   }
 
+  .menu{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+  }
+
+  .menu-button{
+    background: none;
+    color: white;
+    cursor: pointer;
+    padding-right: 75px;
+  }
+  
+  .menu-button:hover{
+    text-decoration: underline;
+    /* color: #a0522d; */
+    color: #e3d61e;
+  }
+
   .wine-header{
     display: flex;
     height: 56px;
@@ -46,6 +65,35 @@
     /* color: #a0522d; */
     color: #b01e4c;
   }
+
+  .login-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(160, 82, 45, 0.31);
+    padding: 15px 0;
+    align-items: center;
+    position: relative;
+  }
+
+  .login-header > div {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    justify-content: inherit;
+  }
+
+  .login-menu-button{
+    background: none;
+    color: white;
+    cursor: pointer;
+    padding-right: 75px;
+  }
+  
+  .login-menu-button:hover{
+    text-decoration: underline;
+    /* color: #a0522d; */
+    color: #662608;
+  }
   
   .logo-img {
     position: absolute;
@@ -53,12 +101,6 @@
     left: 15px;
     height: 120px; 
     z-index: 10; 
-  }
-  
-  .menu{
-    display: flex;
-    justify-content: right;
-    align-items: center;
   }
   
   .content {
@@ -108,19 +150,6 @@
   .footer {
     background-color: #d3a625;
     height: 100px;
-  }
-  
-  .menu-button{
-    background: none;
-    color: white;
-    cursor: pointer;
-    padding-right: 75px;
-  }
-  
-  .menu-button:hover{
-    text-decoration: underline;
-    /* color: #a0522d; */
-    color: #e3d61e;
   }
   
   .beerTap {

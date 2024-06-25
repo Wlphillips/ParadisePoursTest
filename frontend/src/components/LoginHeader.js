@@ -4,12 +4,12 @@ import '../main.css';
 
 function LoginHeader(){
     return(
-        <div className="header">
+        <div className="login-header">
             <div>
                 <a href="/"><img src={logoImage} alt="Paradise Pours Logo" class="logo-img"></img></a>
             </div>
             <div class="menu">
-            <div className="aboutus menu-button">About Us</div>
+            <div className="aboutus login-menu-button">About Us</div>
             </div>
         </div>
     );
