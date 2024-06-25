@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Citadelle Gin",
+        "Company": "Citadelle Gin",
+        "Style": "Gin",
+        "ABV": 44,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "G'Vine Gin",
+        "Company": "G'Vine Gin",
+        "Style": "Gin",
+        "ABV": 40,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Noilly Prat Dry Gin",
+        "Company": "Noilly Prat",
+        "Style": "Gin",
+        "ABV": 47.5,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Gin de France",
+        "Company": "Distillerie du Vercors",
+        "Style": "Gin",
+        "ABV": 40,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Audemus Pink Pepper Gin",
+        "Company": "Audemus Spirits",
+        "Style": "Gin",
+        "ABV": 44,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "France",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

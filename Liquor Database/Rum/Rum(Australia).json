@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "Inner Circle Green Dot Rum",
+        "Company": "Inner Circle Rum",
+        "Style": "Rum",
+        "ABV": 57.2,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bundaberg Rum",
+        "Company": "Bundaberg Distilling Company",
+        "Style": "Rum",
+        "ABV": 37,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Beenleigh Rum",
+        "Company": "Beenleigh Artisan Distillers",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hoochery Distillery Rum",
+        "Company": "Hoochery Distillery",
+        "Style": "Rum",
+        "ABV": 43,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Limeburners Rum",
+        "Company": "Limeburners",
+        "Style": "Rum",
+        "ABV": 43,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Lord Byron Distillery Rum",
+        "Company": "Lord Byron Distillery",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Australia",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

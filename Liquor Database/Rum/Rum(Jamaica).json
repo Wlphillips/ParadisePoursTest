@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "Appleton Estate Signature Blend Rum",
+        "Company": "Appleton Estate",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Jamaica",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Appleton Estate Reserve Blend Rum",
+        "Company": "Appleton Estate",
+        "Style": "Rum",
+        "ABV": 43,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Jamaica",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Appleton Estate 12 Year Old Rare Blend Rum",
+        "Company": "Appleton Estate",
+        "Style": "Rum",
+        "ABV": 43,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Jamaica",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Wray & Nephew White Overproof Rum",
+        "Company": "Wray & Nephew",
+        "Style": "Rum",
+        "ABV": 63,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Jamaica",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hampden Estate Rum",
+        "Company": "Hampden Estate",
+        "Style": "Rum",
+        "ABV": 46,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Jamaica",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Doctor Bird Jamaica Rum",
+        "Company": "National Rums of Jamaica",
+        "Style": "Rum",
+        "ABV": 50,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Jamaica",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

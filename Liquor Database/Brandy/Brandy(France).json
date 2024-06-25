@@ -1,0 +1,57 @@
+[
+    {
+      "Name": "Hennessy Cognac",
+      "Company": "LVMH Moët Hennessy Louis Vuitton SE",
+      "Style": "Brandy",
+      "ABV": 40,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "France",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Rémy Martin Cognac",
+      "Company": "Rémy Cointreau",
+      "Style": "Brandy",
+      "ABV": 40,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "France",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Courvoisier Cognac",
+      "Company": "Courvoisier S.A.S.",
+      "Style": "Brandy",
+      "ABV": 40,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "France",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Martell Cognac",
+      "Company": "Pernod Ricard",
+      "Style": "Brandy",
+      "ABV": 40,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "France",
+      "Rating": 0,
+      "Favorites": false
+    },
+    {
+      "Name": "Hine Cognac",
+      "Company": "EDV SAS HINE",
+      "Style": "Brandy",
+      "ABV": 40,
+      "Calories": 69,
+      "oz": 1.5,
+      "Origin": "France",
+      "Rating": 0,
+      "Favorites": false
+    }
+]

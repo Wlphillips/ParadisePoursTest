@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Mount Gay Eclipse Rum",
+        "Company": "Mount Gay Distilleries",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Doorly's XO Rum",
+        "Company": "Foursquare Distillery",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "The Real McCoy 12 Year Old Rum",
+        "Company": "Foursquare Distillery",
+        "Style": "Rum",
+        "ABV": 46,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Mount Gay XO Rum",
+        "Company": "Mount Gay Distilleries",
+        "Style": "Rum",
+        "ABV": 43,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Foursquare Premise Rum",
+        "Company": "Foursquare Distillery",
+        "Style": "Rum",
+        "ABV": 46,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Mount Gay Black Barrel Rum",
+        "Company": "Mount Gay Distilleries",
+        "Style": "Rum",
+        "ABV": 43,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cockspur Fine Rum",
+        "Company": "Cockspur Rum Company",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "St. Nicholas Abbey 10 Year Old Rum",
+        "Company": "St. Nicholas Abbey",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Foursquare Criterion Rum",
+        "Company": "Foursquare Distillery",
+        "Style": "Rum",
+        "ABV": 56,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Old Brigand Rum",
+        "Company": "West Indies Rum Distillery",
+        "Style": "Rum",
+        "ABV": 43,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Barbados",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

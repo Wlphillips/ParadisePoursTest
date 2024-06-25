@@ -1,0 +1,46 @@
+[
+    {
+        "Name": "Tanduay Dark Rhum",
+        "Company": "Tanduay Distillers",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Don Papa Rum",
+        "Company": "Don Papa",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Tanduay Silver Asian Rum",
+        "Company": "Tanduay Distillers",
+        "Style": "Rum",
+        "ABV": 40,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Emperador Light Brandy",
+        "Company": "Emperador Distillers",
+        "Style": "Rum",
+        "ABV": 27,
+        "Calories": 65,
+        "oz": 1.5,
+        "Origin": "Philippines",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Aviation American Gin",
+        "Company": "House Spirits Distillery",
+        "Style": "Gin",
+        "ABV": 42,
+        "Calories": 73,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Hendrick's Gin",
+        "Company": "William Grant & Sons",
+        "Style": "Gin",
+        "ABV": 44,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Brooklyn Gin",
+        "Company": "Brooklyn Craft Works",
+        "Style": "Gin",
+        "ABV": 40,
+        "Calories": 70,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bluecoat American Dry Gin",
+        "Company": "Philadelphia Distilling",
+        "Style": "Gin",
+        "ABV": 47,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Ransom Dry Gin",
+        "Company": "Ransom Spirits",
+        "Style": "Gin",
+        "ABV": 44,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "St. George Botanivore Gin",
+        "Company": "St. George Spirits",
+        "Style": "Gin",
+        "ABV": 45,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Greenhook Ginsmiths American Dry Gin",
+        "Company": "Greenhook Ginsmiths",
+        "Style": "Gin",
+        "ABV": 47,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Death's Door Gin",
+        "Company": "Death's Door Spirits",
+        "Style": "Gin",
+        "ABV": 47,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Citadelle Gin",
+        "Company": "Citadelle Gin",
+        "Style": "Gin",
+        "ABV": 44,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Nolet's Silver Dry Gin",
+        "Company": "Nolet Distillery",
+        "Style": "Gin",
+        "ABV": 47.6,
+        "Calories": 75,
+        "oz": 1.5,
+        "Origin": "USA",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

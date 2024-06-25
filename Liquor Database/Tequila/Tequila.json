@@ -1,0 +1,156 @@
+[
+    {
+        "Name": "Patrón Silver Tequila",
+        "Company": "Patrón Spirits Company",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Don Julio Blanco Tequila",
+        "Company": "Don Julio",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Casa Noble Crystal Tequila",
+        "Company": "Casa Noble Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Herradura Silver Tequila",
+        "Company": "Herradura Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Espolòn Blanco Tequila",
+        "Company": "Espolòn Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Milagro Silver Tequila",
+        "Company": "Milagro Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Sauza Signature Blue Silver Tequila",
+        "Company": "Sauza Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Olmeca Altos Plata Tequila",
+        "Company": "Olmeca Altos Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "El Jimador Blanco Tequila",
+        "Company": "El Jimador Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Corralejo Blanco Tequila",
+        "Company": "Corralejo Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Fortaleza Blanco Tequila",
+        "Company": "Fortaleza Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cazadores Blanco Tequila",
+        "Company": "Cazadores Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Clase Azul Plata Tequila",
+        "Company": "Clase Azul Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Azul Reposado Tequila",
+        "Company": "Azul Tequila",
+        "Style": "Tequila",
+        "ABV": 40,
+        "Calories": 64,
+        "oz": 1.5,
+        "Origin": "Mexico",
+        "Rating": 0,
+        "Favorites": false
+    }
+]

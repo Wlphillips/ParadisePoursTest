@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Ketel One Vodka",
+        "Company": "Ketel One",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Grey Goose Vodka",
+        "Company": "Grey Goose",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Cîroc Vodka",
+        "Company": "Diageo",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Effen Vodka",
+        "Company": "Beam Suntory",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Bols Vodka",
+        "Company": "Lucas Bols",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Van Gogh Vodka",
+        "Company": "Royal Dirkzwager Distilleries",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Boomsma Jonge Graanjenever",
+        "Company": "Boomsma Distillery",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Ketel One Botanical",
+        "Company": "Ketel One",
+        "Style": "Vodka",
+        "ABV": 30,
+        "Calories": 73,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Vincent Van Gogh Vodka",
+        "Company": "Royal Dirkzwager Distilleries",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    },
+    {
+        "Name": "Loyalty Vodka",
+        "Company": "Loyalty Vodka",
+        "Style": "Vodka",
+        "ABV": 40,
+        "Calories": 96,
+        "oz": 1.5,
+        "Origin": "Netherlands",
+        "Rating": 0,
+        "Favorites": false
+    }
+]
