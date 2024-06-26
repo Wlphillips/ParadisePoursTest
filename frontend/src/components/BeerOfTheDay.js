@@ -19,7 +19,7 @@ function BeerOfTheDay(){
                 </h2>
                 <div class = "grid">
                     <div class = "grid-item">Company:<br></br> _______</div>
-                    <div class = "grid-item">Stlye:<br></br>_______</div>
+                    <div class = "grid-item">Style:<br></br>_______</div>
                     <div class = "grid-item">ABV:<br></br>_______</div>
                     <div class = "grid-item">Calories:<br></br>_______</div>
                     <div class = "grid-item">Origin:<br></br>_______</div>

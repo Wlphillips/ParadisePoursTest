@@ -92,7 +92,7 @@
   .login-menu-button:hover{
     text-decoration: underline;
     /* color: #a0522d; */
-    color: #662608;
+    color: #913704;
   }
   
   .logo-img {
@@ -242,12 +242,6 @@
     border-bottom: 1px solid black;
   }
   
-  
-
-
-
-
-
   .image-container {
     position: relative;
     width: 100%;

@@ -11,7 +11,7 @@ function LoginHeader(){
                 <a href="/"><img src={logoImage} alt="Paradise Pours Logo" class="logo-img"></img></a>
             </div>
             <div class="menu">
-            <Link to = "/about+us" className="aboutus wine-menu-button">About Us</Link>
+            <Link to = "/about+us" className="aboutus login-menu-button">About Us</Link>
             </div>
         </div>
     );
