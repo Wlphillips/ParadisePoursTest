@@ -104,6 +104,8 @@
   }
   
   .content {
+    display: flex;
+    flex-direction: column;
     position: relative;
     height: 1075px;
     /*background-image: url('./images/Bar_pic.jpeg');*/
@@ -118,21 +120,134 @@
   }
   
   .about-us {
+    display: flex;
+    flex-direction: column;
     position: absolute;
-    left: 30%;
-    top: 20%;
-    color: white;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.6); 
+    backdrop-filter: blur(8px);
+    border: 10px solid #e0bf19;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    left: 15%;
+    top: 15%;
+    color: black;
+    font-weight: bold;
     font-size: 24px;
+    padding: 30px;
+    width: 23%;
+  }
+  .about-us > h1{
+    text-decoration: underline;
+    font-size: 36px;
+  }
+
+  .about-us > p{
+    font-weight: normal;
+    line-height: 1.55;
+  }
+
+  #AU, #BOTD{
+    flex: 1;
   }
   
   .beer-of-the-day {
+    display: flex;
+    flex-direction: column;
     position: absolute;
-    right: 10%;
-    top: 20%;
-    color: white;
-    font-size: 24px;
+    align-items: center;
+    background-color: rgb(255, 255, 255, 0.75);
+    border: 10px solid #ebc713;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 48%;
+    top: 15%;
+    left: 10%;
+    bottom: 15%;
+  }
+
+  .beer-of-the-day > div{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px;
+    font-size: 36px;
+  }
+
+  .beer-of-the-day > div > h1{
+    justify-content: space-between;
+    /* text-decoration: underline; */
+    padding-top: 15px;
+    padding-bottom: 5px;
+    margin: 0px;
+    font-size: 36px;
+  }
+
+  .beer-of-the-day > div> img{
+    top: 0;
+    margin: 0px;
+    width: 20%;
+  }
+
+  .botd-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    flex-grow: 1;
+    height: 100%;
+  }
+
+  .botd-nutri-values{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 100%;
+    width: 100%;
+  }
+
+  .botd-nutri-values > h2{
+    margin: 0px;
+    font-size: 36px;
+  }
+
+  .grid {
+    padding: 35px;
+    display: grid;
+    flex-grow: 1;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, auto);
   }
   
+  .grid-item {
+    position: relative;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .grid-item:nth-child(2n) {
+    border-left: 1px solid black;
+  }
+
+  .grid-item:nth-child(4n){
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+  .grid-item:nth-child(4n -1){
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+  
+  
+
+
+
+
+
   .image-container {
     position: relative;
     width: 100%;

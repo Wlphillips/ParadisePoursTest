@@ -5,6 +5,7 @@ import { BrowserRouter, Router, Routes, Route, Link} from "react-router-dom";
 import BeerPage from './pages/BeerPage.js';
 import LiquorPage from './pages/LiquorPage.js';
 import WinePage from './pages/WinePage.js';
+import AboutUsPage from './pages/AboutUsPage.js'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/wine" element={<WinePage />}></Route>
         <Route path="/liquor" element={<LiquorPage />}></Route>
         <Route path="/login" element={<LoginPage />}></Route>
+        <Route path="/about+us" element={<AboutUsPage />}> </Route>
       </Routes>
     </BrowserRouter>
   );

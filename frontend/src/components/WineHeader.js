@@ -1,6 +1,8 @@
 import React from 'react';
 import logoImage from "../images/Paradise_Pours_Logo_Circle.png";
 import '../main.css';
+import { Link } from 'react-router-dom';
+
 
 function WineHeader(){
     return(
@@ -9,7 +11,7 @@ function WineHeader(){
                 <a href="/"><img src={logoImage} alt="Paradise Pours Logo" class="logo-img"></img></a>
             </div>
             <div class="menu">
-            <div className="aboutus wine-menu-button">About Us</div>
+            <Link to = "/about+us" className="aboutus wine-menu-button">About Us</Link>
             </div>
         </div>
     );
