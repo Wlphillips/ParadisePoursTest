@@ -7,6 +7,11 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
+const userAPI = require('./API/user');
+const beerAPI = require('./API/beer'); // Import beer API
+app.use('/api', userAPI); // Mount user APIs
+app.use('/api', beerAPI); // Mount beer API
+
 // CORS Middleware
 app.use((req, res, next) => 
 {
@@ -28,5 +33,10 @@ connectDatabase().then(() => {
   const userAPI = require('./API/user');
   app.use('/api', userAPI); // To access user APIs, you would need to add '/api' before any route (i.e. /api/login)
 
-  app.listen(5000); // Starts server on port 5000
+  try{
+    app.listen(5000); // Starts server on port 5000
+  }
+  catch(error){
+    console.log("Server not started...");
+  }
 })

@@ -31,6 +31,16 @@ router.post('/searchBeer', async(req, res) => {
     }
 })
 
+router.get('/getAllBeers', async (req, res) => {
+    const db = getClient().db('AlcoholDatabase'); // Replace with your database name
+    const beers = await db.collection('Beer').find({}).toArray();
 
+    if(beers.length > 0){
+        res.status(200).json({beers})
+    }
+    else{
+        res.status(400).json({error:"Couldn't retrieve all beers..."})
+    }
+});
 
 module.exports = router

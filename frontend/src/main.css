@@ -227,6 +227,7 @@
     position: relative;
     padding: 20px;
     text-align: center;
+    font-size: 24px;
   }
   
   .grid-item:nth-child(2n) {
@@ -240,6 +241,12 @@
   .grid-item:nth-child(4n -1){
     border-top: 1px solid black;
     border-bottom: 1px solid black;
+  }
+
+  .grid-header{
+    font-weight: bold;
+    font-size: 36px;
+    margin: 0;
   }
   
   .image-container {
