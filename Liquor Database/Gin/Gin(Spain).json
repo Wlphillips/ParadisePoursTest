@@ -7,8 +7,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Gin Mare",
@@ -18,19 +18,19 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Xoriguer Mahón Gin",
+        "Name": "Xoriguer Mah\u00f3n Gin",
         "Company": "Xoriguer",
         "Style": "Gin",
         "ABV": 38,
         "Calories": 75,
         "oz": 1.5,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Larios Gin",
@@ -40,8 +40,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Gin Mare Mediterranean Gin",
@@ -51,7 +51,7 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

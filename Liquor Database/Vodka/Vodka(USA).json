@@ -7,8 +7,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ketel One Vodka",
@@ -18,8 +18,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Grey Goose Vodka",
@@ -29,8 +29,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Absolut Vodka",
@@ -40,8 +40,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Belvedere Vodka",
@@ -51,8 +51,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Deep Eddy Vodka",
@@ -62,8 +62,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stolichnaya (Stoli) Vodka",
@@ -73,8 +73,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Skyy Vodka",
@@ -84,8 +84,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Smirnoff Vodka",
@@ -95,8 +95,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Absolut Elyx Vodka",
@@ -106,7 +106,7 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "United States",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

@@ -7,8 +7,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Jamaica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Appleton Estate Reserve Blend Rum",
@@ -18,8 +18,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Jamaica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Appleton Estate 12 Year Old Rare Blend Rum",
@@ -29,8 +29,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Jamaica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Wray & Nephew White Overproof Rum",
@@ -40,8 +40,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Jamaica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hampden Estate Rum",
@@ -51,8 +51,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Jamaica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Doctor Bird Jamaica Rum",
@@ -62,7 +62,7 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Jamaica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

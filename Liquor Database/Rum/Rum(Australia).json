@@ -7,8 +7,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bundaberg Rum",
@@ -18,8 +18,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Beenleigh Rum",
@@ -29,8 +29,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hoochery Distillery Rum",
@@ -40,8 +40,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Limeburners Rum",
@@ -51,8 +51,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Lord Byron Distillery Rum",
@@ -62,7 +62,7 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

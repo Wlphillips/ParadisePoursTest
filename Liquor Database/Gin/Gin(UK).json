@@ -7,8 +7,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bombay Sapphire Gin",
@@ -18,8 +18,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hendrick's Gin",
@@ -29,8 +29,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sipsmith London Dry Gin",
@@ -40,8 +40,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Gordon's London Dry Gin",
@@ -51,8 +51,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Beefeater London Dry Gin",
@@ -62,8 +62,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Portobello Road No. 171 Gin",
@@ -73,8 +73,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Martin Miller's Gin",
@@ -84,8 +84,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Silent Pool Gin",
@@ -95,8 +95,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "The Botanist Islay Dry Gin",
@@ -106,8 +106,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Brockmans Intensely Smooth Gin",
@@ -117,7 +117,7 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "UK",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
