@@ -1,14 +1,14 @@
 [
     {
-        "Name": "Zlatý Bažant",
+        "Name": "Zlat\u00fd Ba\u017eant",
         "Company": "Heineken Slovensko",
         "Style": "Pale Lager",
         "ABV": 5.0,
         "Calories": 150,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Steiger",
@@ -18,19 +18,19 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Šariš",
+        "Name": "\u0160ari\u0161",
         "Company": "Heineken Slovensko",
         "Style": "Pale Lager",
         "ABV": 4.1,
         "Calories": 120,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Topvar",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Martiner",
@@ -51,30 +51,30 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Bratislavský ležiak",
+        "Name": "Bratislavsk\u00fd le\u017eiak",
         "Company": "Stein Brewery",
         "Style": "Pale Lager",
         "ABV": 4.3,
         "Calories": 130,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Sessler 13°",
+        "Name": "Sessler 13\u00b0",
         "Company": "Sessler Brewery",
         "Style": "Pale Lager",
         "ABV": 5.0,
         "Calories": 150,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kaltenecker",
@@ -84,8 +84,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tatran",
@@ -95,18 +95,18 @@
         "Calories": 130,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Zlatý Bažant Radler",
+        "Name": "Zlat\u00fd Ba\u017eant Radler",
         "Company": "Heineken Slovensko",
         "Style": "Radler",
         "ABV": 2.0,
         "Calories": 90,
         "oz": 12,
         "Origin": "Slovakia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

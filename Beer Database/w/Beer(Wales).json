@@ -1,46 +1,46 @@
 [
-  {
-    "Name": "Brains SA",
-    "Company": "Brains Brewery",
-    "Style": "Bitter",
-    "ABV": 4.2,
-    "Calories": 160,
-    "oz": 12,
-    "Origin": "Wales",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Cwrw Braf",
-    "Company": "Cwrw Braf Brewery",
-    "Style": "Pale Ale",
-    "ABV": 4.5,
-    "Calories": 150,
-    "oz": 12,
-    "Origin": "Wales",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Tiny Rebel Cwtch",
-    "Company": "Tiny Rebel Brewing Co.",
-    "Style": "Red Ale",
-    "ABV": 4.6,
-    "Calories": 155,
-    "oz": 12,
-    "Origin": "Wales",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Purple Moose Dark Side of the Moose",
-    "Company": "Purple Moose Brewery",
-    "Style": "Dark Ale",
-    "ABV": 4.6,
-    "Calories": 170,
-    "oz": 12,
-    "Origin": "Wales",
-    "Rating": 0,
-    "Favorites": false
-  }
+    {
+        "Name": "Brains SA",
+        "Company": "Brains Brewery",
+        "Style": "Bitter",
+        "ABV": 4.2,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Wales",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Cwrw Braf",
+        "Company": "Cwrw Braf Brewery",
+        "Style": "Pale Ale",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Wales",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Tiny Rebel Cwtch",
+        "Company": "Tiny Rebel Brewing Co.",
+        "Style": "Red Ale",
+        "ABV": 4.6,
+        "Calories": 155,
+        "oz": 12,
+        "Origin": "Wales",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Purple Moose Dark Side of the Moose",
+        "Company": "Purple Moose Brewery",
+        "Style": "Dark Ale",
+        "ABV": 4.6,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Wales",
+        "Ratings": [],
+        "Favorites": []
+    }
 ]

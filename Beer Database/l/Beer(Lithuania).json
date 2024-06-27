@@ -1,25 +1,25 @@
 [
     {
-        "Name": "Švyturys Ekstra",
-        "Company": "Švyturys Brewery",
+        "Name": "\u0160vyturys Ekstra",
+        "Company": "\u0160vyturys Brewery",
         "Style": "Pale Lager",
         "ABV": 5.2,
         "Calories": 150,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Švyturys Baltijos",
-        "Company": "Švyturys Brewery",
+        "Name": "\u0160vyturys Baltijos",
+        "Company": "\u0160vyturys Brewery",
         "Style": "Lager",
         "ABV": 5.4,
         "Calories": 160,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Utenos Premium",
@@ -29,8 +29,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Utenos Porteris",
@@ -40,8 +40,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kalnapilis Original",
@@ -51,8 +51,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kalnapilis 7 Stars",
@@ -62,30 +62,30 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Svyturys Baltijos Dark",
-        "Company": "Švyturys Brewery",
+        "Company": "\u0160vyturys Brewery",
         "Style": "Dark Lager",
         "ABV": 5.8,
         "Calories": 170,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Volfas Engelman Grünberger Hefeweizen",
+        "Name": "Volfas Engelman Gr\u00fcnberger Hefeweizen",
         "Company": "Volfas Engelman",
         "Style": "Hefeweizen",
         "ABV": 5,
         "Calories": 200,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Volfas Engelman Grand Lager",
@@ -95,8 +95,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Volfas Engelman Extra",
@@ -106,7 +106,7 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Lithuania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

@@ -7,8 +7,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Innis & Gunn Original",
@@ -18,8 +18,8 @@
         "Calories": 210,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Belhaven Scottish Ale",
@@ -29,8 +29,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Harviestoun Ola Dubh",
@@ -40,8 +40,8 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Williams Bros. Joker IPA",
@@ -51,8 +51,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Orkney Dark Island",
@@ -62,8 +62,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Fyne Ales Jarl",
@@ -73,8 +73,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Black Isle Yellowhammer",
@@ -84,8 +84,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tempest Brave New World",
@@ -95,8 +95,8 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cromarty Brewing Co. Happy Chappy",
@@ -106,7 +106,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

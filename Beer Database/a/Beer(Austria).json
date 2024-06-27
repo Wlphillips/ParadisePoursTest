@@ -1,14 +1,14 @@
 [
     {
-        "Name": "Stiegl Goldbräu",
+        "Name": "Stiegl Goldbr\u00c3\u00a4u",
         "Company": "Stiegl Brewery",
-        "Style": "Märzen",
+        "Style": "M\u00c3\u00a4rzen",
         "ABV": 4,
         "Calories": 180,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stiegl Paracelsus Zwickl",
@@ -18,8 +18,8 @@
         "Calories": 190,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stiegl Columbus 1492",
@@ -29,74 +29,74 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Gösser Märzen",
-        "Company": "Gösser Brewery",
-        "Style": "Märzen",
+        "Name": "G\u00c3\u00b6sser M\u00c3\u00a4rzen",
+        "Company": "G\u00c3\u00b6sser Brewery",
+        "Style": "M\u00c3\u00a4rzen",
         "ABV": 5,
         "Calories": 190,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Gösser Naturgold",
-        "Company": "Gösser Brewery",
+        "Name": "G\u00c3\u00b6sser Naturgold",
+        "Company": "G\u00c3\u00b6sser Brewery",
         "Style": "Zwickl",
         "ABV": 5,
         "Calories": 200,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Gösser Radler",
-        "Company": "Gösser Brewery",
+        "Name": "G\u00c3\u00b6sser Radler",
+        "Company": "G\u00c3\u00b6sser Brewery",
         "Style": "Radler",
         "ABV": 2,
         "Calories": 150,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Hofbräu Kaltenhausen Edelweiss Weissbier",
-        "Company": "Hofbräu Kaltenhausen",
+        "Name": "Hofbr\u00c3\u00a4u Kaltenhausen Edelweiss Weissbier",
+        "Company": "Hofbr\u00c3\u00a4u Kaltenhausen",
         "Style": "Hefeweizen",
         "ABV": 5,
         "Calories": 200,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Hofbräu Kaltenhausen Gamsbock",
-        "Company": "Hofbräu Kaltenhausen",
+        "Name": "Hofbr\u00c3\u00a4u Kaltenhausen Gamsbock",
+        "Company": "Hofbr\u00c3\u00a4u Kaltenhausen",
         "Style": "Doppelbock",
         "ABV": 7,
         "Calories": 270,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Egger Märzen",
+        "Name": "Egger M\u00c3\u00a4rzen",
         "Company": "Egger Brewery",
-        "Style": "Märzen",
+        "Style": "M\u00c3\u00a4rzen",
         "ABV": 5,
         "Calories": 200,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Egger Zwickl",
@@ -106,8 +106,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Samichlaus Classic",
@@ -117,18 +117,18 @@
         "Calories": 340,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Urbock 23°",
+        "Name": "Urbock 23\u00c2\u00b0",
         "Company": "Brauerei Schloss Eggenberg",
         "Style": "Bock",
         "ABV": 10,
         "Calories": 320,
         "oz": 12,
         "Origin": "Austria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

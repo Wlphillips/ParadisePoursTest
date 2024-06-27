@@ -7,8 +7,8 @@
         "Calories": 320,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Westvleteren 8 (VIII)",
@@ -18,8 +18,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Westvleteren Blonde (6)",
@@ -29,8 +29,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cantillon Gueuze",
@@ -40,8 +40,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cantillon Kriek",
@@ -51,8 +51,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cantillon Fou' Foune",
@@ -62,8 +62,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Saison Dupont",
@@ -73,8 +73,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Moinette Blonde",
@@ -84,8 +84,8 @@
         "Calories": 210,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Avec les Bons Voeux",
@@ -95,8 +95,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Rodenbach Grand Cru",
@@ -106,8 +106,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Rodenbach Classic",
@@ -117,19 +117,19 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Rodenbach Caractère Rouge",
+        "Name": "Rodenbach Caract\u00c3\u00a8re Rouge",
         "Company": "Brouwerij Rodenbach",
         "Style": "Fruit Beer",
         "ABV": 7,
         "Calories": 210,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kwak",
@@ -139,8 +139,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tripel Karmeliet",
@@ -150,19 +150,18 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Deus Brut des Flandres",
         "Company": "Brouwerij Bosteels",
-        "Style": "Bière de Champagne / Belgian Strong Ale",
+        "Style": "Bi\u00c3\u00a8re de Champagne / Belgian Strong Ale",
         "ABV": 11.5,
         "Calories": 300,
         "oz": 12,
         "Origin": "Belgium",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
-

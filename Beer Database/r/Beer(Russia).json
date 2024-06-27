@@ -7,8 +7,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Zhiguli Barnoe",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Siberian Crown Imperial",
@@ -29,8 +29,8 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ochakovo Premium",
@@ -40,8 +40,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Baltika 6 Porter",
@@ -51,8 +51,8 @@
         "Calories": 210,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Jaws Premium",
@@ -62,8 +62,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bochkarev Original",
@@ -73,8 +73,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Baltika 9 Extra (Strong)",
@@ -84,8 +84,8 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Baltika 4 Original (Dark Lager)",
@@ -95,8 +95,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Krynitsa Premium",
@@ -106,7 +106,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

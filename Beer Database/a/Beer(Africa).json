@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "South Africa",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Carling Black Label",
@@ -18,8 +18,8 @@
         "Calories": 155,
         "oz": 12,
         "Origin": "South Africa",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Castle Milk Stout",
@@ -29,8 +29,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "South Africa",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Star Lager",
@@ -40,8 +40,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Nigeria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Gulder",
@@ -51,8 +51,8 @@
         "Calories": 148,
         "oz": 12,
         "Origin": "Nigeria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Heineken",
@@ -62,8 +62,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Nigeria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tusker Lager",
@@ -73,8 +73,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Kenya",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tusker Malt Lager",
@@ -84,8 +84,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Kenya",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tusker Lite",
@@ -95,8 +95,8 @@
         "Calories": 110,
         "oz": 12,
         "Origin": "Kenya",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Primus",
@@ -106,19 +106,19 @@
         "Calories": 145,
         "oz": 12,
         "Origin": "Rwanda",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Mützig",
+        "Name": "M\u00c3\u00bctzig",
         "Company": "Bralirwa",
         "Style": "Lager",
         "ABV": 5.5,
         "Calories": 150,
         "oz": 12,
         "Origin": "Rwanda",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Amstel",
@@ -128,8 +128,8 @@
         "Calories": 148,
         "oz": 12,
         "Origin": "Rwanda",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Windhoek Lager",
@@ -139,8 +139,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Namibia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Windhoek Draught",
@@ -150,8 +150,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Namibia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tafel Lager",
@@ -161,7 +161,7 @@
         "Calories": 145,
         "oz": 12,
         "Origin": "Namibia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

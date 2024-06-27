@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Red Horse Extra Strong",
@@ -18,8 +18,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "San Miguel Light",
@@ -29,8 +29,8 @@
         "Calories": 100,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "San Miguel Super Dry",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "San Miguel Premium All-Malt",
@@ -51,8 +51,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "San Miguel Cerveza Negra",
@@ -62,8 +62,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Pale Pilsen",
@@ -73,8 +73,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Red Horse Beer",
@@ -84,8 +84,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Gold Eagle Beer",
@@ -95,8 +95,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Colt 45",
@@ -106,7 +106,7 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

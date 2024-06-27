@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Bolivia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bolivian Red Ale",
@@ -18,75 +18,73 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Bolivia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Huari",
-        "Company": "Huari Cervecería",
+        "Company": "Huari Cervecer\u00c3\u00ada",
         "Style": "Lager",
         "ABV": 4.8,
         "Calories": 150,
         "oz": 12,
         "Origin": "Bolivia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Huari Strong",
-        "Company": "Huari Cervecería",
+        "Company": "Huari Cervecer\u00c3\u00ada",
         "Style": "Strong Lager",
         "ABV": 7.0,
         "Calories": 210,
         "oz": 12,
         "Origin": "Bolivia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stier Blonde Ale",
-        "Company": "Stier Cervecería",
+        "Company": "Stier Cervecer\u00c3\u00ada",
         "Style": "Blonde Ale",
         "ABV": 5.0,
         "Calories": 170,
         "oz": 12,
         "Origin": "Bolivia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stier Brown Ale",
-        "Company": "Stier Cervecería",
+        "Company": "Stier Cervecer\u00c3\u00ada",
         "Style": "Brown Ale",
         "ABV": 5.5,
         "Calories": 180,
         "oz": 12,
         "Origin": "Bolivia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Franziskaner Weissbier",
-        "Company": "Franziskaner Cervecería",
+        "Company": "Franziskaner Cervecer\u00c3\u00ada",
         "Style": "Hefeweizen",
         "ABV": 5.0,
         "Calories": 200,
         "oz": 12,
         "Origin": "Bolivia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Franziskaner Dunkel",
-        "Company": "Franziskaner Cervecería",
+        "Company": "Franziskaner Cervecer\u00c3\u00ada",
         "Style": "Dunkelweizen",
         "ABV": 5.2,
         "Calories": 210,
         "oz": 12,
         "Origin": "Bolivia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
-
-

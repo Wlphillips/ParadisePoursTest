@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Luxembourg",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bofferding Pils",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Luxembourg",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bofferding Amber",
@@ -29,8 +29,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Luxembourg",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Diekirch Premium",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Luxembourg",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Diekirch Grand Cru",
@@ -51,8 +51,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Luxembourg",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Simon Pils",
@@ -62,8 +62,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Luxembourg",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Simon Amber",
@@ -73,7 +73,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Luxembourg",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

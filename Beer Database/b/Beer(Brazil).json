@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Brahma",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Antarctica",
@@ -29,8 +29,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Colorado Indica",
@@ -40,8 +40,8 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Colorado Appia",
@@ -51,8 +51,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Colorado Demoiselle",
@@ -62,8 +62,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bohemia Pilsen",
@@ -73,8 +73,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bohemia Weiss",
@@ -84,8 +84,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bohemia 14-Weiss",
@@ -95,41 +95,41 @@
         "Calories": 190,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Wäls Brut",
-        "Company": "Cervejaria Wäls",
+        "Name": "W\u00c3\u00a4ls Brut",
+        "Company": "Cervejaria W\u00c3\u00a4ls",
         "Style": "Belgian Strong Golden Ale",
         "ABV": 10.0,
         "Calories": 300,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Wäls Niobium",
-        "Company": "Cervejaria Wäls",
+        "Name": "W\u00c3\u00a4ls Niobium",
+        "Company": "Cervejaria W\u00c3\u00a4ls",
         "Style": "Imperial Stout",
         "ABV": 11.0,
         "Calories": 330,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Wäls Dubbel",
-        "Company": "Cervejaria Wäls",
+        "Name": "W\u00c3\u00a4ls Dubbel",
+        "Company": "Cervejaria W\u00c3\u00a4ls",
         "Style": "Belgian Dubbel",
         "ABV": 7.5,
         "Calories": 240,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bodebrown Wee Heavy",
@@ -139,8 +139,8 @@
         "Calories": 280,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bodebrown Perigosa",
@@ -150,8 +150,8 @@
         "Calories": 270,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bodebrown Cacau IPA",
@@ -161,8 +161,7 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Brazil",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
-

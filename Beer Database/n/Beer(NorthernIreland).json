@@ -7,8 +7,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Northern Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Whitewater Brewery Belfast Ale",
@@ -18,8 +18,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Northern Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hilden Brewery Twisted Hop",
@@ -29,8 +29,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Northern Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Farmageddon Brewing Co-op India Pale Ale",
@@ -40,8 +40,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Northern Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Pokertree Brewery Dark Nirvana",
@@ -51,7 +51,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Northern Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

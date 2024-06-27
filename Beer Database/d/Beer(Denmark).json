@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tuborg Classic",
@@ -18,8 +18,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Royal Stout",
@@ -29,8 +29,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Faxe Premium",
@@ -40,8 +40,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Mikkeller Beer Geek Breakfast",
@@ -51,19 +51,19 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "To Øl Gose to Hollywood",
-        "Company": "To Øl",
+        "Name": "To \u00c3\u02dcl Gose to Hollywood",
+        "Company": "To \u00c3\u02dcl",
         "Style": "Gose",
         "ABV": 3.8,
         "Calories": 140,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Amager Bryghus Hr. Frederiksen",
@@ -73,30 +73,30 @@
         "Calories": 300,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Brøckhouse India Pale Ale",
-        "Company": "Brøckhouse",
+        "Name": "Br\u00c3\u00b8ckhouse India Pale Ale",
+        "Company": "Br\u00c3\u00b8ckhouse",
         "Style": "IPA",
         "ABV": 6.5,
         "Calories": 180,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ebeltoft Farmhouse Ale",
-        "Company": "Ebeltoft Gårdbryggeri",
+        "Company": "Ebeltoft G\u00c3\u00a5rdbryggeri",
         "Style": "Saison / Farmhouse Ale",
         "ABV": 6.0,
         "Calories": 170,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Thisted Limfjords Porter",
@@ -106,7 +106,7 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Denmark",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

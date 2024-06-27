@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "South Korea",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hite",
@@ -18,8 +18,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "South Korea",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "OB Blue",
@@ -29,8 +29,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "South Korea",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cass Red",
@@ -40,8 +40,8 @@
         "Calories": 165,
         "oz": 12,
         "Origin": "South Korea",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hite Stout",
@@ -51,8 +51,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "South Korea",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cass Lemon",
@@ -62,7 +62,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "South Korea",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

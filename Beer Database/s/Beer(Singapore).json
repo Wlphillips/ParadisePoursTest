@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Anchor Beer",
@@ -18,8 +18,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Singapore Sling",
@@ -29,8 +29,8 @@
         "Calories": 300,
         "oz": 8,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Red Dot Brewery - Monster Green Lager",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Brewerkz - Golden Ale",
@@ -51,8 +51,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Jungle Beer - Singapore IPA",
@@ -62,8 +62,8 @@
         "Calories": 190,
         "oz": 12,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Smith Street Taps - Taihu Lager",
@@ -73,19 +73,19 @@
         "Calories": 145,
         "oz": 12,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Paulaner Bräuhaus Singapore - Hefe-Weißbier",
-        "Company": "Paulaner Bräuhaus Singapore",
+        "Name": "Paulaner Br\u00e4uhaus Singapore - Hefe-Wei\u00dfbier",
+        "Company": "Paulaner Br\u00e4uhaus Singapore",
         "Style": "Hefeweizen",
         "ABV": 5.5,
         "Calories": 200,
         "oz": 12,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Trouble Brewing - White Magic Witbier",
@@ -95,8 +95,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Little Island Brewing Co. - Blondie",
@@ -106,7 +106,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Singapore",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

@@ -7,8 +7,8 @@
         "Calories": 148,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Modelo Especial",
@@ -18,8 +18,8 @@
         "Calories": 144,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Negra Modelo",
@@ -29,139 +29,139 @@
         "Calories": 173,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tecate",
-        "Company": "Cervecería Cuauhtémoc Moctezuma (Heineken México)",
+        "Company": "Cervecer\u00eda Cuauht\u00e9moc Moctezuma (Heineken M\u00e9xico)",
         "Style": "Lager",
         "ABV": 4.5,
         "Calories": 141,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sol",
-        "Company": "Cervecería Cuauhtémoc Moctezuma (Heineken México)",
+        "Company": "Cervecer\u00eda Cuauht\u00e9moc Moctezuma (Heineken M\u00e9xico)",
         "Style": "Lager",
         "ABV": 4.5,
         "Calories": 135,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Carta Blanca",
-        "Company": "Cervecería Cuauhtémoc Moctezuma (Heineken México)",
+        "Company": "Cervecer\u00eda Cuauht\u00e9moc Moctezuma (Heineken M\u00e9xico)",
         "Style": "Lager",
         "ABV": 4.5,
         "Calories": 139,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Minerva Pale Ale",
-        "Company": "Cervecería Minerva",
+        "Company": "Cervecer\u00eda Minerva",
         "Style": "Pale Ale",
         "ABV": 5.0,
         "Calories": 170,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Minerva Stout",
-        "Company": "Cervecería Minerva",
+        "Company": "Cervecer\u00eda Minerva",
         "Style": "Stout",
         "ABV": 6.0,
         "Calories": 180,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Minerva Colonial",
-        "Company": "Cervecería Minerva",
-        "Style": "Kölsch",
+        "Company": "Cervecer\u00eda Minerva",
+        "Style": "K\u00f6lsch",
         "ABV": 4.8,
         "Calories": 160,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Calavera Mexican Imperial Stout",
-        "Company": "Cervecería Calavera",
+        "Company": "Cervecer\u00eda Calavera",
         "Style": "Imperial Stout",
         "ABV": 9.0,
         "Calories": 250,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Calavera Tripel",
-        "Company": "Cervecería Calavera",
+        "Company": "Cervecer\u00eda Calavera",
         "Style": "Tripel",
         "ABV": 9.5,
         "Calories": 220,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Calavera Dubbel",
-        "Company": "Cervecería Calavera",
+        "Company": "Cervecer\u00eda Calavera",
         "Style": "Dubbel",
         "ABV": 7.0,
         "Calories": 200,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tempus Dorada",
-        "Company": "Cervecería Primus",
+        "Company": "Cervecer\u00eda Primus",
         "Style": "Blonde Ale",
         "ABV": 4.3,
         "Calories": 160,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Tempus Alt Clásica",
-        "Company": "Cervecería Primus",
+        "Name": "Tempus Alt Cl\u00e1sica",
+        "Company": "Cervecer\u00eda Primus",
         "Style": "Altbier",
         "ABV": 4.9,
         "Calories": 170,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tempus Reserva Especial",
-        "Company": "Cervecería Primus",
+        "Company": "Cervecer\u00eda Primus",
         "Style": "Strong Ale",
         "ABV": 7.8,
         "Calories": 210,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

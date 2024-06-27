@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Mahou Cinco Estrellas",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "San Miguel Especial",
@@ -29,8 +29,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ambar Export",
@@ -40,8 +40,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "La Virgen 360",
@@ -51,8 +51,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Naparbier Aker India Pale Ale",
@@ -62,8 +62,8 @@
         "Calories": 210,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Laugar Aupa Tovarisch!",
@@ -73,8 +73,8 @@
         "Calories": 300,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Edge Brewing Padrino Porter",
@@ -84,19 +84,19 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Sagra Bohío",
+        "Name": "Sagra Boh\u00edo",
         "Company": "Cervezas Sagra",
         "Style": "Hefeweizen",
         "ABV": 5.0,
         "Calories": 180,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "La Quince DDH IPA",
@@ -106,7 +106,7 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Spain",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

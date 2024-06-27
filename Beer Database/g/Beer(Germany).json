@@ -1,14 +1,14 @@
 [
     {
-        "Name": "Augustiner Bräu München Edelstoff",
-        "Company": "Augustiner-Bräu Wagner KG",
+        "Name": "Augustiner Br\u00c3\u00a4u M\u00c3\u00bcnchen Edelstoff",
+        "Company": "Augustiner-Br\u00c3\u00a4u Wagner KG",
         "Style": "Helles Lager",
         "ABV": 5.6,
         "Calories": 150,
         "oz": 12,
         "Origin": "Germany",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Weihenstephaner Hefeweissbier",
@@ -18,8 +18,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Germany",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Paulaner Salvator Doppelbock",
@@ -29,19 +29,19 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Germany",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Köstritzer Schwarzbier",
-        "Company": "Köstritzer Schwarzbierbrauerei",
+        "Name": "K\u00c3\u00b6stritzer Schwarzbier",
+        "Company": "K\u00c3\u00b6stritzer Schwarzbierbrauerei",
         "Style": "Schwarzbier",
         "ABV": 4.8,
         "Calories": 160,
         "oz": 12,
         "Origin": "Germany",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ayinger Celebrator Doppelbock",
@@ -51,18 +51,18 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Germany",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Erdinger Weissbier",
-        "Company": "Erdinger Weissbräu",
+        "Company": "Erdinger Weissbr\u00c3\u00a4u",
         "Style": "Hefeweizen",
         "ABV": 5.3,
         "Calories": 170,
         "oz": 12,
         "Origin": "Germany",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

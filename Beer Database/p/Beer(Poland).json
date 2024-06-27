@@ -1,14 +1,14 @@
 [
     {
-        "Name": "Żywiec Porter",
-        "Company": "Grupa Żywiec",
+        "Name": "\u017bywiec Porter",
+        "Company": "Grupa \u017bywiec",
         "Style": "Baltic Porter",
         "ABV": 9.5,
         "Calories": 280,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tyskie Gronie",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Lech Premium",
@@ -29,8 +29,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Warka",
@@ -40,8 +40,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Okocim",
@@ -51,30 +51,30 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Żywiec Bock",
-        "Company": "Grupa Żywiec",
+        "Name": "\u017bywiec Bock",
+        "Company": "Grupa \u017bywiec",
         "Style": "Bock",
         "ABV": 6.5,
         "Calories": 210,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Perła Chmielowa",
+        "Name": "Per\u0142a Chmielowa",
         "Company": "Browary Lubelskie",
         "Style": "German Pilsner",
         "ABV": 6.0,
         "Calories": 170,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Deer Bear Pale Ale",
@@ -84,8 +84,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Pinta Atak Chmielu",
@@ -95,8 +95,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Browar Artezan Amber Ale",
@@ -106,7 +106,7 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

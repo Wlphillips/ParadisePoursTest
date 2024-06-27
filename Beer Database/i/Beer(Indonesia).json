@@ -7,8 +7,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Indonesia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Anker Beer",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Indonesia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Prost Beer",
@@ -29,8 +29,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Indonesia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stark Beer",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Indonesia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bali Hai Premium Lager",
@@ -51,8 +51,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Indonesia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stark Wheat",
@@ -62,8 +62,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Indonesia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bali Hai Premium",
@@ -73,7 +73,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Indonesia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

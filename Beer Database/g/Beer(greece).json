@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Greece",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Mythos Hellenic Lager Beer",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Greece",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Alpha Estate IPA",
@@ -29,8 +29,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Greece",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Septem 8th Day IPA",
@@ -40,8 +40,8 @@
         "Calories": 190,
         "oz": 12,
         "Origin": "Greece",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Vergina Weiss",
@@ -51,8 +51,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Greece",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Nissos Pilsner",
@@ -62,7 +62,7 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Greece",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

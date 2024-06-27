@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sapporo Premium Beer",
@@ -18,8 +18,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Asahi Super Dry",
@@ -29,8 +29,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Echigo Koshihikari",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Yoho Brewing Yona Yona Ale",
@@ -51,8 +51,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hitachino Nest Espresso Stout",
@@ -62,8 +62,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Baird Beer Rising Sun Pale Ale",
@@ -73,8 +73,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kiuchi Hitachino Nest Red Rice Ale",
@@ -84,8 +84,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kirin Ichiban",
@@ -95,8 +95,8 @@
         "Calories": 145,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kirin Light",
@@ -106,7 +106,7 @@
         "Calories": 95,
         "oz": 12,
         "Origin": "Japan",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

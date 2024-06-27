@@ -1,46 +1,46 @@
 [
-  {
-    "Name": "Polar Pilsen",
-    "Company": "Empresas Polar",
-    "Style": "Pilsner",
-    "ABV": 4.5,
-    "Calories": 140,
-    "oz": 12,
-    "Origin": "Venezuela",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Polar Light",
-    "Company": "Empresas Polar",
-    "Style": "Light Lager",
-    "ABV": 3.5,
-    "Calories": 100,
-    "oz": 12,
-    "Origin": "Venezuela",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Regional",
-    "Company": "Cervecería Regional",
-    "Style": "Amber Lager",
-    "ABV": 5.0,
-    "Calories": 160,
-    "oz": 12,
-    "Origin": "Venezuela",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Zulia",
-    "Company": "Cervecería Zulia",
-    "Style": "Dark Lager",
-    "ABV": 4.5,
-    "Calories": 150,
-    "oz": 12,
-    "Origin": "Venezuela",
-    "Rating": 0,
-    "Favorites": false
-  }
+    {
+        "Name": "Polar Pilsen",
+        "Company": "Empresas Polar",
+        "Style": "Pilsner",
+        "ABV": 4.5,
+        "Calories": 140,
+        "oz": 12,
+        "Origin": "Venezuela",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Polar Light",
+        "Company": "Empresas Polar",
+        "Style": "Light Lager",
+        "ABV": 3.5,
+        "Calories": 100,
+        "oz": 12,
+        "Origin": "Venezuela",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Regional",
+        "Company": "Cervecer\u00eda Regional",
+        "Style": "Amber Lager",
+        "ABV": 5.0,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Venezuela",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Zulia",
+        "Company": "Cervecer\u00eda Zulia",
+        "Style": "Dark Lager",
+        "ABV": 4.5,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Venezuela",
+        "Ratings": [],
+        "Favorites": []
+    }
 ]

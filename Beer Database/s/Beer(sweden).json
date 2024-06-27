@@ -1,14 +1,14 @@
 [
     {
-        "Name": "Närke Kaggen Stormaktsporter",
-        "Company": "Närke Kulturbryggeri",
+        "Name": "N\u00e4rke Kaggen Stormaktsporter",
+        "Company": "N\u00e4rke Kulturbryggeri",
         "Style": "Imperial Stout",
         "ABV": 10.0,
         "Calories": 300,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Omnipollo Nebuchadnezzar",
@@ -18,8 +18,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Poppels New Sweden IPA",
@@ -29,8 +29,8 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Dugges High Five!",
@@ -40,8 +40,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stigbergets Amazing Haze",
@@ -51,8 +51,8 @@
         "Calories": 230,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Omnipollo Hypnopompa",
@@ -62,19 +62,19 @@
         "Calories": 320,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Malmö Brygghus Midnattssol",
-        "Company": "Malmö Brewing Co",
+        "Name": "Malm\u00f6 Brygghus Midnattssol",
+        "Company": "Malm\u00f6 Brewing Co",
         "Style": "Barleywine",
         "ABV": 10.5,
         "Calories": 350,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Brewski Mangofeber",
@@ -84,19 +84,19 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Närke Örebro Bitter",
-        "Company": "Närke Kulturbryggeri",
+        "Name": "N\u00e4rke \u00d6rebro Bitter",
+        "Company": "N\u00e4rke Kulturbryggeri",
         "Style": "English Bitter",
         "ABV": 4.8,
         "Calories": 180,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Brekeriet Sour & Salt",
@@ -106,19 +106,18 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Nynäshamns Ångbryggeri Bedarö Bitter",
-        "Company": "Nynäshamns Ångbryggeri",
+        "Name": "Nyn\u00e4shamns \u00c5ngbryggeri Bedar\u00f6 Bitter",
+        "Company": "Nyn\u00e4shamns \u00c5ngbryggeri",
         "Style": "English Bitter",
         "ABV": 4.8,
         "Calories": 180,
         "oz": 12,
         "Origin": "Sweden",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
-

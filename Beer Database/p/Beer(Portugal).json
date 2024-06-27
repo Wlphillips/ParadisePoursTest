@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sagres Bohemia",
@@ -18,8 +18,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sagres Preta",
@@ -29,8 +29,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sagres",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cerveja Letra H",
@@ -51,8 +51,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cerveja Letra T",
@@ -62,8 +62,8 @@
         "Calories": 300,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Quinas",
@@ -73,8 +73,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Musa IPA",
@@ -84,8 +84,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Dois Corvos Finisterra",
@@ -95,8 +95,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Mean Sardine Crafty Bitch",
@@ -106,7 +106,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Portugal",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

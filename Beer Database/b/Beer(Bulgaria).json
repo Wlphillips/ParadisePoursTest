@@ -7,8 +7,8 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "White Stork Pale Ale",
@@ -18,8 +18,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "White Stork Porter",
@@ -29,8 +29,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Blek Pine Hop Fiction",
@@ -40,8 +40,8 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Blek Pine Lucky Charms",
@@ -51,8 +51,8 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Blek Pine Pale Ale",
@@ -62,8 +62,8 @@
         "Calories": 190,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Beer Bastards Black Sheep",
@@ -73,8 +73,8 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Beer Bastards White Wolf",
@@ -84,8 +84,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Beer Bastards Red Devil",
@@ -95,8 +95,8 @@
         "Calories": 210,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Lucky Bansko IPA",
@@ -106,8 +106,8 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Lucky Bansko Weizen",
@@ -117,8 +117,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Lucky Bansko Stout",
@@ -128,8 +128,7 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Bulgaria",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
-

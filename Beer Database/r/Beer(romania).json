@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ciuc Premium",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Silva Dark",
@@ -29,8 +29,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Timisoreana",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Golden Brau",
@@ -51,8 +51,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Peroni Nastro Azzurro",
@@ -62,8 +62,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Zaganu Pale Ale",
@@ -73,8 +73,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Zaganu Amber",
@@ -84,8 +84,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ground Zero",
@@ -95,8 +95,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Wicked Barrel Black Rye IPA",
@@ -106,7 +106,7 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Romania",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

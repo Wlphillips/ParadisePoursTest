@@ -1,90 +1,90 @@
 [
     {
         "Name": "Panama Lager",
-        "Company": "Cervecería Barú-Panama",
+        "Company": "Cervecer\u00eda Bar\u00fa-Panama",
         "Style": "Pale Lager",
         "ABV": 4.8,
         "Calories": 150,
         "oz": 12,
         "Origin": "Panama",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Balboa",
-        "Company": "Cervecería Barú-Panama",
+        "Company": "Cervecer\u00eda Bar\u00fa-Panama",
         "Style": "Pale Lager",
         "ABV": 4.8,
         "Calories": 150,
         "oz": 12,
         "Origin": "Panama",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Soberana",
-        "Company": "Cervecería Barú-Panama",
+        "Company": "Cervecer\u00eda Bar\u00fa-Panama",
         "Style": "Pale Lager",
         "ABV": 4.8,
         "Calories": 150,
         "oz": 12,
         "Origin": "Panama",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Balboa Ice",
-        "Company": "Cervecería Barú-Panama",
+        "Company": "Cervecer\u00eda Bar\u00fa-Panama",
         "Style": "Pale Lager",
         "ABV": 4.8,
         "Calories": 150,
         "oz": 12,
         "Origin": "Panama",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Atlas Golden Light",
-        "Company": "Cervecería Nacional",
+        "Company": "Cervecer\u00eda Nacional",
         "Style": "Pale Lager",
         "ABV": 4.5,
         "Calories": 140,
         "oz": 12,
         "Origin": "Panama",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Atlas Lager",
-        "Company": "Cervecería Nacional",
+        "Company": "Cervecer\u00eda Nacional",
         "Style": "Pale Lager",
         "ABV": 4.8,
         "Calories": 150,
         "oz": 12,
         "Origin": "Panama",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Soberana Light",
-        "Company": "Cervecería Barú-Panama",
+        "Company": "Cervecer\u00eda Bar\u00fa-Panama",
         "Style": "Light Lager",
         "ABV": 3.8,
         "Calories": 110,
         "oz": 12,
         "Origin": "Panama",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Soberana Ice",
-        "Company": "Cervecería Barú-Panama",
+        "Company": "Cervecer\u00eda Bar\u00fa-Panama",
         "Style": "Pale Lager",
         "ABV": 5.5,
         "Calories": 160,
         "oz": 12,
         "Origin": "Panama",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Lav Pivo",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Niksicko Pivo",
@@ -29,8 +29,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kabinet Pale Ale",
@@ -40,8 +40,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Salto Smoked IPA",
@@ -51,8 +51,8 @@
         "Calories": 210,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Dogma Brewery - Origin Ale",
@@ -62,8 +62,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Crow Brewery - Cascade IPA",
@@ -73,8 +73,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kors Lager",
@@ -84,8 +84,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tron Brewery - Valhalla",
@@ -95,8 +95,8 @@
         "Calories": 280,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Old Brewery - Dark Side Stout",
@@ -106,7 +106,7 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Serbia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

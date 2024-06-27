@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Finland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Karhu III",
@@ -18,8 +18,8 @@
         "Calories": 155,
         "oz": 12,
         "Origin": "Finland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Koff III",
@@ -29,8 +29,8 @@
         "Calories": 145,
         "oz": 12,
         "Origin": "Finland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Lapin Kulta III (Darker)",
@@ -40,8 +40,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Finland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Nokian Panimo Pale Ale",
@@ -51,18 +51,18 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Finland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Malmgårdin Jouluolut",
-        "Company": "Malmgård Brewery",
+        "Name": "Malmg\u00c3\u00a5rdin Jouluolut",
+        "Company": "Malmg\u00c3\u00a5rd Brewery",
         "Style": "Christmas Ale",
         "ABV": 6.5,
         "Calories": 180,
         "oz": 12,
         "Origin": "Finland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
