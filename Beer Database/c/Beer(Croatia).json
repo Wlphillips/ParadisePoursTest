@@ -1,36 +1,36 @@
 [
     {
-        "Name": "Ožujsko Pivo",
-        "Company": "Zagrebačka pivovara",
+        "Name": "O\u017eujsko Pivo",
+        "Company": "Zagreba\u010dka pivovara",
         "Style": "Pale Lager",
         "ABV": 5,
         "Calories": 150,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Karlovacko Pivo",
-        "Company": "Karlovačka pivovara",
+        "Company": "Karlova\u010dka pivovara",
         "Style": "Pale Lager",
         "ABV": 5,
         "Calories": 150,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tomislav",
-        "Company": "Zagrebačka pivovara",
+        "Company": "Zagreba\u010dka pivovara",
         "Style": "Dark Lager",
         "ABV": 7.3,
         "Calories": 170,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Velebitsko Pivo",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "San Servolo Medvjedica",
@@ -51,8 +51,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Varionica Pale Ale",
@@ -62,8 +62,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Nova Runda Runda American Wheat Ale",
@@ -73,8 +73,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Garden Brewery Citrus IPA",
@@ -84,8 +84,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Croatian Dream X3",
@@ -95,8 +95,8 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Zmajska Pivovara Imperial Stout",
@@ -106,7 +106,7 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Croatia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

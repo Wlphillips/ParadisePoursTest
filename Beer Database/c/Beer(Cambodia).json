@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Cambodia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kingdom Dark Lager",
@@ -18,8 +18,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Cambodia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kingdom IPA",
@@ -29,8 +29,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Cambodia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Riel Pale Ale",
@@ -40,8 +40,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Cambodia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Riel Amber Ale",
@@ -51,8 +51,8 @@
         "Calories": 190,
         "oz": 12,
         "Origin": "Cambodia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Riel Stout",
@@ -62,8 +62,8 @@
         "Calories": 210,
         "oz": 12,
         "Origin": "Cambodia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Samai Blonde Ale",
@@ -73,8 +73,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Cambodia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Samai Session IPA",
@@ -84,8 +84,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Cambodia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Samai Coffee Stout",
@@ -95,8 +95,7 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Cambodia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
-

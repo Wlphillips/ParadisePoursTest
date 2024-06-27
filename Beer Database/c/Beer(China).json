@@ -7,8 +7,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Snow Beer",
@@ -18,8 +18,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Harbin Beer",
@@ -29,8 +29,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Yanjing Beer",
@@ -40,8 +40,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tsingtao Stout",
@@ -51,8 +51,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Blue Island",
@@ -62,8 +62,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Boxing Cat Contender IPA",
@@ -73,8 +73,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Great Leap Brewing Honey Ma Gold",
@@ -84,8 +84,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Jing-A Brewing Co. Mandarin Wheat",
@@ -95,8 +95,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Slow Boat Brewery Monkey's Fist IPA",
@@ -106,7 +106,7 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "China",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

@@ -1,112 +1,112 @@
 [
     {
         "Name": "Cristal",
-        "Company": "Compañía de Cervecerías Unidas",
+        "Company": "Compa\u00f1\u00eda de Cervecer\u00edas Unidas",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 140,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Escudo",
-        "Company": "Compañía de Cervecerías Unidas",
+        "Company": "Compa\u00f1\u00eda de Cervecer\u00edas Unidas",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 140,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cristal Cero",
-        "Company": "Compañía de Cervecerías Unidas",
+        "Company": "Compa\u00f1\u00eda de Cervecer\u00edas Unidas",
         "Style": "Low Alcohol",
         "ABV": 0.5,
         "Calories": 50,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Royal Guard",
-        "Company": "Compañía de Cervecerías Unidas",
+        "Company": "Compa\u00f1\u00eda de Cervecer\u00edas Unidas",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 140,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Szot IPA",
-        "Company": "Cervecería Szot",
+        "Company": "Cervecer\u00eda Szot",
         "Style": "IPA",
         "ABV": 6.5,
         "Calories": 200,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Szot Golden Ale",
-        "Company": "Cervecería Szot",
+        "Company": "Cervecer\u00eda Szot",
         "Style": "Golden Ale",
         "ABV": 4.5,
         "Calories": 170,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Szot Witbier",
-        "Company": "Cervecería Szot",
+        "Company": "Cervecer\u00eda Szot",
         "Style": "Witbier",
         "ABV": 4.5,
         "Calories": 160,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kunstmann Torobayo",
-        "Company": "Cervecería Kunstmann",
+        "Company": "Cervecer\u00eda Kunstmann",
         "Style": "Pale Ale",
         "ABV": 5.5,
         "Calories": 180,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kunstmann Bock",
-        "Company": "Cervecería Kunstmann",
+        "Company": "Cervecer\u00eda Kunstmann",
         "Style": "Bock",
         "ABV": 5.5,
         "Calories": 180,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kunstmann Lager",
-        "Company": "Cervecería Kunstmann",
+        "Company": "Cervecer\u00eda Kunstmann",
         "Style": "Lager",
         "ABV": 4.9,
         "Calories": 160,
         "oz": 12,
         "Origin": "Chile",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

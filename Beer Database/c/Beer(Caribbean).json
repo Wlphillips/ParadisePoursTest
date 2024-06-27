@@ -7,8 +7,8 @@
         "Calories": 153,
         "oz": 12,
         "Origin": "Jamaica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Dragon Stout",
@@ -18,8 +18,8 @@
         "Calories": 240,
         "oz": 12,
         "Origin": "Jamaica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Carib Lager",
@@ -29,8 +29,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Trinidad and Tobago",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stag Lager Beer",
@@ -40,8 +40,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Trinidad and Tobago",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Banks Beer",
@@ -51,8 +51,8 @@
         "Calories": 145,
         "oz": 12,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kalik Lager",
@@ -62,29 +62,29 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Bahamas",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Presidente Pilsner",
-        "Company": "Cervecería Nacional Dominicana",
+        "Company": "Cervecer\u00eda Nacional Dominicana",
         "Style": "Pilsner",
         "ABV": 5,
         "Calories": 140,
         "oz": 12,
         "Origin": "Dominican Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Bohemia Clásica",
-        "Company": "Cervecería Nacional Dominicana",
+        "Name": "Bohemia Cl\u00e1sica",
+        "Company": "Cervecer\u00eda Nacional Dominicana",
         "Style": "Lager",
         "ABV": 5,
         "Calories": 145,
         "oz": 12,
         "Origin": "Dominican Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
