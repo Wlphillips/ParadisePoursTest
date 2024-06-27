@@ -1,113 +1,112 @@
 [
-  {
-    "Name": "Barboursville Vineyards Octagon",
-    "Company": "Barboursville Vineyards",
-    "Style": "Red",
-    "ABV": 13.5,
-    "Calories": 125,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Barboursville Vineyards Viognier Reserve",
-    "Company": "Barboursville Vineyards",
-    "Style": "White",
-    "ABV": 12.5,
-    "Calories": 120,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Veritas Vineyard & Winery Vintner's Reserve",
-    "Company": "Veritas Vineyard & Winery",
-    "Style": "Red",
-    "ABV": 14.0,
-    "Calories": 130,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Veritas Vineyard & Winery Viognier",
-    "Company": "Veritas Vineyard & Winery",
-    "Style": "White",
-    "ABV": 13.0,
-    "Calories": 125,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "RdV Vineyards Rendezvous",
-    "Company": "RdV Vineyards",
-    "Style": "Red",
-    "ABV": 14.5,
-    "Calories": 135,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "RdV Vineyards Friends & Family",
-    "Company": "RdV Vineyards",
-    "Style": "Red Blend",
-    "ABV": 14.0,
-    "Calories": 130,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "King Family Vineyards Meritage",
-    "Company": "King Family Vineyards",
-    "Style": "Red",
-    "ABV": 13.5,
-    "Calories": 125,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "King Family Vineyards Viognier",
-    "Company": "King Family Vineyards",
-    "Style": "White",
-    "ABV": 12.5,
-    "Calories": 120,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Early Mountain Vineyards Eluvium",
-    "Company": "Early Mountain Vineyards",
-    "Style": "Red",
-    "ABV": 13.5,
-    "Calories": 125,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Early Mountain Vineyards Chardonnay",
-    "Company": "Early Mountain Vineyards",
-    "Style": "White",
-    "ABV": 12.5,
-    "Calories": 120,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  }
+    {
+        "Name": "Barboursville Vineyards Octagon",
+        "Company": "Barboursville Vineyards",
+        "Style": "Red",
+        "ABV": 13.5,
+        "Calories": 125,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Barboursville Vineyards Viognier Reserve",
+        "Company": "Barboursville Vineyards",
+        "Style": "White",
+        "ABV": 12.5,
+        "Calories": 120,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Veritas Vineyard & Winery Vintner's Reserve",
+        "Company": "Veritas Vineyard & Winery",
+        "Style": "Red",
+        "ABV": 14.0,
+        "Calories": 130,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Veritas Vineyard & Winery Viognier",
+        "Company": "Veritas Vineyard & Winery",
+        "Style": "White",
+        "ABV": 13.0,
+        "Calories": 125,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "RdV Vineyards Rendezvous",
+        "Company": "RdV Vineyards",
+        "Style": "Red",
+        "ABV": 14.5,
+        "Calories": 135,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "RdV Vineyards Friends & Family",
+        "Company": "RdV Vineyards",
+        "Style": "Red Blend",
+        "ABV": 14.0,
+        "Calories": 130,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "King Family Vineyards Meritage",
+        "Company": "King Family Vineyards",
+        "Style": "Red",
+        "ABV": 13.5,
+        "Calories": 125,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "King Family Vineyards Viognier",
+        "Company": "King Family Vineyards",
+        "Style": "White",
+        "ABV": 12.5,
+        "Calories": 120,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Early Mountain Vineyards Eluvium",
+        "Company": "Early Mountain Vineyards",
+        "Style": "Red",
+        "ABV": 13.5,
+        "Calories": 125,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Early Mountain Vineyards Chardonnay",
+        "Company": "Early Mountain Vineyards",
+        "Style": "White",
+        "ABV": 12.5,
+        "Calories": 120,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    }
 ]
-

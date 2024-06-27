@@ -1,91 +1,90 @@
 [
-  {
-    "Name": "Au Bon Climat Chardonnay",
-    "Company": "Au Bon Climat",
-    "Style": "White",
-    "ABV": 13.5,
-    "Calories": 120,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Au Bon Climat Pinot Noir",
-    "Company": "Au Bon Climat",
-    "Style": "Red",
-    "ABV": 14.0,
-    "Calories": 125,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Tablas Creek Vineyard Rhone-style Blend",
-    "Company": "Tablas Creek Vineyard",
-    "Style": "Red",
-    "ABV": 14.5,
-    "Calories": 130,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "J. Lohr Vineyards & Wines Cabernet Sauvignon",
-    "Company": "J. Lohr Vineyards & Wines",
-    "Style": "Red",
-    "ABV": 14.2,
-    "Calories": 128,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Bernardus Winery Chardonnay",
-    "Company": "Bernardus Winery",
-    "Style": "White",
-    "ABV": 14.0,
-    "Calories": 125,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Bernardus Winery Pinot Noir",
-    "Company": "Bernardus Winery",
-    "Style": "Red",
-    "ABV": 14.3,
-    "Calories": 129,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Hahn Family Wines Pinot Noir",
-    "Company": "Hahn Family Wines",
-    "Style": "Red",
-    "ABV": 13.8,
-    "Calories": 123,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Hahn Family Wines Chardonnay",
-    "Company": "Hahn Family Wines",
-    "Style": "White",
-    "ABV": 13.5,
-    "Calories": 120,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  }
+    {
+        "Name": "Au Bon Climat Chardonnay",
+        "Company": "Au Bon Climat",
+        "Style": "White",
+        "ABV": 13.5,
+        "Calories": 120,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Au Bon Climat Pinot Noir",
+        "Company": "Au Bon Climat",
+        "Style": "Red",
+        "ABV": 14.0,
+        "Calories": 125,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Tablas Creek Vineyard Rhone-style Blend",
+        "Company": "Tablas Creek Vineyard",
+        "Style": "Red",
+        "ABV": 14.5,
+        "Calories": 130,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "J. Lohr Vineyards & Wines Cabernet Sauvignon",
+        "Company": "J. Lohr Vineyards & Wines",
+        "Style": "Red",
+        "ABV": 14.2,
+        "Calories": 128,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Bernardus Winery Chardonnay",
+        "Company": "Bernardus Winery",
+        "Style": "White",
+        "ABV": 14.0,
+        "Calories": 125,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Bernardus Winery Pinot Noir",
+        "Company": "Bernardus Winery",
+        "Style": "Red",
+        "ABV": 14.3,
+        "Calories": 129,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Hahn Family Wines Pinot Noir",
+        "Company": "Hahn Family Wines",
+        "Style": "Red",
+        "ABV": 13.8,
+        "Calories": 123,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Hahn Family Wines Chardonnay",
+        "Company": "Hahn Family Wines",
+        "Style": "White",
+        "ABV": 13.5,
+        "Calories": 120,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    }
 ]
-
