@@ -7,8 +7,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Chopin Vodka",
@@ -18,8 +18,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Wyborowa Vodka",
@@ -29,19 +29,19 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Żubrówka Bison Grass Vodka",
-        "Company": "Żubrówka",
+        "Name": "\u017bubr\u00f3wka Bison Grass Vodka",
+        "Company": "\u017bubr\u00f3wka",
         "Style": "Vodka",
         "ABV": 40,
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Luksusowa Vodka",
@@ -51,19 +51,19 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Krakus Exclusive Vodka",
-        "Company": "Polmos Bielsko-Biała S.A.",
+        "Company": "Polmos Bielsko-Bia\u0142a S.A.",
         "Style": "Vodka",
         "ABV": 40,
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sobieski Vodka",
@@ -73,30 +73,30 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Potocki Vodka",
-        "Company": "Potocki Wódka",
+        "Company": "Potocki W\u00f3dka",
         "Style": "Vodka",
         "ABV": 40,
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Pan Tadeusz Vodka",
-        "Company": "Polmos Łańcut",
+        "Company": "Polmos \u0141a\u0144cut",
         "Style": "Vodka",
         "ABV": 40,
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Krzeska Premium Vodka",
@@ -106,7 +106,7 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Poland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

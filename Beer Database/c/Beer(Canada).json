@@ -7,8 +7,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Canada",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Blanche de Chambly",
@@ -18,8 +18,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Canada",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Mad Tom IPA",
@@ -29,8 +29,8 @@
         "Calories": 220,
         "oz": 12,
         "Origin": "Canada",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "St-Ambroise Oatmeal Stout",
@@ -40,18 +40,18 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Canada",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Péché Mortel",
+        "Name": "P\u00e9ch\u00e9 Mortel",
         "Company": "Brasserie Dieu du Ciel",
         "Style": "Imperial Stout",
         "ABV": 9,
         "Calories": 300,
         "oz": 12,
         "Origin": "Canada",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

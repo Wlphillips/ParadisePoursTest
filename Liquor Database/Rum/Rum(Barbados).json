@@ -7,8 +7,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Doorly's XO Rum",
@@ -18,8 +18,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "The Real McCoy 12 Year Old Rum",
@@ -29,8 +29,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Mount Gay XO Rum",
@@ -40,8 +40,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Foursquare Premise Rum",
@@ -51,8 +51,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Mount Gay Black Barrel Rum",
@@ -62,8 +62,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cockspur Fine Rum",
@@ -73,8 +73,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "St. Nicholas Abbey 10 Year Old Rum",
@@ -84,8 +84,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Foursquare Criterion Rum",
@@ -95,8 +95,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Old Brigand Rum",
@@ -106,7 +106,7 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Barbados",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

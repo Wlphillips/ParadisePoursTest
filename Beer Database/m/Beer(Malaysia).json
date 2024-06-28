@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Malaysia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Anchor Smooth Draught",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Malaysia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Guinness Foreign Extra Stout",
@@ -29,8 +29,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Malaysia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Carlsberg Smooth Draught",
@@ -40,19 +40,19 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Malaysia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Paulaner Hefe-Weißbier",
+        "Name": "Paulaner Hefe-Wei\u00dfbier",
         "Company": "Paulaner Brauhaus",
         "Style": "Hefeweizen",
         "ABV": 5.5,
         "Calories": 200,
         "oz": 12,
         "Origin": "Malaysia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stout",
@@ -62,8 +62,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Malaysia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kilkenny Irish Cream Ale",
@@ -73,8 +73,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Malaysia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Connors Stout Porter",
@@ -84,8 +84,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Malaysia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Asahi Super Dry",
@@ -95,7 +95,7 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Malaysia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

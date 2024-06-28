@@ -7,8 +7,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "G'Vine Gin",
@@ -18,8 +18,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Noilly Prat Dry Gin",
@@ -29,8 +29,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Gin de France",
@@ -40,8 +40,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Audemus Pink Pepper Gin",
@@ -51,7 +51,7 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

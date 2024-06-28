@@ -7,8 +7,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Israel",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Shapiro Pale Ale",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Israel",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Alexander Blonde",
@@ -29,8 +29,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Israel",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Jem's Stout",
@@ -40,8 +40,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Israel",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Herzl Belgian Pale Ale",
@@ -51,8 +51,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Israel",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bazelet IPA",
@@ -62,8 +62,8 @@
         "Calories": 190,
         "oz": 12,
         "Origin": "Israel",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Shapiro Porter",
@@ -73,8 +73,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Israel",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Alexander Amber Ale",
@@ -84,7 +84,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Israel",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

@@ -7,8 +7,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sakara Gold",
@@ -18,8 +18,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Luxor Weizen",
@@ -29,8 +29,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Meister Lager",
@@ -40,8 +40,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Fayrouz Malt",
@@ -51,8 +51,8 @@
         "Calories": 70,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Al Ahram Pilsner",
@@ -62,8 +62,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Birell Lemon",
@@ -73,8 +73,8 @@
         "Calories": 60,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Birell Green Apple",
@@ -84,8 +84,8 @@
         "Calories": 60,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Obelisk Red",
@@ -95,8 +95,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sakara King",
@@ -106,7 +106,7 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Egypt",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

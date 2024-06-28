@@ -1,58 +1,58 @@
 [
     {
         "Name": "Imperial",
-        "Company": "Compañía Cervecera de Costa Rica",
+        "Company": "Compa\u00f1\u00eda Cervecera de Costa Rica",
         "Style": "Pale Lager",
         "ABV": 4.6,
         "Calories": 140,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Pilsen",
-        "Company": "Compañía Cervecera de Costa Rica",
+        "Company": "Compa\u00f1\u00eda Cervecera de Costa Rica",
         "Style": "Pale Lager",
         "ABV": 5,
         "Calories": 150,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bavaria Gold",
-        "Company": "Compañía Cervecera de Costa Rica",
+        "Company": "Compa\u00f1\u00eda Cervecera de Costa Rica",
         "Style": "Pale Lager",
         "ABV": 5.1,
         "Calories": 160,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bavaria Dark",
-        "Company": "Compañía Cervecera de Costa Rica",
+        "Company": "Compa\u00f1\u00eda Cervecera de Costa Rica",
         "Style": "Dark Lager",
         "ABV": 5.5,
         "Calories": 170,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Imperial Silver",
-        "Company": "Compañía Cervecera de Costa Rica",
+        "Company": "Compa\u00f1\u00eda Cervecera de Costa Rica",
         "Style": "Pale Lager",
         "ABV": 4.6,
         "Calories": 140,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Craft Brewing Volcano IPA",
@@ -62,8 +62,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Craft Brewing Libertas Tropical Ale",
@@ -73,8 +73,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Craft Brewing Segua Red Ale",
@@ -84,29 +84,29 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Treinta y Cinco",
-        "Company": "Cervecería Treinta y Cinco",
+        "Company": "Cervecer\u00eda Treinta y Cinco",
         "Style": "Golden Ale",
         "ABV": 5,
         "Calories": 160,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "La Selva",
-        "Company": "Cervecería La Selva",
+        "Company": "Cervecer\u00eda La Selva",
         "Style": "Witbier",
         "ABV": 4.5,
         "Calories": 150,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

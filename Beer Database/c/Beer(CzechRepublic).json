@@ -1,25 +1,25 @@
 [
     {
         "Name": "Pilsner Urquell",
-        "Company": "Plzeňský Prazdroj",
+        "Company": "Plze\u0148sk\u00fd Prazdroj",
         "Style": "Pilsner",
         "ABV": 4.4,
         "Calories": 150,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Budweiser Budvar",
-        "Company": "Budějovický Budvar",
+        "Company": "Bud\u011bjovick\u00fd Budvar",
         "Style": "Czech Lager",
         "ABV": 5.0,
         "Calories": 160,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Staropramen Lager",
@@ -29,52 +29,52 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kozel Premium Lager",
-        "Company": "Velkopopovický Kozel",
+        "Company": "Velkopopovick\u00fd Kozel",
         "Style": "Czech Lager",
         "ABV": 4.8,
         "Calories": 155,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Gambrinus Original 10°",
-        "Company": "Plzeňský Prazdroj",
+        "Name": "Gambrinus Original 10\u00b0",
+        "Company": "Plze\u0148sk\u00fd Prazdroj",
         "Style": "Pale Lager",
         "ABV": 4.3,
         "Calories": 145,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Velkopopovický Kozel Dark",
-        "Company": "Velkopopovický Kozel",
+        "Name": "Velkopopovick\u00fd Kozel Dark",
+        "Company": "Velkopopovick\u00fd Kozel",
         "Style": "Dark Lager",
         "ABV": 3.8,
         "Calories": 140,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bernard Bohemian Ale",
-        "Company": "Rodinný pivovar Bernard",
+        "Company": "Rodinn\u00fd pivovar Bernard",
         "Style": "Amber Ale",
         "ABV": 5.2,
         "Calories": 160,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cerna Hora Imperial Stout",
@@ -84,19 +84,19 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Pardubický Porter",
+        "Name": "Pardubick\u00fd Porter",
         "Company": "Pivovar Pardubice",
         "Style": "Baltic Porter",
         "ABV": 5.5,
         "Calories": 180,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Chodovar Premium Lager",
@@ -106,7 +106,7 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Czech Republic",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

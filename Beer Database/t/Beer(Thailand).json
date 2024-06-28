@@ -1,46 +1,46 @@
 [
-  {
-    "Name": "Singha Lager",
-    "Company": "Boon Rawd Brewery Co., Ltd.",
-    "Style": "Lager",
-    "ABV": 5.0,
-    "Calories": 150,
-    "oz": 12,
-    "Origin": "Thailand",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Chang Lager",
-    "Company": "Thai Beverage Public Company Limited",
-    "Style": "Lager",
-    "ABV": 5.0,
-    "Calories": 150,
-    "oz": 12,
-    "Origin": "Thailand",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Leo Beer",
-    "Company": "Singha Corporation Co., Ltd.",
-    "Style": "Lager",
-    "ABV": 5.0,
-    "Calories": 150,
-    "oz": 12,
-    "Origin": "Thailand",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Phuket Lager",
-    "Company": "Full Moon Brew Work Co., Ltd.",
-    "Style": "Lager",
-    "ABV": 5.0,
-    "Calories": 150,
-    "oz": 12,
-    "Origin": "Thailand",
-    "Rating": 0,
-    "Favorites": false
-  }
+    {
+        "Name": "Singha Lager",
+        "Company": "Boon Rawd Brewery Co., Ltd.",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Thailand",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Chang Lager",
+        "Company": "Thai Beverage Public Company Limited",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Thailand",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Leo Beer",
+        "Company": "Singha Corporation Co., Ltd.",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Thailand",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Phuket Lager",
+        "Company": "Full Moon Brew Work Co., Ltd.",
+        "Style": "Lager",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Thailand",
+        "Ratings": [],
+        "Favorites": []
+    }
 ]

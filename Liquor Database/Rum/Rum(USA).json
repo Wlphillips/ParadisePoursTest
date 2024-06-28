@@ -7,8 +7,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Captain Morgan Original Spiced Rum",
@@ -18,8 +18,8 @@
         "Calories": 86,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Malibu Coconut Rum",
@@ -29,8 +29,8 @@
         "Calories": 51,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kraken Black Spiced Rum",
@@ -40,8 +40,8 @@
         "Calories": 130,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cruzan Single Barrel Rum",
@@ -51,8 +51,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Appleton Estate Rare Blend 12 Year Old Rum",
@@ -62,7 +62,7 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Jamaica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

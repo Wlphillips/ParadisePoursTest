@@ -7,8 +7,8 @@
         "Calories": 73,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hendrick's Gin",
@@ -18,8 +18,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Brooklyn Gin",
@@ -29,8 +29,8 @@
         "Calories": 70,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bluecoat American Dry Gin",
@@ -40,8 +40,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ransom Dry Gin",
@@ -51,8 +51,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "St. George Botanivore Gin",
@@ -62,8 +62,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Greenhook Ginsmiths American Dry Gin",
@@ -73,8 +73,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Death's Door Gin",
@@ -84,8 +84,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Citadelle Gin",
@@ -95,8 +95,8 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Nolet's Silver Dry Gin",
@@ -106,7 +106,7 @@
         "Calories": 75,
         "oz": 1.5,
         "Origin": "USA",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

@@ -1,113 +1,112 @@
 [
-  {
-    "Name": "Chateau Grand Traverse Semi-Dry Riesling",
-    "Company": "Chateau Grand Traverse",
-    "Style": "White",
-    "ABV": 12.5,
-    "Calories": 120,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": true
-  },
-  {
-    "Name": "Chateau Grand Traverse Gamay Noir Reserve",
-    "Company": "Chateau Grand Traverse",
-    "Style": "Red",
-    "ABV": 13.8,
-    "Calories": 125,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Black Star Farms Arcturos Pinot Noir",
-    "Company": "Black Star Farms",
-    "Style": "Red",
-    "ABV": 13.5,
-    "Calories": 125,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": true
-  },
-  {
-    "Name": "Black Star Farms Arcturos Sur Lie Chardonnay",
-    "Company": "Black Star Farms",
-    "Style": "White",
-    "ABV": 12.8,
-    "Calories": 122,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "L. Mawby Vineyards Blanc de Blancs",
-    "Company": "L. Mawby Vineyards",
-    "Style": "Sparkling",
-    "ABV": 12.0,
-    "Calories": 115,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": true
-  },
-  {
-    "Name": "L. Mawby Vineyards Detroit Demi-Sec",
-    "Company": "L. Mawby Vineyards",
-    "Style": "Sparkling",
-    "ABV": 11.5,
-    "Calories": 110,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "2 Lads Winery Cabernet Franc",
-    "Company": "2 Lads Winery",
-    "Style": "Red",
-    "ABV": 14.2,
-    "Calories": 130,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": true
-  },
-  {
-    "Name": "2 Lads Winery Pinot Grigio",
-    "Company": "2 Lads Winery",
-    "Style": "White",
-    "ABV": 12.5,
-    "Calories": 120,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Mari Vineyards Bel Tramonto",
-    "Company": "Mari Vineyards",
-    "Style": "Red",
-    "ABV": 14.5,
-    "Calories": 135,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": true
-  },
-  {
-    "Name": "Mari Vineyards Riesling Trocken",
-    "Company": "Mari Vineyards",
-    "Style": "White",
-    "ABV": 12.8,
-    "Calories": 122,
-    "oz": 5,
-    "Origin": "USA",
-    "Rating": 0,
-    "Favorites": false
-  }
+    {
+        "Name": "Chateau Grand Traverse Semi-Dry Riesling",
+        "Company": "Chateau Grand Traverse",
+        "Style": "White",
+        "ABV": 12.5,
+        "Calories": 120,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Chateau Grand Traverse Gamay Noir Reserve",
+        "Company": "Chateau Grand Traverse",
+        "Style": "Red",
+        "ABV": 13.8,
+        "Calories": 125,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Black Star Farms Arcturos Pinot Noir",
+        "Company": "Black Star Farms",
+        "Style": "Red",
+        "ABV": 13.5,
+        "Calories": 125,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Black Star Farms Arcturos Sur Lie Chardonnay",
+        "Company": "Black Star Farms",
+        "Style": "White",
+        "ABV": 12.8,
+        "Calories": 122,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "L. Mawby Vineyards Blanc de Blancs",
+        "Company": "L. Mawby Vineyards",
+        "Style": "Sparkling",
+        "ABV": 12.0,
+        "Calories": 115,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "L. Mawby Vineyards Detroit Demi-Sec",
+        "Company": "L. Mawby Vineyards",
+        "Style": "Sparkling",
+        "ABV": 11.5,
+        "Calories": 110,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "2 Lads Winery Cabernet Franc",
+        "Company": "2 Lads Winery",
+        "Style": "Red",
+        "ABV": 14.2,
+        "Calories": 130,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "2 Lads Winery Pinot Grigio",
+        "Company": "2 Lads Winery",
+        "Style": "White",
+        "ABV": 12.5,
+        "Calories": 120,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Mari Vineyards Bel Tramonto",
+        "Company": "Mari Vineyards",
+        "Style": "Red",
+        "ABV": 14.5,
+        "Calories": 135,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Mari Vineyards Riesling Trocken",
+        "Company": "Mari Vineyards",
+        "Style": "White",
+        "ABV": 12.8,
+        "Calories": 122,
+        "oz": 5,
+        "Origin": "USA",
+        "Ratings": [],
+        "Favorites": []
+    }
 ]
-

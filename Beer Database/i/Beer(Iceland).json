@@ -1,90 +1,90 @@
 [
     {
-        "Name": "Einstök Icelandic White Ale",
-        "Company": "Einstök Ölgerð",
+        "Name": "Einst\u00f6k Icelandic White Ale",
+        "Company": "Einst\u00f6k \u00d6lger\u00f0",
         "Style": "Witbier",
         "ABV": 5.2,
         "Calories": 170,
         "oz": 12,
         "Origin": "Iceland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Einstök Arctic Pale Ale",
-        "Company": "Einstök Ölgerð",
+        "Name": "Einst\u00f6k Arctic Pale Ale",
+        "Company": "Einst\u00f6k \u00d6lger\u00f0",
         "Style": "Pale Ale",
         "ABV": 5.6,
         "Calories": 180,
         "oz": 12,
         "Origin": "Iceland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Einstök Icelandic Toasted Porter",
-        "Company": "Einstök Ölgerð",
+        "Name": "Einst\u00f6k Icelandic Toasted Porter",
+        "Company": "Einst\u00f6k \u00d6lger\u00f0",
         "Style": "Porter",
         "ABV": 6.0,
         "Calories": 200,
         "oz": 12,
         "Origin": "Iceland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Gæðingur Blonde Ale",
-        "Company": "Gæðingur Brugghús",
+        "Name": "G\u00e6\u00f0ingur Blonde Ale",
+        "Company": "G\u00e6\u00f0ingur Bruggh\u00fas",
         "Style": "Blonde Ale",
         "ABV": 5.0,
         "Calories": 160,
         "oz": 12,
         "Origin": "Iceland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Gæðingur Session IPA",
-        "Company": "Gæðingur Brugghús",
+        "Name": "G\u00e6\u00f0ingur Session IPA",
+        "Company": "G\u00e6\u00f0ingur Bruggh\u00fas",
         "Style": "Session IPA",
         "ABV": 4.7,
         "Calories": 150,
         "oz": 12,
         "Origin": "Iceland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Gæðingur Stout",
-        "Company": "Gæðingur Brugghús",
+        "Name": "G\u00e6\u00f0ingur Stout",
+        "Company": "G\u00e6\u00f0ingur Bruggh\u00fas",
         "Style": "Stout",
         "ABV": 5.5,
         "Calories": 180,
         "oz": 12,
         "Origin": "Iceland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Ölvisholt Lava",
-        "Company": "Ölvisholt Brugghús",
+        "Name": "\u00d6lvisholt Lava",
+        "Company": "\u00d6lvisholt Bruggh\u00fas",
         "Style": "Smoked Imperial Stout",
         "ABV": 9.4,
         "Calories": 300,
         "oz": 12,
         "Origin": "Iceland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Ölvisholt Skjalfti",
-        "Company": "Ölvisholt Brugghús",
+        "Name": "\u00d6lvisholt Skjalfti",
+        "Company": "\u00d6lvisholt Bruggh\u00fas",
         "Style": "Pilsner",
         "ABV": 5.0,
         "Calories": 150,
         "oz": 12,
         "Origin": "Iceland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

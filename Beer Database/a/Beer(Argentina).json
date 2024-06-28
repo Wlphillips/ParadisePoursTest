@@ -1,69 +1,69 @@
 [
     {
         "Name": "Quilmes Cristal",
-        "Company": "Cervecería y Maltería Quilmes",
+        "Company": "Cervecer\u00c3\u00ada y Malter\u00c3\u00ada Quilmes",
         "Style": "Lager",
         "ABV": 4.9,
         "Calories": 140,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Quilmes Bock",
-        "Company": "Cervecería y Maltería Quilmes",
+        "Company": "Cervecer\u00c3\u00ada y Malter\u00c3\u00ada Quilmes",
         "Style": "Bock",
         "ABV": 6.3,
         "Calories": 180,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Quilmes Stout",
-        "Company": "Cervecería y Maltería Quilmes",
+        "Company": "Cervecer\u00c3\u00ada y Malter\u00c3\u00ada Quilmes",
         "Style": "Stout",
         "ABV": 5.0,
         "Calories": 190,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Patagonia Amber Lager",
-        "Company": "Cervecería Patagonia",
+        "Company": "Cervecer\u00c3\u00ada Patagonia",
         "Style": "Amber Lager",
         "ABV": 5.0,
         "Calories": 160,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Patagonia Bohemian Pilsener",
-        "Company": "Cervecería Patagonia",
+        "Company": "Cervecer\u00c3\u00ada Patagonia",
         "Style": "Pilsner",
         "ABV": 5.1,
         "Calories": 150,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Patagonia Weisse",
-        "Company": "Cervecería Patagonia",
+        "Company": "Cervecer\u00c3\u00ada Patagonia",
         "Style": "Wheat Beer",
         "ABV": 4.7,
         "Calories": 165,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Antares Scotch Ale",
@@ -73,8 +73,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Antares Porter",
@@ -84,52 +84,52 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Antares Kölsch",
+        "Name": "Antares K\u00c3\u00b6lsch",
         "Company": "Antares",
-        "Style": "Kölsch",
+        "Style": "K\u00c3\u00b6lsch",
         "ABV": 5.0,
         "Calories": 150,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Berlina IPA",
-        "Company": "Cervecería Berlina",
+        "Company": "Cervecer\u00c3\u00ada Berlina",
         "Style": "IPA",
         "ABV": 6.5,
         "Calories": 200,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Berlina Golden Ale",
-        "Company": "Cervecería Berlina",
+        "Company": "Cervecer\u00c3\u00ada Berlina",
         "Style": "Golden Ale",
         "ABV": 4.5,
         "Calories": 160,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Berlina Foreign Stout",
-        "Company": "Cervecería Berlina",
+        "Company": "Cervecer\u00c3\u00ada Berlina",
         "Style": "Stout",
         "ABV": 7.0,
         "Calories": 210,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Otro Mundo Strong Red Ale",
@@ -139,8 +139,8 @@
         "Calories": 190,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Otro Mundo Golden Ale",
@@ -150,8 +150,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Otro Mundo Nut Brown Ale",
@@ -161,8 +161,7 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Argentina",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
-

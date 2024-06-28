@@ -7,52 +7,52 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Põhjala Öö",
-        "Company": "Põhjala Brewery",
+        "Name": "P\u00c3\u00b5hjala \u00c3\u2013\u00c3\u00b6",
+        "Company": "P\u00c3\u00b5hjala Brewery",
         "Style": "Imperial Stout",
         "ABV": 10,
         "Calories": 300,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Põhjala Öö Imperial Baltic Porter",
-        "Company": "Põhjala Brewery",
+        "Name": "P\u00c3\u00b5hjala \u00c3\u2013\u00c3\u00b6 Imperial Baltic Porter",
+        "Company": "P\u00c3\u00b5hjala Brewery",
         "Style": "Baltic Porter",
         "ABV": 9,
         "Calories": 280,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Põhjala Must Kuld",
-        "Company": "Põhjala Brewery",
+        "Name": "P\u00c3\u00b5hjala Must Kuld",
+        "Company": "P\u00c3\u00b5hjala Brewery",
         "Style": "Porter",
         "ABV": 7,
         "Calories": 240,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Lehe Õllenaut Oatmeal Stout",
+        "Name": "Lehe \u00c3\u2022llenaut Oatmeal Stout",
         "Company": "Lehe Brewery",
         "Style": "Oatmeal Stout",
         "ABV": 6,
         "Calories": 220,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Lehe Limpa",
@@ -62,19 +62,19 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Pihtla Õlu",
+        "Name": "Pihtla \u00c3\u2022lu",
         "Company": "Pihtla Brewery",
         "Style": "Farmhouse Ale",
         "ABV": 4,
         "Calories": 160,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tanker Maketen",
@@ -84,8 +84,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tanker Rye Ale",
@@ -95,18 +95,18 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Pühaste Sajand",
-        "Company": "Pühaste Brewery",
+        "Name": "P\u00c3\u00bchaste Sajand",
+        "Company": "P\u00c3\u00bchaste Brewery",
         "Style": "Barleywine",
         "ABV": 10,
         "Calories": 300,
         "oz": 12,
         "Origin": "Estonia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

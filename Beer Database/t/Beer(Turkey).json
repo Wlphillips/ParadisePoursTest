@@ -1,46 +1,46 @@
 [
-  {
-    "Name": "Efes Pilsen",
-    "Company": "Anadolu Efes Brewery",
-    "Style": "Pilsner",
-    "ABV": 5.0,
-    "Calories": 150,
-    "oz": 12,
-    "Origin": "Turkey",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Efes Dark",
-    "Company": "Anadolu Efes Brewery",
-    "Style": "Dark Lager",
-    "ABV": 6.1,
-    "Calories": 170,
-    "oz": 12,
-    "Origin": "Turkey",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Bomonti",
-    "Company": "Bomonti Birası",
-    "Style": "Lager",
-    "ABV": 5.1,
-    "Calories": 160,
-    "oz": 12,
-    "Origin": "Turkey",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Tuborg Gold",
-    "Company": "Tuborg Brewery",
-    "Style": "Lager",
-    "ABV": 4.9,
-    "Calories": 150,
-    "oz": 12,
-    "Origin": "Turkey",
-    "Rating": 0,
-    "Favorites": false
-  }
+    {
+        "Name": "Efes Pilsen",
+        "Company": "Anadolu Efes Brewery",
+        "Style": "Pilsner",
+        "ABV": 5.0,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Turkey",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Efes Dark",
+        "Company": "Anadolu Efes Brewery",
+        "Style": "Dark Lager",
+        "ABV": 6.1,
+        "Calories": 170,
+        "oz": 12,
+        "Origin": "Turkey",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Bomonti",
+        "Company": "Bomonti Biras\u0131",
+        "Style": "Lager",
+        "ABV": 5.1,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Turkey",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Tuborg Gold",
+        "Company": "Tuborg Brewery",
+        "Style": "Lager",
+        "ABV": 4.9,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Turkey",
+        "Ratings": [],
+        "Favorites": []
+    }
 ]

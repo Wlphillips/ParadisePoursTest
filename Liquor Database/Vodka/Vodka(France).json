@@ -1,14 +1,14 @@
 [
     {
-        "Name": "Cîroc Vodka",
+        "Name": "C\u00eeroc Vodka",
         "Company": "Diageo",
         "Style": "Vodka",
         "ABV": 40,
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Grey Goose Vodka",
@@ -18,8 +18,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Belvedere Vodka",
@@ -29,8 +29,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Chopin Vodka",
@@ -40,8 +40,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Poliakov Vodka",
@@ -51,8 +51,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stolichnaya (Stoli) Elit Vodka",
@@ -62,8 +62,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bison Grass Vodka",
@@ -73,8 +73,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Pinnacle Vodka",
@@ -84,8 +84,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Crystal Head Vodka",
@@ -95,8 +95,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Absolut Elyx Vodka",
@@ -106,7 +106,7 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

@@ -1,68 +1,68 @@
 [
     {
-        "Name": "Havana Club Añejo Blanco",
+        "Name": "Havana Club A\u00f1ejo Blanco",
         "Company": "Havana Club International S.A.",
         "Style": "Rum",
         "ABV": 40,
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Cuba",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Havana Club Añejo 3 Años",
+        "Name": "Havana Club A\u00f1ejo 3 A\u00f1os",
         "Company": "Havana Club International S.A.",
         "Style": "Rum",
         "ABV": 40,
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Cuba",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Havana Club Añejo 7 Años",
+        "Name": "Havana Club A\u00f1ejo 7 A\u00f1os",
         "Company": "Havana Club International S.A.",
         "Style": "Rum",
         "ABV": 40,
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Cuba",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Santiago de Cuba Añejo Rum",
+        "Name": "Santiago de Cuba A\u00f1ejo Rum",
         "Company": "Santiago de Cuba Rum",
         "Style": "Rum",
         "ABV": 40,
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Cuba",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Ron Cubay Añejo Rum",
+        "Name": "Ron Cubay A\u00f1ejo Rum",
         "Company": "Ron Cubay",
         "Style": "Rum",
         "ABV": 38,
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Cuba",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Varadero Añejo Reserva Rum",
+        "Name": "Varadero A\u00f1ejo Reserva Rum",
         "Company": "Varadero",
         "Style": "Rum",
         "ABV": 38,
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Cuba",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

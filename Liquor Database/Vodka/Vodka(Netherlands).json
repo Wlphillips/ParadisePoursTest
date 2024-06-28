@@ -7,8 +7,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Grey Goose Vodka",
@@ -18,19 +18,19 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Cîroc Vodka",
+        "Name": "C\u00eeroc Vodka",
         "Company": "Diageo",
         "Style": "Vodka",
         "ABV": 40,
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Effen Vodka",
@@ -40,8 +40,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bols Vodka",
@@ -51,8 +51,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Van Gogh Vodka",
@@ -62,8 +62,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Boomsma Jonge Graanjenever",
@@ -73,8 +73,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ketel One Botanical",
@@ -84,8 +84,8 @@
         "Calories": 73,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Vincent Van Gogh Vodka",
@@ -95,8 +95,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Loyalty Vodka",
@@ -106,7 +106,7 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

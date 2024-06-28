@@ -7,63 +7,63 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Hungary",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Borsodi Sör",
+        "Name": "Borsodi S\u00f6r",
         "Company": "Borsodi Brewery",
         "Style": "Pale Lager",
         "ABV": 4.6,
         "Calories": 140,
         "oz": 12,
         "Origin": "Hungary",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Soproni Ászok",
+        "Name": "Soproni \u00c1szok",
         "Company": "Soproni Brewery",
         "Style": "Pale Lager",
         "ABV": 4.5,
         "Calories": 140,
         "oz": 12,
         "Origin": "Hungary",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Arany Ászok",
+        "Name": "Arany \u00c1szok",
         "Company": "Dreher Brewery",
         "Style": "Pale Lager",
         "ABV": 4.2,
         "Calories": 130,
         "oz": 12,
         "Origin": "Hungary",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Kőbányai Világos",
+        "Name": "K\u0151b\u00e1nyai Vil\u00e1gos",
         "Company": "Borsodi Brewery",
         "Style": "Pale Lager",
         "ABV": 4.1,
         "Calories": 130,
         "oz": 12,
         "Origin": "Hungary",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Békésszentandrási Sörfőzde IPA",
-        "Company": "Békésszentandrási Sörfőzde",
+        "Name": "B\u00e9k\u00e9sszentandr\u00e1si S\u00f6rf\u0151zde IPA",
+        "Company": "B\u00e9k\u00e9sszentandr\u00e1si S\u00f6rf\u0151zde",
         "Style": "IPA",
         "ABV": 5.8,
         "Calories": 180,
         "oz": 12,
         "Origin": "Hungary",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Mad Scientist Altbier",
@@ -73,8 +73,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Hungary",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Horizont Columbus 1492",
@@ -84,7 +84,7 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Hungary",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

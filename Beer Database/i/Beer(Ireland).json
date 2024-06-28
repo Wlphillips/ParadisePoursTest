@@ -7,8 +7,8 @@
         "Calories": 125,
         "oz": 12,
         "Origin": "Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Smithwick's Irish Ale",
@@ -18,8 +18,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kilkenny Irish Cream Ale",
@@ -29,8 +29,8 @@
         "Calories": 162,
         "oz": 12,
         "Origin": "Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Murphy's Irish Stout",
@@ -40,8 +40,8 @@
         "Calories": 124,
         "oz": 12,
         "Origin": "Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Galway Bay Full Sail",
@@ -51,8 +51,8 @@
         "Calories": 130,
         "oz": 12,
         "Origin": "Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "O'Hara's Irish Stout",
@@ -62,8 +62,8 @@
         "Calories": 125,
         "oz": 12,
         "Origin": "Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "White Hag The Puca",
@@ -73,8 +73,8 @@
         "Calories": 120,
         "oz": 12,
         "Origin": "Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Eight Degrees Sunburnt Irish Red Ale",
@@ -84,7 +84,7 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Ireland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

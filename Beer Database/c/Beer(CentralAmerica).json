@@ -1,14 +1,14 @@
 [
     {
         "Name": "Gallo",
-        "Company": "Cervecería Centro Americana",
+        "Company": "Cervecer\u00eda Centro Americana",
         "Style": "Pale Lager",
         "ABV": 5,
         "Calories": 150,
         "oz": 12,
         "Origin": "Guatemala",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Victoria",
@@ -18,19 +18,19 @@
         "Calories": 135,
         "oz": 12,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Salva Vida",
-        "Company": "Cervecería Hondureña",
+        "Company": "Cervecer\u00eda Hondure\u00f1a",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 145,
         "oz": 12,
         "Origin": "Honduras",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Imperial",
@@ -40,73 +40,73 @@
         "Calories": 155,
         "oz": 12,
         "Origin": "Costa Rica",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Balboa",
-        "Company": "Cervecería Barú-Panama",
+        "Company": "Cervecer\u00eda Bar\u00fa-Panama",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 145,
         "oz": 12,
         "Origin": "Panama",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Port Royal",
-        "Company": "Cervecería Hondureña",
+        "Company": "Cervecer\u00eda Hondure\u00f1a",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 145,
         "oz": 12,
         "Origin": "Honduras",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Regia Extra",
-        "Company": "Cervecería Hondureña",
+        "Company": "Cervecer\u00eda Hondure\u00f1a",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 150,
         "oz": 12,
         "Origin": "Honduras",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Suprema",
-        "Company": "Cervecería Hondureña",
+        "Company": "Cervecer\u00eda Hondure\u00f1a",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 145,
         "oz": 12,
         "Origin": "Honduras",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Atlas",
-        "Company": "Cervecería Nacional de Nicaragua",
+        "Company": "Cervecer\u00eda Nacional de Nicaragua",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 145,
         "oz": 12,
         "Origin": "Nicaragua",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cristal",
-        "Company": "Compañía Cervecera de Nicaragua",
+        "Company": "Compa\u00f1\u00eda Cervecera de Nicaragua",
         "Style": "Pale Lager",
         "ABV": 4,
         "Calories": 145,
         "oz": 12,
         "Origin": "Nicaragua",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

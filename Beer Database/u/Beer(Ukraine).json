@@ -1,46 +1,46 @@
 [
-  {
-    "Name": "Obolon Premium",
-    "Company": "Obolon Brewery",
-    "Style": "Lager",
-    "ABV": 5.2,
-    "Calories": 160,
-    "oz": 12,
-    "Origin": "Ukraine",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Chernihivske Svitle",
-    "Company": "Chernihivske Brewery",
-    "Style": "Pale Lager",
-    "ABV": 4.8,
-    "Calories": 150,
-    "oz": 12,
-    "Origin": "Ukraine",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Lvivske 1715",
-    "Company": "Lvivske Brewery",
-    "Style": "Lager",
-    "ABV": 5.1,
-    "Calories": 155,
-    "oz": 12,
-    "Origin": "Ukraine",
-    "Rating": 0,
-    "Favorites": false
-  },
-  {
-    "Name": "Pravda Brewery IPA",
-    "Company": "Pravda Brewery",
-    "Style": "IPA",
-    "ABV": 6.0,
-    "Calories": 180,
-    "oz": 12,
-    "Origin": "Ukraine",
-    "Rating": 0,
-    "Favorites": false
-  }
+    {
+        "Name": "Obolon Premium",
+        "Company": "Obolon Brewery",
+        "Style": "Lager",
+        "ABV": 5.2,
+        "Calories": 160,
+        "oz": 12,
+        "Origin": "Ukraine",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Chernihivske Svitle",
+        "Company": "Chernihivske Brewery",
+        "Style": "Pale Lager",
+        "ABV": 4.8,
+        "Calories": 150,
+        "oz": 12,
+        "Origin": "Ukraine",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Lvivske 1715",
+        "Company": "Lvivske Brewery",
+        "Style": "Lager",
+        "ABV": 5.1,
+        "Calories": 155,
+        "oz": 12,
+        "Origin": "Ukraine",
+        "Ratings": [],
+        "Favorites": []
+    },
+    {
+        "Name": "Pravda Brewery IPA",
+        "Company": "Pravda Brewery",
+        "Style": "IPA",
+        "ABV": 6.0,
+        "Calories": 180,
+        "oz": 12,
+        "Origin": "Ukraine",
+        "Ratings": [],
+        "Favorites": []
+    }
 ]

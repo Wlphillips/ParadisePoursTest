@@ -7,8 +7,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Fuller's London Pride",
@@ -18,8 +18,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Guinness Draught",
@@ -29,8 +29,8 @@
         "Calories": 125,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Old Speckled Hen",
@@ -40,8 +40,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Samuel Smith's Oatmeal Stout",
@@ -51,8 +51,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Newcastle Brown Ale",
@@ -62,8 +62,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "London Porter",
@@ -73,8 +73,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Theakston Old Peculier",
@@ -84,8 +84,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Punk IPA",
@@ -95,8 +95,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Golden Pride",
@@ -106,7 +106,7 @@
         "Calories": 300,
         "oz": 12,
         "Origin": "England",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

@@ -7,19 +7,19 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Laško Zlatorog",
-        "Company": "Pivovarna Laško Union",
+        "Name": "La\u0161ko Zlatorog",
+        "Company": "Pivovarna La\u0161ko Union",
         "Style": "Pale Lager",
         "ABV": 4.9,
         "Calories": 150,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Human Fish IPA",
@@ -29,8 +29,8 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Pelicon The Boss",
@@ -40,8 +40,8 @@
         "Calories": 250,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Reservoir Dogs Hoptopod",
@@ -51,8 +51,8 @@
         "Calories": 260,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bevog Tak Pale Ale",
@@ -62,8 +62,8 @@
         "Calories": 180,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bevog Who Cares Edition 3",
@@ -73,8 +73,8 @@
         "Calories": 210,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Bevog Deetz",
@@ -84,8 +84,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Vizir Svetlo Pivo",
@@ -95,8 +95,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Lobik Antipodal",
@@ -106,7 +106,7 @@
         "Calories": 200,
         "oz": 12,
         "Origin": "Slovenia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

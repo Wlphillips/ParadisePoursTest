@@ -7,19 +7,19 @@
         "Calories": 148,
         "oz": 12,
         "Origin": "Morocco",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Flag Spéciale",
+        "Name": "Flag Sp\u00e9ciale",
         "Company": "Brasseries du Maroc",
         "Style": "Pale Lager",
         "ABV": 5,
         "Calories": 148,
         "oz": 12,
         "Origin": "Morocco",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Casablanca",
@@ -29,8 +29,8 @@
         "Calories": 148,
         "oz": 12,
         "Origin": "Morocco",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stork",
@@ -40,8 +40,8 @@
         "Calories": 148,
         "oz": 12,
         "Origin": "Morocco",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Dunes",
@@ -51,19 +51,19 @@
         "Calories": 148,
         "oz": 12,
         "Origin": "Morocco",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Flag Spéciale Light",
+        "Name": "Flag Sp\u00e9ciale Light",
         "Company": "Brasseries du Maroc",
         "Style": "Light Lager",
         "ABV": 3.5,
         "Calories": 100,
         "oz": 12,
         "Origin": "Morocco",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Moussy",
@@ -73,7 +73,7 @@
         "Calories": 10,
         "oz": 12,
         "Origin": "Morocco",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

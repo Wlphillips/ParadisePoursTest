@@ -7,8 +7,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Cyprus",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "KEO St. Mena",
@@ -18,8 +18,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Cyprus",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Carlsberg Cyprus",
@@ -29,8 +29,8 @@
         "Calories": 145,
         "oz": 12,
         "Origin": "Cyprus",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Leon Premium Lager",
@@ -40,8 +40,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Cyprus",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Keo Special",
@@ -51,8 +51,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Cyprus",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "LEO",
@@ -62,8 +62,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Cyprus",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cyprus Wheat Beer",
@@ -73,8 +73,8 @@
         "Calories": 160,
         "oz": 12,
         "Origin": "Cyprus",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Vasilikon Microbrewery Blonde Ale",
@@ -84,8 +84,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Cyprus",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sirius Pilsner",
@@ -95,7 +95,7 @@
         "Calories": 145,
         "oz": 12,
         "Origin": "Cyprus",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

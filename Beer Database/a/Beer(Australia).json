@@ -7,8 +7,8 @@
         "Calories": 158,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Carlton Draught",
@@ -18,8 +18,8 @@
         "Calories": 149,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Great Northern Original",
@@ -29,8 +29,8 @@
         "Calories": 123,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Great Northern Super Crisp Lager",
@@ -40,8 +40,8 @@
         "Calories": 107,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Great Northern Brewing Co. Original 3.5",
@@ -51,8 +51,8 @@
         "Calories": 105,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Coopers Pale Ale",
@@ -62,8 +62,8 @@
         "Calories": 150,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Coopers Sparkling Ale",
@@ -73,8 +73,8 @@
         "Calories": 186,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Coopers Stout",
@@ -84,8 +84,8 @@
         "Calories": 218,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Little Creatures Pale Ale",
@@ -95,8 +95,8 @@
         "Calories": 170,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Little Creatures Bright Ale",
@@ -106,8 +106,8 @@
         "Calories": 148,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Little Creatures Rogers' Beer",
@@ -117,8 +117,8 @@
         "Calories": 130,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "James Squire 150 Lashes Pale Ale",
@@ -128,8 +128,8 @@
         "Calories": 151,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "James Squire The Chancer Golden Ale",
@@ -139,8 +139,8 @@
         "Calories": 162,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "James Squire One Fifty Lashes Cloudy Apple Cider",
@@ -150,8 +150,8 @@
         "Calories": 159,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stone & Wood Pacific Ale",
@@ -161,8 +161,8 @@
         "Calories": 159,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stone & Wood Green Coast Lager",
@@ -172,8 +172,8 @@
         "Calories": 151,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stone & Wood Cloud Catcher Pale Ale",
@@ -183,8 +183,8 @@
         "Calories": 162,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "4 Pines Pale Ale",
@@ -194,8 +194,8 @@
         "Calories": 167,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "4 Pines Kolsch",
@@ -205,8 +205,8 @@
         "Calories": 140,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "4 Pines American Amber Ale",
@@ -216,8 +216,7 @@
         "Calories": 187,
         "oz": 12,
         "Origin": "Australia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
-

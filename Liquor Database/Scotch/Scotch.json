@@ -7,8 +7,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Macallan 18 Year Old Sherry Oak Single Malt Scotch Whisky",
@@ -18,8 +18,8 @@
         "Calories": 73,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Laphroaig 10 Year Old Single Malt Scotch Whisky",
@@ -29,8 +29,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Highland Park 18 Year Old Viking Pride Single Malt Scotch Whisky",
@@ -40,8 +40,8 @@
         "Calories": 73,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Ardbeg 10 Year Old Islay Single Malt Scotch Whisky",
@@ -51,8 +51,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Balvenie DoubleWood 12 Year Old Single Malt Scotch Whisky",
@@ -62,8 +62,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Glenlivet 18 Year Old Single Malt Scotch Whisky",
@@ -73,8 +73,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Dalmore 18 Year Old Single Malt Scotch Whisky",
@@ -84,8 +84,8 @@
         "Calories": 73,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Springbank 15 Year Old Single Malt Scotch Whisky",
@@ -95,8 +95,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Aberlour A'Bunadh Batch #70 Single Malt Scotch Whisky",
@@ -106,7 +106,7 @@
         "Calories": 73,
         "oz": 1.5,
         "Origin": "Scotland",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

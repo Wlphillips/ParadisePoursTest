@@ -7,8 +7,8 @@
         "Calories": 142,
         "oz": 12,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Amstel Lager",
@@ -18,8 +18,8 @@
         "Calories": 145,
         "oz": 12,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Grolsch Premium Lager",
@@ -29,8 +29,8 @@
         "Calories": 147,
         "oz": 12,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Amstel Light",
@@ -40,8 +40,8 @@
         "Calories": 95,
         "oz": 12,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "La Trappe Quadrupel",
@@ -51,7 +51,7 @@
         "Calories": 320,
         "oz": 12,
         "Origin": "Netherlands",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

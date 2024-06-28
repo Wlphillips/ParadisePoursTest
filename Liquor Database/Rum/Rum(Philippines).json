@@ -7,8 +7,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Don Papa Rum",
@@ -18,8 +18,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Tanduay Silver Asian Rum",
@@ -29,8 +29,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Emperador Light Brandy",
@@ -40,7 +40,7 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "Philippines",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

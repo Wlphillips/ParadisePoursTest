@@ -1,25 +1,25 @@
 [
     {
         "Name": "Hennessy Cognac",
-        "Company": "LVMH Moët Hennessy Louis Vuitton SE",
+        "Company": "LVMH Mo\u00ebt Hennessy Louis Vuitton SE",
         "Style": "Cognac",
         "ABV": 40,
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Rémy Martin Cognac",
-        "Company": "Rémy Cointreau",
+        "Name": "Martin Cognac",
+        "Company": "Cointreau",
         "Style": "Cognac",
         "ABV": 40,
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Courvoisier Cognac",
@@ -29,8 +29,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Martell Cognac",
@@ -40,8 +40,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hine Cognac",
@@ -51,8 +51,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Camus Cognac",
@@ -62,8 +62,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Frapin Cognac",
@@ -73,8 +73,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Delamain Cognac",
@@ -84,8 +84,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hardy Cognac",
@@ -95,8 +95,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Gautier Cognac",
@@ -106,8 +106,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Pierre Ferrand Cognac",
@@ -117,8 +117,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Prince Hubert de Polignac Cognac",
@@ -128,8 +128,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Pierre de Segonzac Cognac",
@@ -139,8 +139,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Jean Fillioux Cognac",
@@ -150,8 +150,8 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Daniel Bouju Cognac",
@@ -161,7 +161,7 @@
         "Calories": 69,
         "oz": 1.5,
         "Origin": "France",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

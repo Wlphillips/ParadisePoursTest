@@ -7,8 +7,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "India",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Old Port Deluxe Matured Rum",
@@ -18,8 +18,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "India",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Hercules Rum",
@@ -29,8 +29,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "India",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "McDowell's No. 1 Celebration Matured XXX Rum",
@@ -40,8 +40,8 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "India",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Contessa Premium XXX Rum",
@@ -51,7 +51,7 @@
         "Calories": 65,
         "oz": 1.5,
         "Origin": "India",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

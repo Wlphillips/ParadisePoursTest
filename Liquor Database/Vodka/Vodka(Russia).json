@@ -7,8 +7,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Stolichnaya (Stoli) Vodka",
@@ -18,8 +18,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Beluga Noble Russian Vodka",
@@ -29,8 +29,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Smirnoff No. 21 Vodka",
@@ -40,8 +40,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Moskovskaya Vodka",
@@ -51,8 +51,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Belvedere Unfiltered Vodka",
@@ -62,8 +62,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Imperia Vodka",
@@ -73,8 +73,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Zyr Vodka",
@@ -84,8 +84,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Russian Standard Platinum Vodka",
@@ -95,8 +95,8 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Kauffman Soft Private Collection Vodka",
@@ -106,7 +106,7 @@
         "Calories": 96,
         "oz": 1.5,
         "Origin": "Russia",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]

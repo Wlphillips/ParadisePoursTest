@@ -1,14 +1,14 @@
 [
     {
-        "Name": "Patrón Silver Tequila",
-        "Company": "Patrón Spirits Company",
+        "Name": "Patr\u00f3n Silver Tequila",
+        "Company": "Patr\u00f3n Spirits Company",
         "Style": "Tequila",
         "ABV": 40,
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Don Julio Blanco Tequila",
@@ -18,8 +18,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Casa Noble Crystal Tequila",
@@ -29,8 +29,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Herradura Silver Tequila",
@@ -40,19 +40,19 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
-        "Name": "Espolòn Blanco Tequila",
-        "Company": "Espolòn Tequila",
+        "Name": "Espol\u00f2n Blanco Tequila",
+        "Company": "Espol\u00f2n Tequila",
         "Style": "Tequila",
         "ABV": 40,
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Milagro Silver Tequila",
@@ -62,8 +62,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Sauza Signature Blue Silver Tequila",
@@ -73,8 +73,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Olmeca Altos Plata Tequila",
@@ -84,8 +84,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "El Jimador Blanco Tequila",
@@ -95,8 +95,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Corralejo Blanco Tequila",
@@ -106,8 +106,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Fortaleza Blanco Tequila",
@@ -117,8 +117,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Cazadores Blanco Tequila",
@@ -128,8 +128,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Clase Azul Plata Tequila",
@@ -139,8 +139,8 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     },
     {
         "Name": "Azul Reposado Tequila",
@@ -150,7 +150,7 @@
         "Calories": 64,
         "oz": 1.5,
         "Origin": "Mexico",
-        "Rating": 0,
-        "Favorites": false
+        "Ratings": [],
+        "Favorites": []
     }
 ]
