@@ -32,64 +32,6 @@ router.post('/searchBeer', async(req, res) => {
     }
 })
 
-// Add the routes for managing favorite beers
-router.post('/favorites/beer', async (req, res) => {
-    const { userId, beerId } = req.body;
-
-    try {
-        const user = await User.findOne({ UserId: userId });
-        if (!user) {
-            return res.status(404).json({ error: 'User not found' });
-        }
-
-        if (user.Drinks.includes(beerId)) {
-            return res.status(400).json({ error: 'Beer already in favorites' });
-        }
-
-        user.Drinks.push(beerId);
-        await user.save();
-
-        res.status(200).json({ favorites: user.Drinks });
-    } catch (error) {
-        res.status(500).json({ error: error.message });
-    }
-});
-
-router.delete('/favorites/beer', async (req, res) => {
-    const { userId, beerId } = req.body;
-
-    try {
-        const user = await User.findOne({ UserId: userId });
-        if (!user) {
-            return res.status(404).json({ error: 'User not found' });
-        }
-
-        user.Drinks = user.Drinks.filter(id => id.toString() !== beerId);
-        await user.save();
-
-        res.status(200).json({ favorites: user.Drinks });
-    } catch (error) {
-        res.status(500).json({ error: error.message });
-    }
-});
-
-router.get('/favorites/beer', async (req, res) => {
-    const { userId } = req.query;
-
-    try {
-        const db = getClient().db('AlcoholDatabase');
-        const user = await User.findOne({ UserId: userId });
-        if (!user) {
-            return res.status(404).json({ error: 'User not found' });
-        }
-
-        const favoriteBeers = await db.collection('Beer').find({ _id: { $in: user.Drinks } }).toArray();
-
-        res.status(200).json({ favorites: favoriteBeers });
-    } catch (error) {
-        res.status(500).json({ error: error.message });
-    }
-});
 
 router.get('/getAllBeers', async (req, res) => {
     const db = getClient().db('AlcoholDatabase'); // Replace with your database name
@@ -102,5 +44,38 @@ router.get('/getAllBeers', async (req, res) => {
         res.status(400).json({error:"Couldn't retrieve all beers..."})
     }
 });
+
+//Favorites/Unfavorites beer by inserting UserId with a boolean field called Favorite into the Beer's Favorites object array
+//Needs to be fixed. Correctly uploads user to the object array but cannot modify an existing user's Favorite yet.
+router.post('/favoriteBeer', async(req, res) => {
+    const db = getClient().db('AlcoholDatabase')
+    const {UserId, BeerId} = req.body
+    const result = await db.collection('Beer').find(BeerId).toArray()
+    console.log(result[0])
+    const objectId = new ObjectId(BeerId)
+    
+    if(result.length > 0){
+        const beer = result[0]
+        const userIndex = beer.Favorites.findIndex(favorite => favorite.UserId == UserId) //Searches for user inside the Favorites array
+
+        if(userIndex != -1){
+            if(beer.Favorites[userIndex].Favorite == false){ //Favorites the drink if user already exists in the object array.
+                beer.Favorites[userIndex].Favorite = true
+                res.status(200).json(beer.Favorites[userIndex].Favorite)
+            }
+            else{ //Unfavorites the drink if user already exists in the object array.
+                beer.Favorites[userIndex].Favorite = false
+                res.status(200).json(beer.Favorites[userIndex].Favorite)
+            }
+        }
+        else{ //Adds user in the drink's object array and favorites
+            beer.Favorites.push({UserId: UserId, Favorite: true})
+            const updateResult = await db.collection('Beer').findOneAndUpdate({ _id: ObjectId },{ $push: { Favorites: beer.Favorites } })
+            res.status(200).json({beer})
+        }
+
+    }
+})
+
 
 module.exports = router
