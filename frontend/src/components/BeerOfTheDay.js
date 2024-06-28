@@ -84,7 +84,7 @@ function BeerOfTheDay(){
 
                             <div className="grid-item"><h1 class = "grid-header">Origin:</h1><br />{officialBeerOfTheDay.Origin}</div>
 
-                            <div className="grid-item"><h1 class = "grid-header">Favorite?</h1><br />{officialBeerOfTheDay.Favorite ? 'Yes' : 'No'}</div>
+                            <div className="grid-item"><h1 class = "grid-header">Favorite?</h1><br />{officialBeerOfTheDay.Favorite ? <i className = "bi bi-heart-fill fav-icon"></i> : <i className = "bi bi-heart fav-icon"></i>}</div>
                         </div>
                     </div>
                 )}

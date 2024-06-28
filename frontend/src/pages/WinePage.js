@@ -1,7 +1,5 @@
 import WineHeader from "../components/WineHeader";
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
-
 
 function WinePage(){
     return(

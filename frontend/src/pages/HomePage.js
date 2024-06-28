@@ -1,14 +1,14 @@
 import React from 'react';
 import '../main.css';
 import Header from '../components/Header.js';
-import BeerOfTheDay from '../components/BeerOfTheDay.js';
+import AboutUs from '../components/AboutUs.js';
 
 const HomePage = () => {
   return (
     <div className="home-page">
       <div className="content" >
         <Header />
-        <BeerOfTheDay />
+        <AboutUs />
       </div>
     </div>
   );
