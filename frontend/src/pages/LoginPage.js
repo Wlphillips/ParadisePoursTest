@@ -42,11 +42,11 @@ function LoginPage(){
                     <h1>Login / Register</h1>
                     <div class = "input-form">
                         <div class = "label">Username</div>
-                        <input class = "input-box" type="text" id="username" name="username" value={username} onChange={(e) => setUsername(e.target.value)} required/>
+                        <input class = "input-box" type="username" id="username" name="username" value={username} onChange={(e) => setUsername(e.target.value)} required/>
                     </div>
                     <div class = "input-form">
                         <div class = "label">Password</div>
-                        <input class = "input-box" type="text" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required/>
+                        <input class = "input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required/>
                     </div>
                     <button type="button" onClick={loginButtonHandler} className="login-button">Login</button>
                     <button type="button" className="register-button">Register</button>

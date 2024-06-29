@@ -4,7 +4,7 @@ import '../main.css';
 import BeerMugsLeft from '../images/beer-mugs-left.png';
 import BeerMugsRight from '../images/beer-mugs-right.png';
 
-function BeerOfTheDay(){
+const BeerOfTheDay = ({switchComponents}) => {
 
     const [officialBeerOfTheDay, setOfficialBeerOfTheDay] = useState(null);
 
@@ -88,6 +88,7 @@ function BeerOfTheDay(){
                         </div>
                     </div>
                 )}
+                <button onClick={switchComponents} class = "beer-list-button">Full beer list<i class="bi bi-arrow-right"></i></button>
             </div>
         </div>
     );
