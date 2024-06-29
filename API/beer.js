@@ -1,6 +1,6 @@
 const express = require('express');
 const {getClient} = require('../database');
-const User = require('../models/User');
+const ObjectId = require('mongodb').ObjectId;
 const router = express.Router();
 
 //Beer Partial-Match Search - Users can use multiple parameters to find their drinks
