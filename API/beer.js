@@ -52,13 +52,13 @@ router.post('/favoriteBeer', async(req, res) => {
     const BeerId = new ObjectId(_id)
     const updateBeer = await db.collection('Beer').updateOne(
         { _id: BeerId },
-        { $push: { Favorites: {UserId: UserId}, } })
+        { $push: { Favorites: UserId, } })
 
     if(updateBeer){
         res.status(200).json({updateBeer, message:"User has favorited their beer"})
     }
     else{
-        res.status(400).json({message:"User could not favorite beer"})
+        res.status(400).json({message:"User could not favorite their beer"})
     }
 })
 
@@ -67,12 +67,12 @@ router.post('/unfavoriteBeer', async(req, res) => {
     const db = getClient().db('AlcoholDatabase')
     const {_id, UserId} = req.body
     const BeerId = new ObjectId(_id)
-    const result = await db.collection('Beer').findOneAndUpdate({_id: BeerId}, {$pull: {Favorites: {UserId: UserId}}})
+    const updateBeer = await db.collection('Beer').findOneAndUpdate({_id: BeerId}, {$pull: {Favorites: UserId,}})
     if(updateBeer){
         res.status(200).json({updateBeer, message:"User has unfavorited their beer"})
     }
     else{
-        res.status(400).json({message:"User could not unfavorite beer"})
+        res.status(400).json({message:"User could not unfavorite their beer"})
     }
 })
 
