@@ -31,7 +31,7 @@ router.post('/register', async (req, res, next) => {
 
     const uniqueString = randString() //Used to help create a unique verification link that is attached to the user's account
 
-    const user = {UserId:nextUserId, FirstName, LastName, Username, Password, Email, Phone, Verified:false, uniqueString}
+    const user = {UserId:nextUserId, FirstName, LastName, Username, Password, Email, Phone, Verified:false, uniqueString, Drinks:[]}
 
     await db.collection('Users').insertOne(user)
     sendMail(Email, uniqueString, 1)
