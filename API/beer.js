@@ -46,35 +46,19 @@ router.get('/getAllBeers', async (req, res) => {
 });
 
 //Favorites/Unfavorites beer by inserting UserId with a boolean field called Favorite into the Beer's Favorites object array
-//Needs to be fixed. Correctly uploads user to the object array but cannot modify an existing user's Favorite yet.
+//Currently only pushes UserId and sets Favorite to true at the moment. Unable to find and change existing favorites.
 router.post('/favoriteBeer', async(req, res) => {
     const db = getClient().db('AlcoholDatabase')
-    const {UserId, BeerId} = req.body
-    const result = await db.collection('Beer').find(BeerId).toArray()
-    console.log(result[0])
-    const objectId = new ObjectId(BeerId)
-    
-    if(result.length > 0){
-        const beer = result[0]
-        const userIndex = beer.Favorites.findIndex(favorite => favorite.UserId == UserId) //Searches for user inside the Favorites array
+    const {_id, UserId} = req.body
+    const BeerId = new ObjectId(_id)
 
-        if(userIndex != -1){
-            if(beer.Favorites[userIndex].Favorite == false){ //Favorites the drink if user already exists in the object array.
-                beer.Favorites[userIndex].Favorite = true
-                res.status(200).json(beer.Favorites[userIndex].Favorite)
-            }
-            else{ //Unfavorites the drink if user already exists in the object array.
-                beer.Favorites[userIndex].Favorite = false
-                res.status(200).json(beer.Favorites[userIndex].Favorite)
-            }
-        }
-        else{ //Adds user in the drink's object array and favorites
-            beer.Favorites.push({UserId: UserId, Favorite: true})
-            const updateResult = await db.collection('Beer').findOneAndUpdate({ _id: ObjectId },{ $push: { Favorites: beer.Favorites } })
-            res.status(200).json({beer})
-        }
-
-    }
+    const updateBeer = await db.collection('Beer').updateOne(
+        { _id: BeerId },
+        { $push: { Favorites: {
+            UserId: UserId,
+            Favorite: true
+        }, } })
+    res.status(200).json({updateBeer})
 })
 
 
