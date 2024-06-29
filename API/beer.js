@@ -45,21 +45,35 @@ router.get('/getAllBeers', async (req, res) => {
     }
 });
 
-//Favorites/Unfavorites beer by inserting UserId with a boolean field called Favorite into the Beer's Favorites object array
-//Currently only pushes UserId and sets Favorite to true at the moment. Unable to find and change existing favorites.
+//User can favorite Beer by adding UserId to the Drink's Favorite array
 router.post('/favoriteBeer', async(req, res) => {
     const db = getClient().db('AlcoholDatabase')
     const {_id, UserId} = req.body
     const BeerId = new ObjectId(_id)
-
     const updateBeer = await db.collection('Beer').updateOne(
         { _id: BeerId },
-        { $push: { Favorites: {
-            UserId: UserId,
-            Favorite: true
-        }, } })
-    res.status(200).json({updateBeer})
+        { $push: { Favorites: {UserId: UserId}, } })
+
+    if(updateBeer){
+        res.status(200).json({updateBeer, message:"User has favorited their beer"})
+    }
+    else{
+        res.status(400).json({message:"User could not favorite beer"})
+    }
 })
 
+//User can unfavorite Beer by deleting UserId from the Drink's Favorite array
+router.post('/unfavoriteBeer', async(req, res) => {
+    const db = getClient().db('AlcoholDatabase')
+    const {_id, UserId} = req.body
+    const BeerId = new ObjectId(_id)
+    const result = await db.collection('Beer').findOneAndUpdate({_id: BeerId}, {$pull: {Favorites: {UserId: UserId}}})
+    if(updateBeer){
+        res.status(200).json({updateBeer, message:"User has unfavorited their beer"})
+    }
+    else{
+        res.status(400).json({message:"User could not unfavorite beer"})
+    }
+})
 
 module.exports = router
