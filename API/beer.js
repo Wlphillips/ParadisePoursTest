@@ -50,12 +50,12 @@ router.post('/favoriteBeer', async(req, res) => {
     const db = getClient().db('AlcoholDatabase')
     const {_id, UserId} = req.body
     const BeerId = new ObjectId(_id)
-    const favorited = await db.collection('Beer').updateOne( //Adds User Id to array
+    const favorite = await db.collection('Beer').updateOne( //Adds User Id to array
         { _id: BeerId },
         { $push: { Favorites: UserId, } })
 
-    if(favorited){
-        res.status(200).json({favorited, message:"User has favorited their beer"})
+    if(favorite){
+        res.status(200).json({favorite, message:"User has favorited their beer"})
     }
     else{
         res.status(400).json({message:"User could not favorite their beer"})
@@ -67,30 +67,30 @@ router.post('/unfavoriteBeer', async(req, res) => {
     const db = getClient().db('AlcoholDatabase')
     const {_id, UserId} = req.body
     const BeerId = new ObjectId(_id)
-    const unfavorited = await db.collection('Beer').findOneAndUpdate({_id: BeerId}, {$pull: {Favorites: UserId,}}) //Removes UserId from array
-    if(unfavorited){
-        res.status(200).json({updateBeer, message:"User has unfavorited their beer"})
+    const unfavorite = await db.collection('Beer').findOneAndUpdate({_id: BeerId}, {$pull: {Favorites: UserId,}}) //Removes UserId from array
+    if(unfavorite){
+        res.status(200).json({unfavorite, message:"User has unfavorited their beer"})
     }
     else{
         res.status(400).json({message:"User could not unfavorite their beer"})
     }
 })
 
-//User can rate beer between one to five stars. The rating alongside User Id gets added to array
+//User can comment and add a star rating. The rating, comment, and User Id gets added to array.
 router.post('/rateBeer', async(req, res) => {
     const db = getClient().db('AlcoholDatabase')
-    const {_id, UserId, Stars} = req.body
+    const {_id, UserId, Stars, Comment} = req.body
     const BeerId = new ObjectId(_id)
 
     const updateRating = await db.collection('Beer').updateOne(  //Checks if User already rated beer. If rating already exists, the rating gets updated.
         { _id: BeerId, 'Ratings.UserId': UserId },
-        { $set: { 'Ratings.$.Rating': Stars } }
+        { $set: { 'Ratings.$.Rating': Stars, 'Ratings.$.Comment': Comment } }
     );
 
     if(updateRating.matchedCount == 0) { //If user has not rated the beer, it adds the User Id with their rating into the Ratings array.
         const addRating = await db.collection('Beer').updateOne(
             { _id: BeerId },
-            { $push: { Ratings: { UserId: UserId, Rating: Stars } } }
+            { $push: { Ratings: { UserId: UserId, Rating: Stars, Comment: Comment } } }
         )
         res.status(200).json({addRating, message:"User has added their rating."})
     }
