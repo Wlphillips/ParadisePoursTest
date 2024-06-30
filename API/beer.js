@@ -55,7 +55,7 @@ router.post('/favoriteBeer', async(req, res) => {
         { $push: { Favorites: UserId, } })
 
     if(favorited){
-        res.status(200).json({updateBeer, message:"User has favorited their beer"})
+        res.status(200).json({favorited, message:"User has favorited their beer"})
     }
     else{
         res.status(400).json({message:"User could not favorite their beer"})
