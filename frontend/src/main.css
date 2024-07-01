@@ -326,8 +326,7 @@
 }
 
 .loginContent {
-  position: relative;
-  height: 100vh;
+  height: 1075px;
   background-image: url('./images/Bar_pic.jpeg');
   background-size: cover; 
   background-repeat: no-repeat;
@@ -346,8 +345,17 @@
     padding: 40px;
     border-radius: 12px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-    width: 350px;
+    width: 100%;
+    max-width: 500px;
+    box-sizing: border-box;
     text-align: center;
+    margin-top: 20px;
+    min-height: 300px;    
+}
+
+.login-box.register {
+  min-height: 600px;
+  top: 88%;
 }
 
 .input-form {
@@ -395,7 +403,7 @@
   align-items: center;
   text-align: center;
   font-size: 24px;
-  margin: 95px 0;
+  margin: 100px 0;
   color: white;
   background-color: rgba(0, 0, 0, 0.5);
   padding: 10px 20px;
@@ -443,7 +451,7 @@
   border-radius: 25px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   padding: 0 8px;
   font-size: 20px;
   color: white;
@@ -481,6 +489,25 @@ input:checked + .slider:before {
 
 .register-label {
   margin-left: auto;
+}
+
+/* Media Queries */
+@media (min-width: 768px) {
+  .login-box {
+      width: 70%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .login-box {
+      width: 50%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .login-box {
+      width: 40%;
+  }
 }
 
 .wine-page{
