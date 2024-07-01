@@ -7,14 +7,16 @@ function LoginPage(){
 
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
+    const [firstName, setFirstName] = useState('');
+    const [lastName, setLastName] = useState('');
+    const [email, setEmail] = useState('');
+    const [phone, setPhone] = useState('');
+    const [isLogin, setIsLogin] = useState(true);
 
-    const formData = {
-        "Username": username,
-        "Password": password
-    }
+    const formData = isLogin ? { "Username": username, "Password": password } : { "FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone };
 
     async function loginButtonHandler(){
-        const resp = await fetch('http://localhost:5000/api/login', {
+        const resp = await fetch('http://localhost:3000/api/login', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -31,6 +33,10 @@ function LoginPage(){
         }
     }
 
+    const handleToggle = () => {
+        setIsLogin(!isLogin);
+    };
+
     return(
         <div className="login-page">
             <div className="loginContent">
@@ -38,18 +44,37 @@ function LoginPage(){
                 <div className="welcome-message">
                     Welcome to Paradise Pours - Your Ultimate Alcohol Database!
                 </div>
-                <div class = "login-box">
-                    <h1>Login / Register</h1>
-                    <div class = "input-form">
-                        <div class = "label">Username</div>
-                        <input class = "input-box" type="username" id="username" name="username" value={username} onChange={(e) => setUsername(e.target.value)} required/>
+                <div className={`login-box ${isLogin ? '' : 'register'}`}>
+                    <div className="toggle-container">
+                        <div className="switch-container">
+                            <label className="switch">
+                                <input type="checkbox" checked={!isLogin} onChange={handleToggle} />
+                                <span className="slider">
+                                    <span className="slider-label login-label">Login</span>
+                                    <span className="slider-label register-label">Register</span>
+                                </span>
+                            </label>
+                        </div>
                     </div>
                     <div class = "input-form">
-                        <div class = "label">Password</div>
-                        <input class = "input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required/>
+                        { !isLogin && (
+                            <>
+                                <div className="label">First Name</div>
+                                <input className="input-box" type="text" id="firstName" name="firstName" value={firstName} onChange={(e) => setFirstName(e.target.value)} required />
+                                <div className="label">Last Name</div>
+                                <input className="input-box" type="text" id="lastName" name="lastName" value={lastName} onChange={(e) => setLastName(e.target.value)} required />
+                                <div className="label">Email</div>
+                                <input className="input-box" type="email" id="email" name="email" value={email} onChange={(e) => setEmail(e.target.value)} required />
+                                <div className="label">Phone</div>
+                                <input className="input-box" type="tel" id="phone" name="phone" value={phone} onChange={(e) => setPhone(e.target.value)} required />
+                            </>
+                        )}
+                        <div className="label">Username</div>
+                        <input className="input-box" type="text" id="username" name="username" value={username} onChange={(e) => setUsername(e.target.value)} required />
+                        <div className="label">Password</div>
+                        <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
                     </div>
-                    <button type="button" onClick={loginButtonHandler} className="login-button">Login</button>
-                    <button type="button" className="register-button">Register</button>
+                    <button type="button" onClick={loginButtonHandler} className="login-button">{isLogin ? "Login" : "Register"}</button>
                 </div>
             </div>
         </div>

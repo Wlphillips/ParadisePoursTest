@@ -110,7 +110,7 @@
     height: 1075px;
     /*background-image: url('./images/Bar_pic.jpeg');*/
     background-image: url('./images/BlankBackgroundImage.jpg');
-    background-size: cover; 
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -326,60 +326,71 @@
 }
 
 .loginContent {
-  position: relative;
   height: 1075px;
   background-image: url('./images/Bar_pic.jpeg');
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center center;
+  display: flex;
+  flex-direction: column;
 }
 
 .login-box {
     position: absolute;
-    top: 50%;
+    top: 65%;
     left: 50%;
     transform: translate(-50%, -50%);
-    border: 10px solid #a0522d;
-    background-color: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 300px;
+    border: 2px solid #a0522d;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 500px;
+    box-sizing: border-box;
     text-align: center;
+    margin-top: 20px;
+    min-height: 300px;    
 }
 
-.login-box > h1{
-  margin-top: 0px;
+.login-box.register {
+  min-height: 600px;
+  top: 88%;
 }
 
 .input-form {
-    margin-bottom: 15px;
-    text-align: left;
+  margin-bottom: 20px;
+  text-align: left;
 }
 
 .label {
-    display: block;
-    margin-bottom: 5px;
+  display: block;
+  margin-bottom: 8px;
+  font-size: 20px;
+  color: #8b4513;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .input-box {
-    width: 100%;
-    padding: 8px;
-    box-sizing: border-box;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
 }
 
 .login-button, .register-button {
-    width: 100%;
-    padding: 10px;
-    margin-top: 10px;
-    border: none;
-    border-radius: 4px;
-    background-color: #a0522d;
-    color: white;
-    cursor: pointer;
-    font-size: 16px;
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  background-color: #a0522d;
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+  transition: background-color 0.3s;
 }
 
 .login-button:hover, .register-button:hover {
@@ -391,14 +402,112 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-size: 32px;
-  margin: 150px 400px;
+  font-size: 24px;
+  margin: 100px 0;
   color: white;
-  background-color: rgba(0, 0, 0, 0.5); 
-  padding: 10px 0px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px 20px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-  box-sizing: border-box;  
+  box-sizing: border-box;
+}
+
+.toggle-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-top: -20px;
+}
+
+.switch-container {
+  position: relative;
+  width: 180px;
+  height: 50px;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: .4s;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 8px;
+  font-size: 20px;
+  color: white;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 42px;
+  width: 50%;
+  left: 4px;
+  bottom: 4px;
+  background-color: #a0522d;
+  transition: .4s;
+  border-radius: 21px;
+}
+
+input:checked + .slider:before {
+  transform: translateX(80px);
+  background-color: #8b4513;
+}
+
+.slider-label {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  z-index: 1;
+  transition: .4s;
+  font-size: 20px; 
+}
+
+.login-label {
+  margin-right: auto;
+}
+
+.register-label {
+  margin-left: auto;
+}
+
+/* Media Queries */
+@media (min-width: 768px) {
+  .login-box {
+      width: 70%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .login-box {
+      width: 50%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .login-box {
+      width: 40%;
+  }
 }
 
 .wine-page{

@@ -32,7 +32,7 @@ router.post('/searchBeer', async(req, res) => {
     }
 })
 
-
+//Retrieves all Beers in the database
 router.get('/getAllBeers', async (req, res) => {
     const db = getClient().db('AlcoholDatabase'); // Replace with your database name
     const beers = await db.collection('Beer').find({}).toArray();
@@ -45,37 +45,83 @@ router.get('/getAllBeers', async (req, res) => {
     }
 });
 
-//Favorites/Unfavorites beer by inserting UserId with a boolean field called Favorite into the Beer's Favorites object array
-//Needs to be fixed. Correctly uploads user to the object array but cannot modify an existing user's Favorite yet.
+//User can favorite Beer by adding UserId to the Drink's Favorite array
 router.post('/favoriteBeer', async(req, res) => {
     const db = getClient().db('AlcoholDatabase')
-    const {UserId, BeerId} = req.body
-    const result = await db.collection('Beer').find(BeerId).toArray()
-    console.log(result[0])
-    const objectId = new ObjectId(BeerId)
-    
-    if(result.length > 0){
-        const beer = result[0]
-        const userIndex = beer.Favorites.findIndex(favorite => favorite.UserId == UserId) //Searches for user inside the Favorites array
+    const {_id, UserId} = req.body
+    const BeerId = new ObjectId(_id)
+    const favorite = await db.collection('Beer').updateOne( //Adds User Id to array
+        { _id: BeerId },
+        { $push: { Favorites: UserId, } })
 
-        if(userIndex != -1){
-            if(beer.Favorites[userIndex].Favorite == false){ //Favorites the drink if user already exists in the object array.
-                beer.Favorites[userIndex].Favorite = true
-                res.status(200).json(beer.Favorites[userIndex].Favorite)
-            }
-            else{ //Unfavorites the drink if user already exists in the object array.
-                beer.Favorites[userIndex].Favorite = false
-                res.status(200).json(beer.Favorites[userIndex].Favorite)
-            }
-        }
-        else{ //Adds user in the drink's object array and favorites
-            beer.Favorites.push({UserId: UserId, Favorite: true})
-            const updateResult = await db.collection('Beer').findOneAndUpdate({ _id: ObjectId },{ $push: { Favorites: beer.Favorites } })
-            res.status(200).json({beer})
-        }
-
+    if(favorite){
+        res.status(200).json({favorite, message:"User has favorited their beer"})
+    }
+    else{
+        res.status(400).json({message:"User could not favorite their beer"})
     }
 })
 
+//User can unfavorite Beer by deleting UserId from the Drink's Favorite array
+router.post('/unfavoriteBeer', async(req, res) => {
+    const db = getClient().db('AlcoholDatabase')
+    const {_id, UserId} = req.body
+    const BeerId = new ObjectId(_id)
+    const unfavorite = await db.collection('Beer').findOneAndUpdate({_id: BeerId}, {$pull: {Favorites: UserId,}}) //Removes UserId from array
+    if(unfavorite){
+        res.status(200).json({unfavorite, message:"User has unfavorited their beer"})
+    }
+    else{
+        res.status(400).json({message:"User could not unfavorite their beer"})
+    }
+})
+
+//User can comment and add a star rating. The rating, comment, and User Id gets added to array.
+router.post('/rateBeer', async(req, res) => {
+    const db = getClient().db('AlcoholDatabase')
+    const {_id, UserId, Stars, Comment} = req.body
+    const BeerId = new ObjectId(_id)
+
+    const updateRating = await db.collection('Beer').updateOne(  //Checks if User already rated beer. If rating already exists, the rating gets updated.
+        { _id: BeerId, 'Ratings.UserId': UserId },
+        { $set: { 'Ratings.$.Rating': Stars, 'Ratings.$.Comment': Comment } }
+    );
+
+    if(updateRating.matchedCount == 0) { //If user has not rated the beer, it adds the User Id with their rating into the Ratings array.
+        const addRating = await db.collection('Beer').updateOne(
+            { _id: BeerId },
+            { $push: { Ratings: { UserId: UserId, Rating: Stars, Comment: Comment } } }
+        )
+        res.status(200).json({addRating, message:"User has added their rating."})
+    }
+    else{
+        res.status(200).json({updateRating, message:"User has updated their rating."})
+    }
+})
+
+//Averages the total ratings users have given for a Beer
+router.get('/beerRatings', async(req, res) => {
+    const db = getClient().db('AlcoholDatabase')
+    const {_id} = req.body
+    const BeerId = new ObjectId(_id)
+
+    const result = await db.collection('Beer').aggregate([ //Using MongoDB aggregation, able to filter document to avg and only display ratings.
+        {$match: {_id: BeerId}},
+        {$unwind: "$Ratings"},
+        {$group: {
+            _id: "$_id",
+            avg: {$avg: "$Ratings.Rating"}
+        }}
+    ]).toArray()
+
+    if(result){
+        avgRating = result[0].avg
+        console.log(avgRating)
+        res.status(200).json({avgRating, message:"Beer's average rating has been calculated."})
+    }
+    else{
+        res.status(400).json({message:"Average rating could not be retrieved."})
+    }
+})
 
 module.exports = router
