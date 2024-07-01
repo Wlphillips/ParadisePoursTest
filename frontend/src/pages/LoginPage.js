@@ -2,6 +2,7 @@ import React from 'react';
 import LoginHeader from '../components/LoginHeader';
 import '../main.css';
 import { useState } from 'react';
+import axios from 'axios';
 
 function LoginPage(){
 
@@ -13,18 +14,25 @@ function LoginPage(){
     const [phone, setPhone] = useState('');
     const [isLogin, setIsLogin] = useState(true);
 
-    const formData = isLogin ? { "Username": username, "Password": password } : { "FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone };
+    const loginData = {"Username": username, "Password": password};
+
+    const registerData = {"FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone};
+
+    // const formData = isLogin ? { "Username": username, "Password": password } : { "FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone };
 
     async function loginButtonHandler(){
-        const resp = await fetch('http://localhost:3000/api/login', {
-            method: 'POST',
+        const resp = await axios.post('http://localhost:5000/api/login', {
+            Username: username,
+            Password: password
+        }, {
             headers: {
                 'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(formData)
+            }
         });
 
-        if(resp.ok){
+        console.log(resp);
+
+        if(resp.status === 200){
             console.log("Login Successful: ", resp);
             window.location.href = '/homepage';
         }
