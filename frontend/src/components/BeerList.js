@@ -7,21 +7,19 @@ import DisplayBeer from './DisplayBeer.js';
 
 
 const BeerList = ({switchComponents}) => {
-    const [beers, setBeers] = useState('[]');
+    const [beers, setBeers] = useState([]);
     const [selectedBeer, setSelectedBeer] = useState(null);
     const [showDisplayBeer, setShowDisplayBeer] = useState(false);
+    const [searchResults, setSearchResults] = useState([]);
 
-    function compareFn(a, b){
-        if(a < b){
-            return -1;
-        }
-        else if(a > b){
-            return 1;
-        }
-        else{
-            return 0;
-        }
-    }
+    useEffect(() => {
+        // This effect will run whenever searchResults changes
+        console.log(searchResults);
+    }, [searchResults]);
+
+    // useEffect(() => {
+
+    // }, [beers]);
 
     useEffect(() => {
         async function fetchAllBeers(){
@@ -44,7 +42,51 @@ const BeerList = ({switchComponents}) => {
         setShowDisplayBeer(true);
     };
 
-    
+    const [text, setText] = useState('');
+    const [validSearch, setValidSearch] = useState(true);
+
+    const handleBlur = () => {
+        if(text == ''){
+            document.getElementById('beer-search-bar').value = 'Search';
+        }
+    }
+
+    const handleFocus = () => {
+        console.log(beers);
+        if(text.length == 0){
+            document.getElementById('beer-search-bar').value = '';
+        }
+    }
+
+    async function handleSearch(){
+        document.getElementById('beer-search-bar').value = 'Search';
+
+        const resp = await axios.post('http://localhost:5000/api/searchBeer', {
+            Name: text
+        }, {
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        });
+
+        if(resp.status == 200){
+            setValidSearch(true);
+            // let searchData = resp.data;
+            setSearchResults(resp.data.beer);
+            setText('');
+        }
+        else{
+            setValidSearch(false);
+            setText('');
+        }
+    }
+
+    async function handleSearchBackButton(){
+        setSearchResults();
+        setValidSearch(true);
+        setShowDisplayBeer(!showDisplayBeer);
+    }
+
     return(
     <div class = "beer-list" id = "beerList">
         <div class = "beer-list-header">
@@ -52,15 +94,37 @@ const BeerList = ({switchComponents}) => {
                 <h1>————— Beer  List —————</h1>
                 <img src = {BeerMugsRight}></img>
         </div>
+        <div class = "search-and-filter">
+            <input id = "beer-search-bar" defaultValue = "Search" class = "search-bar" type="text" onChange={(e) => setText(e.target.value)} onBlur = {handleBlur} onFocus = {handleFocus}/>
+            <button class = "search-button" onClick = {handleSearch} >Search</button>
+        </div>
         <div class = "beer-list-content">
             <div class = "scrollable-box">
-                {Array.isArray(beers) && beers.map(beer => (
-                    <ul id="sortedList" class = "sorted-list" key={beer._id}>
-                        <li className="list-item" onClick={() => handleBeerClick(beer)}> {beer.Name} </li>
-                    </ul>
-                ))}
+                {/* <p>searchResults : {searchResults.data}<br></br>validSearch: {validSearch.value}</p> */}
+
+                {validSearch ? (searchResults.length === 0 ?
+                                    (Array.isArray(beers) && beers.map(beer => (
+                                        <ul id="sortedList" class = "sorted-list" key={beer._id}>
+                                            <li className="list-item" onClick={() => handleBeerClick(beer)}> {beer.Name} </li>
+                                        </ul>
+                ))) :
+                                    (Array.isArray(searchResults) && searchResults.map(beer => (
+                                        <ul id="sortedList" class = "sorted-list" key={beer._id}>
+                                            <li className="list-item" onClick={() => handleBeerClick(beer)}> {beer.Name} </li>
+                                        </ul>
+                                    )))) :
+                       (<div>
+                       <ul class = "sorted-list">
+                            <li className="no-matches-message" > No beers matched with the criteria <br></br><i class="bi bi-emoji-frown"></i> </li>
+                       </ul>
+                       <button class = "search-back-button" onClick = {handleSearchBackButton}><i class="bi bi-arrow-left"></i>Back</button>
+                       </div>)
+            }
+
+
+
             </div>
-            {showDisplayBeer && selectedBeer && (
+            {validSearch && showDisplayBeer && selectedBeer && (
                 <DisplayBeer beer={selectedBeer} />
             )}
         </div>
