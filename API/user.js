@@ -1,6 +1,6 @@
 const express = require('express');
 const {getClient} = require('../database');
-const {generateToken, authenticateUser} = require('../jwtUtils')
+const {generateToken} = require('../jwtUtils')
 const {randString, sendMail} = require('../emailUtils')
 const router = express.Router();
 
@@ -46,10 +46,8 @@ router.post('/login', async (req, res, next) => {
     const db = getClient().db('AlcoholDatabase')
     const { Username, Password } = req.body
     const results = await db.collection('Users').find({ Username:Username,Password:Password}).toArray()
-    var id = -1
-    var fn = ''
-    var ln = ''
-    
+    let user
+
     if( results.length > 0 && results[0].Verified) {
         user = results[0]
     }
