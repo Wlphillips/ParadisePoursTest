@@ -6,6 +6,8 @@ import BeerPage from './pages/BeerPage.js';
 import LiquorPage from './pages/LiquorPage.js';
 import WinePage from './pages/WinePage.js';
 import AboutUsPage from './pages/AboutUsPage.js'
+import VerifyEmailPage from './pages/VerifyEmailPage.js';
+import ChangePasswordPage from './pages/ChangePasswordPage.js';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
         <Route path="/liquor" element={<LiquorPage />}></Route>
         <Route path="/homepage" element={<HomePage />}></Route>
         <Route path="/about+us" element={<AboutUsPage />}> </Route>
+        <Route path="/verify/:uniqueString" element={<VerifyEmailPage /> }></Route>
+        <Route path="/changePassword/:uniqueString" element={<ChangePasswordPage /> }></Route>
       </Routes>
     </BrowserRouter>
   );
