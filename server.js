@@ -29,10 +29,6 @@ app.use((req, res, next) =>
 
 // Wrapper that connects to MongoDB using connectDatabase() import
 connectDatabase().then(() => {
-  // API Section
-  const userAPI = require('./API/user');
-  app.use('/api', userAPI); // To access user APIs, you would need to add '/api' before any route (i.e. /api/login)
-
   try{
     app.listen(5000); // Starts server on port 5000
   }
