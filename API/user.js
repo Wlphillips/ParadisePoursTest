@@ -1,7 +1,8 @@
 const express = require('express');
 const {getClient} = require('../database');
+const {generateToken, authenticateUser} = require('../jwtUtils')
+const {randString, sendMail} = require('../emailUtils')
 const router = express.Router();
-const nodemailer = require('nodemailer');
 
 //API Section
 // User Registration
@@ -36,8 +37,8 @@ router.post('/register', async (req, res, next) => {
     await db.collection('Users').insertOne(user)
     sendMail(Email, uniqueString, 1)
 
-    var ret = { UserId:nextUserId, FirstName:FirstName, LastName:LastName, 
-    Username:Username, Password:Password, Email:Email, Phone:Phone, Message:"User successfully registered. Verification email has been sent."}
+    var ret = {user, 
+                Message:"User successfully registered. Verification email has been sent."}
     res.status(201).json(ret)
 });
 
@@ -51,9 +52,7 @@ router.post('/login', async (req, res, next) => {
     var ln = ''
     
     if( results.length > 0 && results[0].Verified) {
-        id = results[0].UserId
-        fn = results[0].FirstName
-        ln = results[0].LastName
+        user = results[0]
     }
     else if(results.length > 0 && !results[0].Verified){
         return res.status(401).json({error:"Account has not been verified"}) 
@@ -61,10 +60,20 @@ router.post('/login', async (req, res, next) => {
     else{
         return res.status(404).json({error:"Invalid Username or Password"})
     }
-    
-    var ret = { UserId:id, FirstName:fn, LastName:ln, Message:"User successfully logged in"}
-    res.status(200).json(ret)
+
+    const token = generateToken(user.UserId)
+    var ret = {user, token, Message:"User successfully logged in"}
+    res.cookie('token', token, {
+        httpOnly: true,
+        secure: true,
+        sameSite: "none"
+    }).status(200).json(ret)
 })
+
+// Used to authenticate user
+router.get("/protected", authenticateUser, (req, res) => {
+    return res.json({ user: req.User });
+  });
 
 // User Verification - Verifies user in the database when they click email link.
 router.get('/verify/:uniqueString', async(req, res) => {
@@ -114,63 +123,5 @@ router.get('/changePassword/:uniqueString', async(req,res) => {
         return res.status(401).json({error:"Passwords do not match"})
     }
 })
-
-//Function Section
-//Generates a unique string used for the verification link
-const randString = () => {
-    const length = 10
-    let string = ''
-    for(let i = 0; i < length; i++){
-        const character = Math.floor((Math.random() * 10) + 1)
-        string += character
-    }
-
-    return string
-}
-
-//Sends verification or change password emails to user
-const sendMail = (Email, uniqueString, flag) => {
-    const Transport = nodemailer.createTransport({
-        service: 'gmail',
-        host: "smtp.gmail.com", //
-        port: 465,
-        secure: true,
-        auth: {
-            user: '', // Use your gmail username
-            pass: '' // Use an App Password, not your gmail password 
-                                        //(Manage Your Google Account -> Security -> 2-Step Verification -> App Passwords)
-        }
-    })
-
-    let mailOptions
-    if(flag == 1){
-        mailOptions = {
-            from: 'noreply@domain.com',  //Change later   
-            to: Email,
-            subject: "Email Confirmation",
-            html: `Press <a href=http://localhost:5000/api/verify/${uniqueString}> here </a> to verify your email.` //Links to the api/verify
-        }    
-    }
-    else{
-        mailOptions = {
-            from: 'noreply@domain.com',  //Change later   
-            to: Email,
-            subject: "Change Password",
-            html: `Press <a href=http://localhost:5000/api/changePassword/${uniqueString}> here </a> to change your password.` //Links to the api/changePassword
-        }      
-    }
-
-    console.log(mailOptions)
-    Transport.sendMail(mailOptions, function(error, res){
-        if(error){
-            console.log("Email was not sent.")
-            console.log(error)
-        }
-        else{
-            console.log("Email was sent.")
-        }
-    })
-
-}
 
 module.exports = router;
