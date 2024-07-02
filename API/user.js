@@ -37,8 +37,7 @@ router.post('/register', async (req, res, next) => {
     await db.collection('Users').insertOne(user)
     sendMail(Email, uniqueString, 1)
 
-    var ret = {user, 
-                Message:"User successfully registered. Verification email has been sent."}
+    var ret = {user, Message:"User successfully registered. Verification email has been sent."}
     res.status(201).json(ret)
 });
 
@@ -69,11 +68,6 @@ router.post('/login', async (req, res, next) => {
         sameSite: "none"
     }).status(200).json(ret)
 })
-
-// Used to authenticate user
-router.get("/protected", authenticateUser, (req, res) => {
-    return res.json({ user: req.User });
-  });
 
 // User Verification - Verifies user in the database when they click email link.
 router.get('/verify/:uniqueString', async(req, res) => {
