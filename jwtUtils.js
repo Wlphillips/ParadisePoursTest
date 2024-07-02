@@ -5,4 +5,4 @@ function generateToken(userId) {
     return jwt.sign({User: userId}, JWT_SECRET, {expiresIn: '1d'})
 }
 
-module.exports = {generateToken, authenticateUser}
+module.exports = {generateToken}
