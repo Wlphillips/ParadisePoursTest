@@ -20,8 +20,8 @@ const sendMail = (Email, uniqueString, flag) => {
         port: 465,
         secure: true,
         auth: {
-            user: '', // Use your gmail username
-            pass: ''  // Use an App Password, not your gmail password 
+            user: 'Menorca.Allen@gmail.com', // Use your gmail username
+            pass: 'ccjy gcdj ikkp oasa' // Use an App Password, not your gmail password 
                       //(Manage Your Google Account -> Security -> 2-Step Verification -> App Passwords)
         }
     })
@@ -32,7 +32,7 @@ const sendMail = (Email, uniqueString, flag) => {
             from: 'noreply@domain.com',  //Change later   
             to: Email,
             subject: "Email Confirmation",
-            html: `Press <a href=http://localhost:5000/api/verify/${uniqueString}> here </a> to verify your email.` //Links to the api/verify
+            html: `Press <a href=http://localhost:3000/verify/${uniqueString}> here </a> to verify your email.` //Links to the api/verify
         }    
     }
     else{
@@ -40,7 +40,7 @@ const sendMail = (Email, uniqueString, flag) => {
             from: 'noreply@domain.com',  //Change later   
             to: Email,
             subject: "Change Password",
-            html: `Press <a href=http://localhost:5000/api/changePassword/${uniqueString}> here </a> to change your password.` //Links to the api/changePassword
+            html: `Press <a href=http://localhost:3000/changePassword/${uniqueString}> here </a> to change your password.` //Links to the api/changePassword
         }      
     }
 
