@@ -37,6 +37,31 @@ function LoginPage(){
         }
     }
 
+    async function registerButtonHandler(){
+        const resp = await axios.post('http://localhost:5000/api/register', {
+            FirstName: formData.FirstName,
+            LastName: formData.LastName, 
+            Email: formData.Email, 
+            Phone: formData.Phone,
+            Username: formData.Username,
+            Password: formData.Password
+        }, {
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        });
+
+        console.log(resp);
+
+        if(resp.status === 201){
+            console.log("User Registered: ", resp);
+            window.location.href = '/';
+        }
+        else{
+            console.log("Sign up failed...");
+        }
+    }
+
     const handleToggle = () => {
         setIsLogin(!isLogin);
     };
@@ -78,7 +103,7 @@ function LoginPage(){
                         <div className="label">Password</div>
                         <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
                     </div>
-                    <button type="button" onClick={loginButtonHandler} className="login-button">{isLogin ? "Login" : "Register"}</button>
+                    <button type="button" onClick={isLogin ? loginButtonHandler : registerButtonHandler} className="login-button">{isLogin ? "Login" : "Register"}</button>
                 </div>
             </div>
         </div>
