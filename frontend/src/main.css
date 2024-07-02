@@ -110,7 +110,7 @@
     height: 1075px;
     /*background-image: url('./images/Bar_pic.jpeg');*/
     background-image: url('./images/BlankBackgroundImage.jpg');
-    background-size: cover;
+    background-size: cover; 
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -365,7 +365,7 @@
 
 .label {
   display: block;
-  margin-bottom: 8px;
+  margin-top: 8px;
   font-size: 20px;
   color: #8b4513;
   font-family: 'Ubuntu', sans-serif;
@@ -495,18 +495,44 @@ input:checked + .slider:before {
 @media (min-width: 768px) {
   .login-box {
       width: 70%;
+      top: 80%;
+  }
+  .login-box.register {
+    width: 60%;
+    top: 107%;
   }
 }
 
 @media (min-width: 1024px) {
   .login-box {
       width: 50%;
+      top: 65%;
+  }
+  .login-box.register {
+    width: 40%;
+    top: 88%;
   }
 }
 
 @media (min-width: 1200px) {
   .login-box {
       width: 40%;
+      top: 65%;
+  }
+  .login-box.register {
+    width: 40%;
+    top: 88%;
+  }
+}
+
+@media (min-width: 1600px) {
+  .login-box {
+      width: 40%;
+      top: 65%;
+  }
+  .login-box.register {
+    width: 40%;
+    top: 65%;
   }
 }
 
