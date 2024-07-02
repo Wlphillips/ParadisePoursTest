@@ -14,16 +14,12 @@ function LoginPage(){
     const [phone, setPhone] = useState('');
     const [isLogin, setIsLogin] = useState(true);
 
-    const loginData = {"Username": username, "Password": password};
-
-    const registerData = {"FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone};
-
-    // const formData = isLogin ? { "Username": username, "Password": password } : { "FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone };
+    const formData = isLogin ? { "Username": username, "Password": password } : { "FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone };
 
     async function loginButtonHandler(){
         const resp = await axios.post('http://localhost:5000/api/login', {
-            Username: username,
-            Password: password
+            Username: formData.Username,
+            Password: formData.Password
         }, {
             headers: {
                 'Content-Type': 'application/json'
