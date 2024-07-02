@@ -14,7 +14,7 @@ function Header(){
                 <Link to="/beer" className="beer menu-button">Beer</Link>
                 <Link to="/wine" className="wine menu-button">Wine</Link>
                 <Link to="/liquor" className="liquor menu-button">Liquor</Link>
-                <Link to="/" className="log menu-button">Login/Register</Link>
+                <Link to="/" className="log menu-button">Logout</Link>
             </div>
         </div>
     );
