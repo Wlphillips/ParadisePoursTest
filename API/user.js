@@ -72,6 +72,7 @@ router.get('/verify/:uniqueString', async(req, res) => {
     const db = getClient().db('AlcoholDatabase')
     const{uniqueString} = req.params
     const result = await db.collection('Users').updateOne({ uniqueString: uniqueString }, { $set: { Verified: true } })// Finds user using uniqueString then updates Verified to true
+    console.log(result)
     if(result){
         res.status(200).json({Message:"User has been successfully verified"})
     }
@@ -95,13 +96,24 @@ router.post('/recoverAccount', async(req, res) => {
     }
 })
 
-//Change Password - Requires the user to successfully input a new password and the same password again to confirm it
+//Used to help with getting the recover account webpage from email.
 router.get('/changePassword/:uniqueString', async(req,res) => {
+    const{uniqueString} = req.params
+    if(uniqueString){    
+            res.status(200).json({Message:"Directing user to change password"})
+        }
+    else{
+        return res.status(401).json({error:"Error with directing user"})
+    }
+})
+
+//Change Password - Requires the user to successfully input a new password and the same password again to confirm it
+router.post('/changePassword/:uniqueString', async(req,res) => {
     const db = getClient().db('AlcoholDatabase')
     
     const{uniqueString} = req.params
     const{newPassword, confirmPassword} = req.body
-
+    console.log(newPassword, confirmPassword)
     if(newPassword == confirmPassword){    
         const result = await db.collection('Users').updateOne({ uniqueString: uniqueString }, { $set: { Password: newPassword } })
         if(result){
