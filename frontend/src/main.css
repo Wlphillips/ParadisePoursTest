@@ -1,4 +1,4 @@
-.home-page {
+  .home-page {
     text-align: center;
   }
   
@@ -501,6 +501,10 @@ input:checked + .slider:before {
     width: 60%;
     top: 107%;
   }
+  .about-us{
+    left: 16%;
+    top: 15%;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -511,6 +515,10 @@ input:checked + .slider:before {
   .login-box.register {
     width: 40%;
     top: 88%;
+  }
+  .about-us{
+    left: 13%;
+    top: 25%;
   }
 }
 
@@ -523,6 +531,10 @@ input:checked + .slider:before {
     width: 40%;
     top: 88%;
   }
+  .about-us{
+    left: 10%;
+    top: 15%;
+  }
 }
 
 @media (min-width: 1600px) {
@@ -533,6 +545,10 @@ input:checked + .slider:before {
   .login-box.register {
     width: 40%;
     top: 65%;
+  }
+  .about-us{
+    left: 8%;
+    top: 25%;
   }
 }
 
