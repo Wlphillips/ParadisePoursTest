@@ -755,3 +755,15 @@ input:checked + .slider:before {
   position: relative;
   left: 5%;
 }
+
+.forgot-password {
+  display: block;
+  margin-top: 20px;
+  color: gray;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.forgot-password:hover {
+  color: brown;
+}

@@ -104,6 +104,7 @@ function LoginPage(){
                         <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
                     </div>
                     <button type="button" onClick={isLogin ? loginButtonHandler : registerButtonHandler} className="login-button">{isLogin ? "Login" : "Register"}</button>
+                    <a href="/changePassword/:uniqueString" class="forgot-password">{isLogin ? "Forgot Password?" : ""}</a>
                 </div>
             </div>
         </div>
