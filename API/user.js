@@ -73,7 +73,7 @@ router.get('/verify/:uniqueString', async(req, res) => {
     const{uniqueString} = req.params
     const result = await db.collection('Users').updateOne({ uniqueString: uniqueString }, { $set: { Verified: true } })// Finds user using uniqueString then updates Verified to true
     console.log(result)
-    if(result){
+    if(result.matchedCount > 0){
         res.status(200).json({Message:"User has been successfully verified"})
     }
     else{
@@ -87,7 +87,7 @@ router.post('/recoverAccount', async(req, res) => {
     const {Email} = req.body
     const uniqueString = randString()
     const result = await db.collection('Users').updateOne({ Email: Email }, { $set: { uniqueString: uniqueString } })
-    if(result){
+    if(result.matchedCount > 0){
         sendMail(Email, uniqueString, 2)
         res.status(200).json({Message:"Recovery email has been sent"})
     }
@@ -96,7 +96,7 @@ router.post('/recoverAccount', async(req, res) => {
     }
 })
 
-//Used to help with getting the recover account webpage from email.
+//Gets the change password page from email link
 router.get('/changePassword/:uniqueString', async(req,res) => {
     const{uniqueString} = req.params
     if(uniqueString){    
