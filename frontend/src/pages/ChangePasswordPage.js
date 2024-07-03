@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import axios from 'axios';
 import { useParams } from 'react-router-dom';
 import AboutUsHeader from '../components/AboutUsHeader';
@@ -20,7 +20,7 @@ const ChangePasswordPage = () =>{
             window.location.href='/'  
         }
         else if(response.status === 400){
-
+            console.log('Response:', response.data.Message);  
         }
     }
 
@@ -29,15 +29,16 @@ const ChangePasswordPage = () =>{
             <div className="loginContent">
                 <AboutUsHeader />
                 <div className="welcome-message">
-                    Account Recovery
+                    Recover Password
                 </div>
-                <div className={"login-box"}>
+                <div className="login-box">
                     <div class = "input-form">
+                        <div class="reset-message">Don't worry, it happens to the best of us! We got you!</div>
                         <div className="label">New Password</div>
                         <input className="input-box" type="password" id="new-password" name="new-password" value={newPassword} onChange={(e) => setNewPassword(e.target.value)} required />
                         <div className="label">Confirm Password</div>
                         <input className="input-box" type="password" id="confirm-password" name="confirm-password" value={confirmPassword} onChange={(e) => setConfirmPassword(e.target.value)} required />
-                        <button type="button" onClick={handleSubmit} className="login-button">Submit</button>
+                        <button type="button" onClick={handleSubmit} className="login-button">Reset Password</button>
                     </div>
                 </div>
             </div>
