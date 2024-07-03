@@ -21,7 +21,7 @@ const ForgotPassPage = () =>{
         }
 
         try {
-            const response = await axios.post('http://localhost:5000/api/recoverAccount', { email: email });
+            const response = await axios.post('http://localhost:5000/api/recoverAccount', { Email: email });
 
             if (response.status === 200) {
                 console.log('Response:', response.data.Message);
