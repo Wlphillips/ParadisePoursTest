@@ -8,6 +8,7 @@ import WinePage from './pages/WinePage.js';
 import AboutUsPage from './pages/AboutUsPage.js'
 import VerifyEmailPage from './pages/VerifyEmailPage.js';
 import ChangePasswordPage from './pages/ChangePasswordPage.js';
+import ForgotPassPage from './pages/ForgotPassPage.js';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/about+us" element={<AboutUsPage />}> </Route>
         <Route path="/verify/:uniqueString" element={<VerifyEmailPage /> }></Route>
         <Route path="/changePassword/:uniqueString" element={<ChangePasswordPage /> }></Route>
+        <Route path="/forgotPass" element={<ForgotPassPage /> }></Route>
       </Routes>
     </BrowserRouter>
   );
