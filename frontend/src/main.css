@@ -767,3 +767,35 @@ input:checked + .slider:before {
 .forgot-password:hover {
   color: brown;
 }
+
+.reset-message {
+  font-size: 1.05em;
+  color: #333;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #ffe9e9;
+  border: 1px solid #ffcccc;
+  border-radius: 5px;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.email-message {
+  font-size: 1.05em;
+  color: #333;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #ffe9e9;
+  border: 1px solid #ffcccc;
+  border-radius: 5px;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.email-error {
+  color: red;
+  display: none;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  margin-top: 10px;
+}
