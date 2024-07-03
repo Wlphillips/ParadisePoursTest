@@ -27,7 +27,7 @@ const sendMail = (Email, uniqueString, flag) => {
     })
 
     let mailOptions
-    if(flag == 1){
+    if(flag === 1){
         mailOptions = {
             from: 'noreply@domain.com',  //Change later   
             to: Email,
