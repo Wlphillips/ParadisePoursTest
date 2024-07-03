@@ -114,7 +114,7 @@ router.post('/changePassword/:uniqueString', async(req,res) => {
     const{uniqueString} = req.params
     const{newPassword, confirmPassword} = req.body
     console.log(newPassword, confirmPassword)
-    if(newPassword == confirmPassword){    
+    if(newPassword === confirmPassword){    
         const result = await db.collection('Users').updateOne({ uniqueString: uniqueString }, { $set: { Password: newPassword } })
         if(result){
             res.status(200).json({Message:"User has successfully changed their password"})
