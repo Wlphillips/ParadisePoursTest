@@ -158,6 +158,18 @@
     font-size: 36px;
   }
 
+  .link-git{
+    align-items: center;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 36px;
+  }
+
+  .link-git:hover{
+    color: #e3d61e;
+  }
+
   .about-us > p{
     font-weight: normal;
     line-height: 1.55;
