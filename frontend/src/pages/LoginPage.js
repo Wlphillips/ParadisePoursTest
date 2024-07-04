@@ -2,6 +2,7 @@ import axios from 'axios';
 import React, { useState } from 'react';
 import LoginHeader from '../components/LoginHeader';
 import '../main.css';
+import RegisterValidation from '../components/RegisterValidation';
 
 function LoginPage(){
 
@@ -13,15 +14,43 @@ function LoginPage(){
     const [phone, setPhone] = useState('');
     const [isLogin, setIsLogin] = useState(true);
     const [lastLoginAttempt, setLastLoginAttempt] = useState(true);
+    const [errorMessage, setErrorMessage] = useState('');
 
     const formData = isLogin ? { "Username": username, "Password": password } : { "FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone };
+
+    const validateForm = () => {
+        if (isLogin) {
+            if (!username || !password) {
+                setErrorMessage('All fields must be filled');
+                setLastLoginAttempt(true);
+                return false;
+            }
+        } else {
+            if (!firstName || !lastName || !username || !password || !email || !phone) {
+                setErrorMessage('All fields must be filled');
+                return false;
+            }
+        }
+        setErrorMessage('');
+        return true;
+    };
 
     async function loginButtonHandler(event){
         event.preventDefault(); // Prevent form from submitting
         const errorElement = document.getElementById('error');
+        const missFielderrorElement = document.getElementById('miss-field-error');
+
+        if (!validateForm()) {
+            missFielderrorElement.style.display = 'block';
+            errorElement.style.display = 'none';
+            return;
+        }else {
+            missFielderrorElement.style.display = 'none';
+        }
 
         if (lastLoginAttempt) {
             errorElement.style.display = 'block';
+            missFielderrorElement.style.display = 'none';
             return;
         } else {
             errorElement.style.display = 'none';
@@ -48,7 +77,17 @@ function LoginPage(){
         }
     }
 
-    async function registerButtonHandler(){
+    async function registerButtonHandler(event){
+        event.preventDefault(); // Prevent form from submitting
+        const missFielderrorElement = document.getElementById('miss-field-error');
+
+        if (!validateForm()) {
+            missFielderrorElement.style.display = 'block';
+            return;
+        }else {
+            missFielderrorElement.style.display = 'none';
+        }
+
         const resp = await axios.post('http://localhost:5000/api/register', {
             FirstName: formData.FirstName,
             LastName: formData.LastName, 
@@ -75,6 +114,9 @@ function LoginPage(){
 
     const handleToggle = () => {
         setIsLogin(!isLogin);
+        setErrorMessage(''); 
+        setLastLoginAttempt(true); 
+        document.getElementById('error').style.display = 'none';
     };
 
     return(
@@ -104,20 +146,50 @@ function LoginPage(){
                                 <div className="label">Last Name</div>
                                 <input className="input-box" type="text" id="lastName" name="lastName" value={lastName} onChange={(e) => setLastName(e.target.value)} required />
                                 <div className="label">Email</div>
-                                <input className="input-box" type="email" id="email" name="email" value={email} onChange={(e) => setEmail(e.target.value)} required />
+                                <input className="input-box" type="email" id="email" name="email" value={email} onChange={(e) => setEmail(e.target.value)} required pattern="^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$"/>
                                 <div className="label">Phone</div>
-                                <input className="input-box" type="tel" id="phone" name="phone" value={phone} onChange={(e) => setPhone(e.target.value)} required />
+                                <input className="input-box" type="tel" id="phone" name="phone" placeholder="XXX-XXX-XXXX" value={phone} onChange={(e) => setPhone(e.target.value)} required pattern="^[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4}$"/>
                             </>
                         )}
                         <div className="label">Username</div>
-                        <input className="input-box" type="text" id="username" name="username" value={username} onChange={(e) => setUsername(e.target.value)} required />
+                        <input className="input-box" type="text" id="username" name="username" value={username} onChange={(e) => setUsername(e.target.value)} required pattern="(?=.*[a-zA-Z])[a-zA-Z0-9-_]{3,18}$"/>
                         <div className="label">Password</div>
-                        <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
+                        <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required pattern="(?=.*\d)(?=.*[A-Za-z])(?=.*[!@#$%^&*]).{8,32}"/>
                     </div>
                     <button type="button" onClick={isLogin ? loginButtonHandler : registerButtonHandler} className="login-button">{isLogin ? "Login" : "Register"}</button>
+                    
+                    <div id="miss-field-error" className="login-error">{errorMessage}</div>
                     <div id="error" class="login-error">Incorrect username or password<br></br>Please try again!!</div>
                     <a href="/forgotPass" class="forgot-password">{isLogin ? "Forgot Password?" : ""}</a>
+
+                    {/* Username Criteria */}
+                    <div id="explanationUser" style={{ display: 'none' }}>
+                        { !isLogin && (
+                            <>
+                                <h3>Username must contain the following:</h3>
+                                <p id="userLett" className="invalid">At least one letter*</p>
+                                <p id="userLen" className="invalid">3 to 18 characters*</p>
+                                <h3> Username may contain the following: </h3>
+                                <p id="userNum" className="opt">Numbers</p>
+                                <p id="userUnd" className="opt">Underscores</p>
+                                <p id="userHyp" className="opt">Hyphens</p>
+                            </>
+                        )}    
+                    </div>
+                    {/* Password Criteria */}
+                    <div id="explanation" style={{ display: 'none' }}>
+                        { !isLogin && (
+                            <>
+                                <h3>Password must contain the following:</h3>
+                                <p id="passLen" className="invalid">8 to 32 characters*</p>
+                                <p id="passLett" className="invalid">At least one letter*</p>
+                                <p id="passNum" className="invalid">At least one number*</p>
+                                <p id="passSpec" className="invalid">At least one special character*</p>
+                            </>
+                        )}   
+                    </div>
                 </div>
+                {!isLogin && <RegisterValidation isLogin={isLogin} />}
             </div>
         </div>
     );

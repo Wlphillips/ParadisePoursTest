@@ -839,3 +839,15 @@ input:checked + .slider:before {
   font-family: 'Ubuntu', sans-serif;
   margin-top: 10px;
 }
+
+.valid {
+  color: green;
+}
+
+.invalid {
+  color: red;
+}
+
+.opt {
+  color: grey;
+}
