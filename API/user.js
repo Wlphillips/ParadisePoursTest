@@ -1,6 +1,6 @@
 const express = require('express');
 const {getClient} = require('../database');
-const {generateToken, authUser} = require('../jwtUtils')
+const {generateToken} = require('../jwtUtils')
 const {randString, sendMail} = require('../emailUtils')
 const router = express.Router();
 
@@ -58,23 +58,13 @@ router.post('/login', async (req, res, next) => {
         return res.status(404).json({error:"Invalid Username or Password"})
     }
 
-    const token = generateToken(user)
+    const token = generateToken(user.UserId)
     var ret = {user, token, Message:"User successfully logged in"}
     res.cookie('token', token, {
         httpOnly: true,
         secure: true,
         sameSite: "none"
     }).status(200).json(ret)
-})
-
-//Gets cookie from client, auths and then decodes token to get user, and then returns user to client.
-router.get('/user', async(req, res) => {
-    const token = req.cookies.token
-    console.log(token)
-    const user = authUser(token)
-    if(user){
-        res.send(user)
-    }
 })
 
 // User Verification - Verifies user in the database when they click email link.
