@@ -12,11 +12,21 @@ function LoginPage(){
     const [email, setEmail] = useState('');
     const [phone, setPhone] = useState('');
     const [isLogin, setIsLogin] = useState(true);
-    let lastLoginAttempt = true;
+    const [lastLoginAttempt, setLastLoginAttempt] = useState(true);
 
     const formData = isLogin ? { "Username": username, "Password": password } : { "FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone };
 
-    async function loginButtonHandler(){
+    async function loginButtonHandler(event){
+        event.preventDefault(); // Prevent form from submitting
+        const errorElement = document.getElementById('error');
+
+        if (lastLoginAttempt) {
+            errorElement.style.display = 'block';
+            return;
+        } else {
+            errorElement.style.display = 'none';
+        }
+
         try{
             const resp = await axios.post('http://localhost:5000/api/login', {
                 Username: formData.Username,
@@ -30,11 +40,11 @@ function LoginPage(){
             console.log(resp);
             console.log("Login Successful: ", resp);
             window.location.href = '/homepage';
-            lastLoginAttempt = true;
+            setLastLoginAttempt(true);
         }
         catch(error){
             console.log("Login failed...");
-            lastLoginAttempt = false;
+            setLastLoginAttempt(false);
         }
     }
 
@@ -105,10 +115,7 @@ function LoginPage(){
                         <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
                     </div>
                     <button type="button" onClick={isLogin ? loginButtonHandler : registerButtonHandler} className="login-button">{isLogin ? "Login" : "Register"}</button>
-
-                    {lastLoginAttempt ? null : <div>
-                                                <p class = "wrong-user-or-pass">Incorrect username or password<br></br>Please try again</p>
-                                            </div>}
+                    <div id="error" class="login-error">Incorrect username or password<br></br>Please try again!!</div>
                     <a href="/forgotPass" class="forgot-password">{isLogin ? "Forgot Password?" : ""}</a>
                 </div>
             </div>
