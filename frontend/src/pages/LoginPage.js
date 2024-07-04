@@ -1,8 +1,7 @@
-import React from 'react';
+import axios from 'axios';
+import React, { useState } from 'react';
 import LoginHeader from '../components/LoginHeader';
 import '../main.css';
-import { useState } from 'react';
-import axios from 'axios';
 
 function LoginPage(){
 
@@ -13,27 +12,29 @@ function LoginPage(){
     const [email, setEmail] = useState('');
     const [phone, setPhone] = useState('');
     const [isLogin, setIsLogin] = useState(true);
+    let lastLoginAttempt = true;
 
     const formData = isLogin ? { "Username": username, "Password": password } : { "FirstName": firstName, "LastName": lastName, "Username": username, "Password": password, "Email": email, "Phone": phone };
 
     async function loginButtonHandler(){
-        const resp = await axios.post('http://localhost:5000/api/login', {
-            Username: formData.Username,
-            Password: formData.Password
-        }, {
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        });
+        try{
+            const resp = await axios.post('http://localhost:5000/api/login', {
+                Username: formData.Username,
+                Password: formData.Password
+            }, {
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
 
-        console.log(resp);
-
-        if(resp.status === 200){
+            console.log(resp);
             console.log("Login Successful: ", resp);
             window.location.href = '/homepage';
+            lastLoginAttempt = true;
         }
-        else{
+        catch(error){
             console.log("Login failed...");
+            lastLoginAttempt = false;
         }
     }
 
@@ -104,6 +105,10 @@ function LoginPage(){
                         <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
                     </div>
                     <button type="button" onClick={isLogin ? loginButtonHandler : registerButtonHandler} className="login-button">{isLogin ? "Login" : "Register"}</button>
+
+                    {lastLoginAttempt ? null : <div>
+                                                <p class = "wrong-user-or-pass">Incorrect username or password<br></br>Please try again</p>
+                                            </div>}
                     <a href="/forgotPass" class="forgot-password">{isLogin ? "Forgot Password?" : ""}</a>
                 </div>
             </div>

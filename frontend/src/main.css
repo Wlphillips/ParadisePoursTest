@@ -831,3 +831,7 @@ input:checked + .slider:before {
   font-family: 'Ubuntu', sans-serif;
   margin-top: 10px;
 }
+
+.wrong-user-or-pass{
+  text-decoration-color: red;
+}
