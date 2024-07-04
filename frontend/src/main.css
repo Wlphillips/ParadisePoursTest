@@ -66,6 +66,18 @@
     color: #b01e4c;
   }
 
+  .wine-icon {
+    margin-right: 5px;
+  }
+
+  .cocktail-icon {
+    margin-right: 5px;
+  }
+
+  .logout-icon {
+    margin-right: 5px;
+  }
+
   .login-header {
     display: flex;
     justify-content: space-between;
@@ -616,6 +628,10 @@ input:checked + .slider:before {
   text-decoration: underline;
   /* color: #a0522d; */
   color: #c25f0e;
+}
+
+.beer-icon {
+  margin-right: 5px;
 }
 
 .beer-list{
