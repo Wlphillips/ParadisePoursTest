@@ -94,6 +94,10 @@
     /* color: #a0522d; */
     color: #913704;
   }
+
+  .about-us-icon {
+    margin-right: 5px;
+}
   
   .logo-img {
     position: absolute;
