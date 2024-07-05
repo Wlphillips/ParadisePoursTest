@@ -1,6 +1,6 @@
 const express = require('express');
 const {getClient} = require('../database');
-const {generateToken} = require('../jwtUtils')
+const {generateAccessToken, generateRefreshToken, authUser} = require('../jwtUtils')
 const {randString, sendMail} = require('../emailUtils')
 const router = express.Router();
 
@@ -58,13 +58,47 @@ router.post('/login', async (req, res, next) => {
         return res.status(404).json({error:"Invalid Username or Password"})
     }
 
-    const token = generateToken(user.UserId)
-    var ret = {user, token, Message:"User successfully logged in"}
-    res.cookie('token', token, {
+    const accessToken = generateAccessToken(user) //Access Token contains ALL user information. Expires in 15 mins.
+    const refreshToken = generateRefreshToken(user.UserId) //Refresh Tokenc contains only User ID. Expires in 1 day.
+    var ret = {Message:"User successfully logged in"}
+
+    //Sends Access and Refresh Tokens as cookies
+    res.cookie('accessToken', accessToken, {
+        httpOnly: true,
+        secure: true,
+        sameSite: "none"
+    })
+    res.cookie('refreshToken', refreshToken, {
         httpOnly: true,
         secure: true,
         sameSite: "none"
     }).status(200).json(ret)
+})
+
+//Retrieves user by decoding user information from access token
+router.get('/user', authUser, async(req, res) => {
+    try{
+        res.status(200).json({User:req.user, Message:"User has been retrieved."})
+    }
+    catch (error){
+        res.status(401).json({error:"Unable to retrieved user."})
+    }
+})
+
+//Logout user by removing the token cookies from the browser
+router.post('/logout', (req, res) => {
+    res.clearCookie('accessToken', { 
+        httpOnly: true, 
+        secure: true, 
+        sameSite: 'none' 
+    })
+    res.clearCookie('refreshToken', { 
+        httpOnly: true, 
+        secure: true, 
+        sameSite: 'none' 
+    })
+
+    res.status(200).json({ message: 'Logout successful.' })
 })
 
 // User Verification - Verifies user in the database when they click email link.
