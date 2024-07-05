@@ -48,7 +48,7 @@ function LoginPage(){
             missFielderrorElement.style.display = 'none';
         }
 
-        if (lastLoginAttempt) {
+        if (!lastLoginAttempt) {
             errorElement.style.display = 'block';
             missFielderrorElement.style.display = 'none';
             return;
@@ -74,6 +74,9 @@ function LoginPage(){
         catch(error){
             console.log("Login failed...");
             setLastLoginAttempt(false);
+            errorElement.style.display = 'block';
+            missFielderrorElement.style.display = 'none';
+            return;
         }
     }
 
