@@ -3,10 +3,10 @@ import React, { useState, useEffect } from 'react';
 
 function WinePage(){
     return(
-        <div class ="wine-page">
-            <div class = "wine-content">
+        <div className ="wine-page">
+            <div className = "wine-content">
                 <WineHeader />
-                <div class = "wine-box">
+                <div className = "wine-box">
                     <h1>Wine</h1>
                 </div>
             </div>

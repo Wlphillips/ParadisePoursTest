@@ -142,7 +142,7 @@ function LoginPage(){
                             </label>
                         </div>
                     </div>
-                    <div class = "input-form">
+                    <div className = "input-form">
                         { !isLogin && (
                             <>
                                 <div className="label">First Name</div>
@@ -172,8 +172,8 @@ function LoginPage(){
                     <button type="button" onClick={isLogin ? loginButtonHandler : registerButtonHandler} className="login-button">{isLogin ? "Login" : "Register"}</button>
                     
                     <div id="miss-field-error" className="login-error">{errorMessage}</div>
-                    <div id="error" class="login-error">Incorrect username or password<br></br>Please try again!!</div>
-                    <a href="/forgotPass" class="forgot-password">{isLogin ? "Forgot Password?" : ""}</a>
+                    <div id="error" className="login-error">Incorrect username or password<br></br>Please try again!!</div>
+                    <a href="/forgotPass" className="forgot-password">{isLogin ? "Forgot Password?" : ""}</a>
 
                     {/* Username Criteria */}
                     <div id="explanationUser" style={{ display: 'none' }}>

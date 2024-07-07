@@ -6,7 +6,7 @@ function LiquorPage(){
         <div className ="liquor-page">
             <div className = "liquor-content">
                 <LiquorHeader />
-                <div class = "liquor-box">
+                <div className = "liquor-box">
                     <h1>Liquor</h1>
                 </div>
             </div>

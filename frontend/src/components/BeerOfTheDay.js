@@ -63,7 +63,7 @@ const BeerOfTheDay = ({switchComponents}) => {
     }, []);
 
     return(
-        <div class = "beer-of-the-day" id = "BOTD">
+        <div className = "beer-of-the-day" id = "BOTD">
             <div>
                 <img src = {BeerMugsLeft}></img>
                 <h1>——— Beer of the Day ———</h1>
@@ -74,21 +74,21 @@ const BeerOfTheDay = ({switchComponents}) => {
                     <div className="botd-nutri-values">
                         <h2>Name: {officialBeerOfTheDay.Name}</h2>
                         <div className="grid">
-                            <div className="grid-item"><h1 class = "grid-header">Company:</h1><br />{officialBeerOfTheDay.Company}</div>
+                            <div className="grid-item"><h1 className = "grid-header">Company:</h1><br />{officialBeerOfTheDay.Company}</div>
 
-                            <div className="grid-item"><h1 class = "grid-header">Style:</h1><br />{officialBeerOfTheDay.Style}</div>
+                            <div className="grid-item"><h1 className = "grid-header">Style:</h1><br />{officialBeerOfTheDay.Style}</div>
 
-                            <div className="grid-item"><h1 class = "grid-header">ABV:</h1><br />{officialBeerOfTheDay.ABV}</div>
+                            <div className="grid-item"><h1 className = "grid-header">ABV:</h1><br />{officialBeerOfTheDay.ABV}</div>
 
-                            <div className="grid-item"><h1 class = "grid-header">Calories:</h1><br />{officialBeerOfTheDay.Calories}</div>
+                            <div className="grid-item"><h1 className = "grid-header">Calories:</h1><br />{officialBeerOfTheDay.Calories}</div>
 
-                            <div className="grid-item"><h1 class = "grid-header">Origin:</h1><br />{officialBeerOfTheDay.Origin}</div>
+                            <div className="grid-item"><h1 className = "grid-header">Origin:</h1><br />{officialBeerOfTheDay.Origin}</div>
 
-                            <div className="grid-item"><h1 class = "grid-header">Favorite?</h1><br />{officialBeerOfTheDay.Favorite ? <i className = "bi bi-heart-fill fav-icon"></i> : <i className = "bi bi-heart fav-icon"></i>}</div>
+                            <div className="grid-item"><h1 className = "grid-header">Favorite?</h1><br />{officialBeerOfTheDay.Favorite ? <i className = "bi bi-heart-fill fav-icon"></i> : <i className = "bi bi-heart fav-icon"></i>}</div>
                         </div>
                     </div>
                 )}
-                <button onClick={switchComponents} class = "beer-list-button">Full beer list<i class="bi bi-arrow-right"></i></button>
+                <button onClick={switchComponents} className = "beer-list-button">Full beer list<i className="bi bi-arrow-right"></i></button>
             </div>
         </div>
     );

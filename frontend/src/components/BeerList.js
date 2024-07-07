@@ -88,36 +88,36 @@ const BeerList = ({switchComponents}) => {
     }
 
     return(
-    <div class = "beer-list" id = "beerList">
-        <div class = "beer-list-header">
+    <div className = "beer-list" id = "beerList">
+        <div className = "beer-list-header">
                 <img src = {BeerMugsLeft}></img>
                 <h1>————— Beer  List —————</h1>
                 <img src = {BeerMugsRight}></img>
         </div>
-        <div class = "search-and-filter">
-            <input id = "beer-search-bar" defaultValue = "Search" class = "search-bar" type="text" onChange={(e) => setText(e.target.value)} onBlur = {handleBlur} onFocus = {handleFocus}/>
-            <button class = "search-button" onClick = {handleSearch} >Search</button>
+        <div className = "search-and-filter">
+            <input id = "beer-search-bar" defaultValue = "Search" className = "search-bar" type="text" onChange={(e) => setText(e.target.value)} onBlur = {handleBlur} onFocus = {handleFocus}/>
+            <button className = "search-button" onClick = {handleSearch} >Search</button>
         </div>
-        <div class = "beer-list-content">
-            <div class = "scrollable-box">
+        <div className = "beer-list-content">
+            <div className = "scrollable-box">
                 {/* <p>searchResults : {searchResults.data}<br></br>validSearch: {validSearch.value}</p> */}
 
                 {validSearch ? (searchResults.length === 0 ?
                                     (Array.isArray(beers) && beers.map(beer => (
-                                        <ul id="sortedList" class = "sorted-list" key={beer._id}>
+                                        <ul id="sortedList" className = "sorted-list" key={beer._id}>
                                             <li className="list-item" onClick={() => handleBeerClick(beer)}> {beer.Name} </li>
                                         </ul>
                 ))) :
                                     (Array.isArray(searchResults) && searchResults.map(beer => (
-                                        <ul id="sortedList" class = "sorted-list" key={beer._id}>
+                                        <ul id="sortedList" className = "sorted-list" key={beer._id}>
                                             <li className="list-item" onClick={() => handleBeerClick(beer)}> {beer.Name} </li>
                                         </ul>
                                     )))) :
                        (<div>
-                       <ul class = "sorted-list">
-                            <li className="no-matches-message" > No beers matched with the criteria <br></br><i class="bi bi-emoji-frown"></i> </li>
+                       <ul className = "sorted-list">
+                            <li className="no-matches-message" > No beers matched with the criteria <br></br><i className="bi bi-emoji-frown"></i> </li>
                        </ul>
-                       <button class = "search-back-button" onClick = {handleSearchBackButton}><i class="bi bi-arrow-left"></i>Back</button>
+                       <button className = "search-back-button" onClick = {handleSearchBackButton}><i className="bi bi-arrow-left"></i>Back</button>
                        </div>)
             }
 
@@ -129,7 +129,7 @@ const BeerList = ({switchComponents}) => {
             )}
         </div>
 
-        <button onClick={switchComponents} class = "beer-list-button"><i class="bi bi-arrow-left"></i>Back</button>
+        <button onClick={switchComponents} className = "beer-list-button"><i className="bi bi-arrow-left"></i>Back</button>
     </div>
     );
 }
