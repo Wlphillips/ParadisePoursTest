@@ -116,10 +116,11 @@ function LoginPage(){
     }
 
     const handleToggle = () => {
-        setIsLogin(!isLogin);
+        setIsLogin((prevIsLogin) => !prevIsLogin);
         setErrorMessage(''); 
         setLastLoginAttempt(true); 
         document.getElementById('error').style.display = 'none';
+        
     };
 
     return(
@@ -152,12 +153,21 @@ function LoginPage(){
                                 <input className="input-box" type="email" id="email" name="email" value={email} onChange={(e) => setEmail(e.target.value)} required pattern="^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$"/>
                                 <div className="label">Phone</div>
                                 <input className="input-box" type="tel" id="phone" name="phone" placeholder="XXX-XXX-XXXX" value={phone} onChange={(e) => setPhone(e.target.value)} required pattern="^[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4}$"/>
+                                <div className="label">Username</div>
+                                <input className="input-box" type="text" id="username" name="username" value={username} onChange={(e) => setUsername(e.target.value)} required pattern="(?=.*[a-zA-Z])[a-zA-Z0-9-_]{3,18}$"/>
+                                <div className="label">Password</div>
+                                <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required pattern="(?=.*\d)(?=.*[A-Za-z])(?=.*[!@#$%^&*]).{8,32}"/>
                             </>
                         )}
-                        <div className="label">Username</div>
-                        <input className="input-box" type="text" id="username" name="username" value={username} onChange={(e) => setUsername(e.target.value)} required pattern="(?=.*[a-zA-Z])[a-zA-Z0-9-_]{3,18}$"/>
-                        <div className="label">Password</div>
-                        <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required pattern="(?=.*\d)(?=.*[A-Za-z])(?=.*[!@#$%^&*]).{8,32}"/>
+                        { isLogin && (
+                            <>                            
+                                <div className="label">Username</div>
+                                <input className="input-box" type="text" id="username" name="username" value={username} onChange={(e) => setUsername(e.target.value)} required pattern="(?=.*[a-zA-Z])[a-zA-Z0-9-_]{3,18}$"/>
+                                <div className="label">Password</div>
+                                <input className="input-box" type="password" id="password" name="password" value={password} onChange={(e) => setPassword(e.target.value)} required pattern="(?=.*\d)(?=.*[A-Za-z])(?=.*[!@#$%^&*]).{8,32}"/>
+                            </>
+                        )}
+                        
                     </div>
                     <button type="button" onClick={isLogin ? loginButtonHandler : registerButtonHandler} className="login-button">{isLogin ? "Login" : "Register"}</button>
                     
