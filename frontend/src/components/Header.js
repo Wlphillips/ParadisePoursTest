@@ -10,9 +10,9 @@ function Header(){
     return(
         <div className="header">
             <div>
-                <Link to="/homepage"><img src={logoImage} alt="Paradise Pours Logo" class="logo-img"></img></Link>
+                <Link to="/homepage"><img src={logoImage} alt="Paradise Pours Logo" className="logo-img"></img></Link>
             </div>
-            <div class="menu">
+            <div className="menu">
                 <Link to="/beer" className="beer menu-button"><FontAwesomeIcon icon={faBeer} className="beer-icon" />Beer</Link>
                 <Link to="/wine" className="wine menu-button"><FontAwesomeIcon icon={faWineGlassAlt} className="wine-icon" />Wine</Link>
                 <Link to="/liquor" className="liquor menu-button"><FontAwesomeIcon icon={faCocktail} className="cocktail-icon" />Liquor</Link>
