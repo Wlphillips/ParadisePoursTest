@@ -64,10 +64,10 @@ const BeerOfTheDay = ({switchComponents}) => {
 
     return(
         <div className = "beer-of-the-day" id = "BOTD">
-            <div>
-                <img src = {BeerMugsLeft}></img>
+            <div className = "beer-list-header">
+                <img src = {BeerMugsLeft} alt=""></img>
                 <h1>——— Beer of the Day ———</h1>
-                <img src = {BeerMugsRight}></img>
+                <img src = {BeerMugsRight} alt=""></img>
             </div>
             <div className="botd-content">
                 {officialBeerOfTheDay && (
@@ -88,8 +88,8 @@ const BeerOfTheDay = ({switchComponents}) => {
                         </div>
                     </div>
                 )}
-                <button onClick={switchComponents} className = "beer-list-button">Full beer list<i className="bi bi-arrow-right"></i></button>
             </div>
+            <button onClick={switchComponents} className = "beer-list-button">Explore Our Full Beer Selection</button>
         </div>
     );
 }

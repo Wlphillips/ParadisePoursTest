@@ -17,10 +17,6 @@ const BeerList = ({switchComponents}) => {
         console.log(searchResults);
     }, [searchResults]);
 
-    // useEffect(() => {
-
-    // }, [beers]);
-
     useEffect(() => {
         async function fetchAllBeers(){
             try {
@@ -46,14 +42,14 @@ const BeerList = ({switchComponents}) => {
     const [validSearch, setValidSearch] = useState(true);
 
     const handleBlur = () => {
-        if(text == ''){
+        if(text === ''){
             document.getElementById('beer-search-bar').value = 'Search';
         }
     }
 
     const handleFocus = () => {
         console.log(beers);
-        if(text.length == 0){
+        if(text.length === 0){
             document.getElementById('beer-search-bar').value = '';
         }
     }
@@ -69,7 +65,7 @@ const BeerList = ({switchComponents}) => {
             }
         });
 
-        if(resp.status == 200){
+        if(resp.status === 200){
             setValidSearch(true);
             // let searchData = resp.data;
             setSearchResults(resp.data.beer);
@@ -90,13 +86,15 @@ const BeerList = ({switchComponents}) => {
     return(
     <div className = "beer-list" id = "beerList">
         <div className = "beer-list-header">
-                <img src = {BeerMugsLeft}></img>
+                <img src = {BeerMugsLeft} alt=""></img>
                 <h1>————— Beer  List —————</h1>
-                <img src = {BeerMugsRight}></img>
+                <img src = {BeerMugsRight} alt=""></img>
         </div>
         <div className = "search-and-filter">
-            <input id = "beer-search-bar" defaultValue = "Search" className = "search-bar" type="text" onChange={(e) => setText(e.target.value)} onBlur = {handleBlur} onFocus = {handleFocus}/>
-            <button className = "search-button" onClick = {handleSearch} >Search</button>
+            <div className="search-container">
+                <input id="beer-search-bar" placeholder="Search" className="search-bar" type="text" onChange={(e) => setText(e.target.value)} onBlur={handleBlur} onFocus={handleFocus} />
+                <button className="search-button" onClick={handleSearch} ><i className="bi bi-search"></i></button>
+            </div>
         </div>
         <div className = "beer-list-content">
             <div className = "scrollable-box">
@@ -128,7 +126,6 @@ const BeerList = ({switchComponents}) => {
                 <DisplayBeer beer={selectedBeer} />
             )}
         </div>
-
         <button onClick={switchComponents} className = "beer-list-button"><i className="bi bi-arrow-left"></i>Back</button>
     </div>
     );
