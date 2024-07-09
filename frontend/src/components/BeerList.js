@@ -13,8 +13,6 @@ const BeerList = ({switchComponents}) => {
     const [searchResults, setSearchResults] = useState([]);
 
     useEffect(() => {
-        // This effect will run whenever searchResults changes
-        console.log(searchResults);
     }, [searchResults]);
 
     useEffect(() => {
@@ -48,8 +46,7 @@ const BeerList = ({switchComponents}) => {
     }
 
     const handleFocus = () => {
-        console.log(beers);
-        if(text.length === 0){
+        if(text == ''){
             document.getElementById('beer-search-bar').value = '';
         }
     }
@@ -57,31 +54,99 @@ const BeerList = ({switchComponents}) => {
     async function handleSearch(){
         document.getElementById('beer-search-bar').value = 'Search';
 
-        const resp = await axios.post('http://localhost:5000/api/searchBeer', {
-            Name: text
-        }, {
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        });
-
-        if(resp.status === 200){
+        try{
+            const resp = await axios.post('http://localhost:5000/api/searchBeer', {
+                Name: text
+            }, {
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+    
             setValidSearch(true);
-            // let searchData = resp.data;
+            setSearchResults([]);
             setSearchResults(resp.data.beer);
             setText('');
         }
-        else{
+        catch(error){
             setValidSearch(false);
             setText('');
+            console.log("Error handling search...");
         }
     }
 
     async function handleSearchBackButton(){
-        setSearchResults();
+        setSearchResults([]);
         setValidSearch(true);
         setShowDisplayBeer(!showDisplayBeer);
     }
+
+    const [filterSelection, setFilterSelection] = useState('');
+    const [filteredBeers, setFilteredBeers] = useState([]);
+
+    async function fetchAllBeers(){
+        try {
+            const response = await axios.get('http://localhost:5000/api/getAllBeers');
+            let beersData = response.data.beers;
+            return beersData;
+        }
+        catch(error){
+            console.log("Error fetching all beers: ", error);
+        }
+    }
+
+    useEffect(() => {
+        async function getList() {
+            const allBeers = await fetchAllBeers();
+    
+            //Change when we get the function to
+            //return the beers that the user has favorited
+            if (filterSelection === "fav") {
+
+            }
+            else if (filterSelection === "IPAs") {
+                setShowDisplayBeer(false);
+                const IPAsBeerFilter = allBeers.filter(beer => (beer.ABV >= 5.0) && (beer.ABV <= 7.5));
+                setValidSearch(true);
+                setSearchResults([]);
+                setSearchResults(IPAsBeerFilter);
+            }
+            else if(filterSelection === "DoubleIPAs"){
+                setShowDisplayBeer(false);
+                const doubleIPAsBeerFilter = allBeers.filter(beer => beer.ABV > 7.5);
+                setValidSearch(true);
+                setSearchResults([]);
+                setSearchResults(doubleIPAsBeerFilter);
+            }
+            else if (filterSelection === "calories") {
+                setShowDisplayBeer(false);
+                const caloriesBeerFilter = allBeers.filter(beer => beer.Calories < 125);
+                setValidSearch(true);
+                setSearchResults([]);
+                setSearchResults(caloriesBeerFilter);
+            }
+            else if (filterSelection === "origin") {
+                setShowDisplayBeer(false);
+                const originBeerFilter = allBeers.filter(beer => beer.Origin === "USA");
+                setValidSearch(true);
+                setSearchResults([]);
+                setSearchResults(originBeerFilter);
+            }
+            else {
+                setSearchResults([]);
+                setValidSearch(true);
+                setShowDisplayBeer(false);
+            }
+        }
+    
+        getList();
+    }, [filterSelection]);
+
+    const handleFilterChange = (event) =>{
+        const selection = event.target.value;
+        setFilterSelection(selection);
+    }
+
 
     return(
     <div className = "beer-list" id = "beerList">
@@ -95,6 +160,16 @@ const BeerList = ({switchComponents}) => {
                 <input id="beer-search-bar" placeholder="Search" className="search-bar" type="text" onChange={(e) => setText(e.target.value)} onBlur={handleBlur} onFocus={handleFocus} />
                 <button className="search-button" onClick={handleSearch} ><i className="bi bi-search"></i></button>
             </div>
+            <div className="filter-container">
+                <select className="filter-select" onChange={handleFilterChange}>
+                    <option value="">Filter</option>
+                    <option value="fav">Favorites</option>
+                    <option value="IPAs">IPAs</option>
+                    <option value="DoubleIPAs">Double IPAs (ABV &gt; 7.5)</option>
+                    <option value="calories">Calories &lt; 125</option>
+                    <option value="origin">Origin: USA</option>
+                </select>
+            </div>
         </div>
         <div className = "beer-list-content">
             <div className = "scrollable-box">
@@ -106,17 +181,22 @@ const BeerList = ({switchComponents}) => {
                                             <li className="list-item" onClick={() => handleBeerClick(beer)}> {beer.Name} </li>
                                         </ul>
                 ))) :
-                                    (Array.isArray(searchResults) && searchResults.map(beer => (
-                                        <ul id="sortedList" className = "sorted-list" key={beer._id}>
-                                            <li className="list-item" onClick={() => handleBeerClick(beer)}> {beer.Name} </li>
-                                        </ul>
-                                    )))) :
-                       (<div>
-                       <ul className = "sorted-list">
+                                    (Array.isArray(searchResults) &&
+                                        <>
+                                            {searchResults.map(beer => (
+                                                <ul id="sortedList" className = "sorted-list" key={beer._id}>
+                                                    <li className="list-item" onClick={() => handleBeerClick(beer)}> {beer.Name} </li>
+                                                </ul>
+                                            ))}
+                                            <button className = "search-back-button" onClick = {handleSearchBackButton}><i className="bi bi-arrow-left"></i>Back</button>
+                                        </>
+                                    )) :
+                        (<div>
+                        <ul className = "sorted-list">
                             <li className="no-matches-message" > No beers matched with the criteria <br></br><i className="bi bi-emoji-frown"></i> </li>
-                       </ul>
-                       <button className = "search-back-button" onClick = {handleSearchBackButton}><i className="bi bi-arrow-left"></i>Back</button>
-                       </div>)
+                        </ul>
+                        <button className = "search-back-button" onClick = {handleSearchBackButton}><i className="bi bi-arrow-left"></i>Back</button>
+                        </div>)
             }
 
 

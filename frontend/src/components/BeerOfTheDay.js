@@ -3,6 +3,7 @@ import axios from 'axios';
 import '../main.css';
 import BeerMugsLeft from '../images/beer-mugs-left.png';
 import BeerMugsRight from '../images/beer-mugs-right.png';
+import FavButton from './FavButton.js';
 
 const BeerOfTheDay = ({switchComponents}) => {
 
@@ -84,7 +85,7 @@ const BeerOfTheDay = ({switchComponents}) => {
 
                             <div className="grid-item"><h1 className = "grid-header">Origin:</h1><br />{officialBeerOfTheDay.Origin}</div>
 
-                            <div className="grid-item"><h1 className = "grid-header">Favorite?</h1><br />{officialBeerOfTheDay.Favorite ? <i className = "bi bi-heart-fill fav-icon"></i> : <i className = "bi bi-heart fav-icon"></i>}</div>
+                            {<FavButton beerName={officialBeerOfTheDay.Name} />}
                         </div>
                     </div>
                 )}
