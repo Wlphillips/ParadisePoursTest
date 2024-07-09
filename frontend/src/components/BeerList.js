@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import '../main.css';
+import '../css/BeerPage.css';
 import BeerMugsLeft from '../images/beer-mugs-left.png';
 import BeerMugsRight from '../images/beer-mugs-right.png';
 import axios from 'axios';
@@ -152,7 +153,7 @@ const BeerList = ({switchComponents}) => {
     <div className = "beer-list" id = "beerList">
         <div className = "beer-list-header">
                 <img src = {BeerMugsLeft} alt=""></img>
-                <h1>————— Beer  List —————</h1>
+                <h1> Beer List </h1>
                 <img src = {BeerMugsRight} alt=""></img>
         </div>
         <div className = "search-and-filter">

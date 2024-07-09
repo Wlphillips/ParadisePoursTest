@@ -67,7 +67,7 @@ const BeerOfTheDay = ({switchComponents}) => {
         <div className = "beer-of-the-day" id = "BOTD">
             <div className = "beer-list-header">
                 <img src = {BeerMugsLeft} alt=""></img>
-                <h1>——— Beer of the Day ———</h1>
+                <h1> Beer of the Day </h1>
                 <img src = {BeerMugsRight} alt=""></img>
             </div>
             <div className="botd-content">
